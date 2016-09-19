@@ -1,0 +1,3082 @@
+id;placeId;placeName;cityId;cityName;countryId;countryName
+3165;AAL-sky;Aalborg;AALB-sky;Aalborg;DK-sky;Denmark
+7299;AES-sky;Aalesund Vigra;AALE-sky;Aalesund;NO-sky;Norway
+547;AAR-sky;Aarhus;AARH-sky;Aarhus;DK-sky;Denmark
+9313;JEG-sky;Aasiaat;JEGA-sky;Aasiaat;GL-sky;Greenland
+3246;ABD-sky;Abadan;ABDA-sky;Abadan;IR-sky;Iran
+25961;ABA-sky;Abakan;ABAK-sky;Abakan;RU-sky;Russia
+6358;ABZ-sky;Aberdeen;ABER-sky;Aberdeen;UK-sky;United Kingdom
+6359;ABR-sky;Aberdeen;ABRA-sky;Aberdeen;US-sky;United States
+15371;AHB-sky;Abha;AHBA-sky;Abha;SA-sky;Saudi Arabia
+9386;ABI-sky;Abilene Municipal;ABIA-sky;Abilene;US-sky;United States
+10923;AZI-sky;Abu Dhabi Bateen;AUHA-sky;NULL;AE-sky;United Arab Emirates
+15373;ABS-sky;Abu Simbel;ABUS-sky;Abu Simbel;EG-sky;Egypt
+1288;ACD-sky;Acandi;ACDA-sky;NULL;CO-sky;Colombia
+26011;ACA-sky;Acapulco;ACAA-sky;Acapulco;MX-sky;Mexico
+5175;ACC-sky;Accra;ACCA-sky;Accra;GH-sky;Ghana
+26013;ACS-sky;Achinsk;ACHI-sky;NULL;RU-sky;Russia
+26012;ACU-sky;Achutupo;ACUA-sky;NULL;PA-sky;Panama
+9351;ADK-sky;Adak Island;ADKA-sky;Adak Island;US-sky;United States
+5098;ADA-sky;Adana;ADAN-sky;Adana;TR-sky;Turkey
+5099;UAB-sky;Adana-Incirlik Airbase;UABA-sky;NULL;TR-sky;Turkey
+1300;ADD-sky;Addis Ababa;ADDA-sky;Addis Ababa;ET-sky;Ethiopia
+15341;ADL-sky;Adelaide;ADLA-sky;Adelaide;AU-sky;Australia
+5101;ADE-sky;Aden;ADEA-sky;Aden;YE-sky;Yemen
+5170;ADF-sky;Adiyaman;ADFA-sky;Adiyaman;TR-sky;Turkey
+910;AGA-sky;Agadir;AGAD-sky;Agadir;MA-sky;Morocco
+16849;IXA-sky;Agartala;IIXA-sky;Agartala;IN-sky;India
+16841;AGX-sky;Agatti island;IAGX-sky;NULL;IN-sky;India
+9116;AGF-sky;Agen;AGEN-sky;Agen;FR-sky;France
+5176;AGR-sky;Agra;IAGR-sky;Agra;IN-sky;India
+5174;AJI-sky;Agri;AGRO-sky;Agri;TR-sky;Turkey
+16842;BQN-sky;Aguadilla;BQNA-sky;Aguadilla;PR-sky;Puerto Rico
+28915;AGU-sky;Aguascalientes;AGUA-sky;Aguascalientes;MX-sky;Mexico
+22966;AHE-sky;Ahe;AHEP-sky;Ahe;PF-sky;French Polynesia
+2705;AMD-sky;Ahmedabad;IAMD-sky;Ahmedabad;IN-sky;India
+3217;AWZ-sky;Ahwaz;AWZA-sky;Ahwaz;IR-sky;Iran
+4890;QXB-sky;Aix en Provence;AIXE-sky;NULL;FR-sky;France
+16857;AJL-sky;Aizawl;IAJL-sky;Aizawl;IN-sky;India
+7035;AJA-sky;Ajaccio;AJAC-sky;Ajaccio;FR-sky;France
+20969;AXT-sky;Akita;JAXT-sky;Akita;JP-sky;Japan
+292;CAK-sky;Akron / Canton Regional;AKRB-sky;Akron/Canton;US-sky;United States
+22788;AKU-sky;Aksu;CAKU-sky;Aksu;CN-sky;China
+20970;SCO-sky;Aktau;SCOA-sky;Aktau;KZ-sky;Kazakhstan
+23010;QCU-sky;Akunnaaq;QCUA-sky;Akunnaaq;GL-sky;Greenland
+5178;AKR-sky;Akure;AKRA-sky;NULL;NG-sky;Nigeria
+9597;KQA-sky;Akutan;KQAA-sky;Akutan;US-sky;United States
+2219;ULH-sky;Al `Ula;ALUL-sky;NULL;SA-sky;Saudi Arabia
+16317;AAN-sky;Al Ain;AANA-sky;Al Ain;AE-sky;United Arab Emirates
+4062;AAY-sky;Al Ghaydah;AAYA-sky;Al Ghaydah;YE-sky;Yemen
+13212;AHU-sky;Al Hoceima Charif Idr;ALHO-sky;Al Hoceima;MA-sky;Morocco
+22779;ABT-sky;Al-Baha;ABTA-sky;Al Baha;SA-sky;Saudi Arabia
+16806;HOF-sky;Alahsa;HOFA-sky;Hofuf;SA-sky;Saudi Arabia
+352;AUK-sky;Alakanuk;AUKA-sky;Alakanuk;US-sky;United States
+9050;ALS-sky;Alamosa;ALSA-sky;Alamosa;US-sky;United States
+762;ALB-sky;Albany;ALBA-sky;Albany;US-sky;United States
+763;ALH-sky;Albany;ALHA-sky;Albany;AU-sky;Australia
+312;ABY-sky;Albany Dougherty County;ABYA-sky;Albany;US-sky;United States
+764;ALL-sky;Albenga;ALBE-sky;NULL;IT-sky;Italy
+9504;ABQ-sky;Albuquerque;ABQA-sky;Albuquerque;US-sky;United States
+3166;ABX-sky;Albury;ABXA-sky;Albury;AU-sky;Australia
+10631;ADH-sky;Aldan;ALDA-sky;NULL;RU-sky;Russia
+6362;ACI-sky;Alderney;ALDE-sky;Alderney;UK-sky;United Kingdom
+353;WKK-sky;Aleknagik;WKKA-sky;Aleknagik;US-sky;United States
+1799;ALP-sky;Aleppo;ALPA-sky;Aleppo;SY-sky;Syria
+468;HBE-sky;Alexandria Borg El Arab;ALEX-sky;Alexandria;EG-sky;Egypt
+8944;AEX-sky;Alexandria Internation;AEXA-sky;Alexandria;US-sky;United States
+8946;AXD-sky;Alexandroupolis Dimokritos;ALEY-sky;Alexandroupolis;GR-sky;Greece
+903;AHO-sky;Alghero Sardinia;ALGS-sky;Alghero;IT-sky;Italy
+905;ALG-sky;Algiers;ALGA-sky;Algiers;DZ-sky;Algeria
+350;ALC-sky;Alicante;ALIC-sky;Alicante;ES-sky;Spain
+9777;ASP-sky;Alice Springs;ASPA-sky;Alice Springs;AU-sky;Australia
+16929;IXD-sky;Allahabad;IIXD-sky;Allahabad;IN-sky;India
+8853;ABE-sky;Allentown;ABEA-sky;Allentown;US-sky;United States
+9013;AIA-sky;Alliance;AIAA-sky;Alliance;US-sky;United States
+29179;LLU-sky;Alluitsup Paa;LLUA-sky;Alluitsup Paa;GL-sky;Greenland
+16805;ALA-sky;Almaty;ALAA-sky;Almaty;KZ-sky;Kazakhstan
+475;LEI-sky;Almeria;ALME-sky;Almeria;ES-sky;Spain
+1089;ARD-sky;Alor Island;ARDI-sky;NULL;ID-sky;Indonesia
+12848;AOR-sky;Alor Setar;AORM-sky;Alor Setar;MY-sky;Malaysia
+766;APN-sky;Alpena;APNA-sky;Alpena;US-sky;United States
+7363;ALF-sky;Alta;ALTA-sky;Alta;NO-sky;Norway
+7364;AFL-sky;Alta Floresta;AFLA-sky;Alta Floresta;BR-sky;Brazil
+7367;LTI-sky;Altai;LTIA-sky;Altai;MN-sky;Mongolia
+7366;ATM-sky;Altamira;ATMA-sky;NULL;BR-sky;Brazil
+7365;AAT-sky;Altay;CAAT-sky;Altay;CN-sky;China
+9128;ALU-sky;Alula;ALUA-sky;NULL;SO-sky;Somalia
+14791;AXJ-sky;Amakusa Airport;JAMX-sky;NULL;JP-sky;Japan
+17354;ASJ-sky;Amami O Shima;JASJ-sky;Amami;JP-sky;Japan
+9131;AMA-sky;Amarillo International;AMAA-sky;Amarillo;US-sky;United States
+29303;AMY-sky;Ambatomainty;AMYA-sky;Ambatomainty;MG-sky;Madagascar
+14792;AMQ-sky;Ambon;AMQI-sky;Ambon;ID-sky;Indonesia
+15113;AMV-sky;Amderma;AMDE-sky;Amderma;RU-sky;Russia
+1158;KAN-sky;Aminu Kano Intl;KANA-sky;Kano;NG-sky;Nigeria
+192;ADJ-sky;Amman Civil - Marka;AMMA-sky;Amman;JO-sky;Jordan
+14790;ATQ-sky;Amritsar;IATQ-sky;Amritsar;IN-sky;India
+1779;AMS-sky;Amsterdam;AMST-sky;Amsterdam;NL-sky;Netherlands
+664;AVA-sky;An Shun;CAVA-sky;NULL;CN-sky;China
+25823;DYR-sky;Anadyr;ANAD-sky;Anadyr;RU-sky;Russia
+21953;YAA-sky;Anahim Lake;YAAA-sky;Anahim Lake;CA-sky;Canada
+34751;AKP-sky;Anaktuvuk;AKPA-sky;Anaktuvuk;US-sky;United States
+12333;AAQ-sky;Anapa;ANAP-sky;Anapa;RU-sky;Russia
+7077;ANC-sky;Anchorage International;ANCA-sky;Anchorage;US-sky;United States
+10159;AOI-sky;Ancona;ANCO-sky;Ancona;IT-sky;Italy
+989;ANX-sky;Andenes;ANDE-sky;Andenes;NO-sky;Norway
+5119;ANE-sky;Angers;ANGE-sky;Angers;FR-sky;France
+777;VLY-sky;Anglesey;ANGA-sky;Anglesey;UK-sky;United Kingdom
+17726;YAX-sky;Angling Lake;YAXA-sky;Angling Lake;CA-sky;Canada
+10164;AGN-sky;Angoon;AGNA-sky;Angoon;US-sky;United States
+21112;ANI-sky;Aniak;ANIA-sky;Aniak;US-sky;United States
+22871;AJN-sky;Anjouan;AJNA-sky;NULL;KM-sky;Comoros
+2227;ESB-sky;Ankara Esenboga;ANKA-sky;Ankara;TR-sky;Turkey
+12335;AAE-sky;Annaba;AAEA-sky;Annaba;DZ-sky;Algeria
+5089;ANN-sky;Annette Island;ANNA-sky;NULL;US-sky;United States
+9401;ANB-sky;Anniston County Arpt;ANBA-sky;Anniston;US-sky;United States
+10163;AQG-sky;Anqing;CAQG-sky;Anqing;CN-sky;China
+22863;AOG-sky;Anshan;CAOG-sky;NULL;CN-sky;China
+773;HTY-sky;Antakya;HTYA-sky;Hatay;TR-sky;Turkey
+5087;ANM-sky;Antalaha;ANMA-sky;Antalaha;MG-sky;Madagascar
+5086;AYT-sky;Antalya;ANTA-sky;Antalya;TR-sky;Turkey
+985;TNR-sky;Antananarivo;TNRA-sky;Antananarivo;MG-sky;Madagascar
+2412;ANF-sky;Antofagasta;ANFA-sky;Antofagasta;CL-sky;Chile
+17106;DIE-sky;Antsiranana / Arrachart;DIEA-sky;Antsiranana;MG-sky;Madagascar
+4759;ANR-sky;Antwerp Deurne;ANTW-sky;Antwerp;BE-sky;Belgium
+3298;AOJ-sky;Aomori;JAOJ-sky;Aomori;JP-sky;Japan
+6360;APO-sky;Apartado;APOA-sky;Apartado;CO-sky;Colombia
+13334;APK-sky;Apataki;APKP-sky;NULL;PF-sky;French Polynesia
+9129;APW-sky;Apia Faleolo;APWW-sky;Apia;WS-sky;Samoa
+9323;ATW-sky;Appleton;ATWA-sky;Appleton;US-sky;United States
+12070;AQJ-sky;Aqaba;AQJA-sky;Aqaba;JO-sky;Jordan
+12150;AJU-sky;Aracaju;AJUA-sky;Aracaju;BR-sky;Brazil
+8899;ARU-sky;Aracatuba;ARUA-sky;Aracatuba;BR-sky;Brazil
+2614;ARW-sky;Arad;ARAD-sky;Arad;RO-sky;Romania
+800;AUX-sky;Araguaina;AUXA-sky;Araguaina;BR-sky;Brazil
+17107;RAE-sky;Arar;RAEA-sky;Arar;SA-sky;Saudi Arabia
+15533;RKA-sky;Aratika;RKAA-sky;Aratika;PF-sky;French Polynesia
+1015;AUC-sky;Arauca;AUCA-sky;Arauca;CO-sky;Colombia
+17161;AAX-sky;Araxa;AAXA-sky;Araxa;BR-sky;Brazil
+17159;GPA-sky;Araxos;ARAX-sky;Patrai;GR-sky;Greece
+470;AMH-sky;Arba Mintch;AMHA-sky;Arba Minch;ET-sky;Ethiopia
+8896;ACV-sky;Arcata;ACVA-sky;Arcata;US-sky;United States
+8900;YAB-sky;Arctic Bay;YABA-sky;NULL;CA-sky;Canada
+8898;ARC-sky;Arctic Village;ARCA-sky;Arctic Village;US-sky;United States
+3265;ADU-sky;Ardabil;ADUA-sky;Ardabil;IR-sky;Iran
+33393;AQP-sky;Arequipa;AQPA-sky;Arequipa;PE-sky;Peru
+12607;EFL-sky;Argostoli Kefallinia;ARGO-sky;Kefallinia;GR-sky;Greece
+12617;GYL-sky;Argyle;GYLA-sky;Argyle;AU-sky;Australia
+1014;ARI-sky;Arica;ARIA-sky;Arica;CL-sky;Chile
+799;ARH-sky;Arkhangelsk;ARKH-sky;Arkhangelsk;RU-sky;Russia
+780;AXM-sky;Armenia;AXMA-sky;Armenia;CO-sky;Colombia
+1007;RNA-sky;Arona;RNAA-sky;Arona;SB-sky;Solomon Islands
+188;ATC-sky;Arthur's Town;ATCA-sky;Arthur's Town;BS-sky;Bahamas
+9104;RUA-sky;Arua;RUAA-sky;Arua;UG-sky;Uganda
+15862;ARK-sky;Arusha;ARKA-sky;Arusha;TZ-sky;Tanzania
+2616;AXR-sky;Arutua;AXRP-sky;NULL;PF-sky;French Polynesia
+1340;YEK-sky;Arviat;YEKA-sky;Arviat;CA-sky;Canada
+1339;AJR-sky;Arvidsjaur;ARVI-sky;Arvidsjaur;SE-sky;Sweden
+17160;YIE-sky;Arxan Airport;ARXN-sky;NULL;CN-sky;China
+9281;ABB-sky;Asaba International Airport;ASAB-sky;NULL;NG-sky;Nigeria
+20974;AKJ-sky;Asahikawa;JAKJ-sky;Asahikawa;JP-sky;Japan
+11479;PGU-sky;Asaloyeh Persian Gulf International;YEHA-sky;NULL;IR-sky;Iran
+9503;AVL-sky;Asheville;AVLA-sky;Asheville;US-sky;United States
+24801;ASB-sky;Ashgabat;ASBA-sky;Ashgabat;TM-sky;Turkmenistan
+9297;HTS-sky;Ashland;HTSA-sky;Huntington;US-sky;United States
+4906;ASM-sky;Asmara;ASMA-sky;Asmara;ER-sky;Eritrea
+21779;ASO-sky;Asosa;ASOA-sky;Asosa;ET-sky;Ethiopia
+9280;ASE-sky;Aspen;ASEA-sky;Aspen;US-sky;United States
+285;TSE-sky;Astana;TSEA-sky;Astana;KZ-sky;Kazakhstan
+103;ASF-sky;Astrakhan;ASTR-sky;Astrakhan;RU-sky;Russia
+100;OVD-sky;Asturias;AVIL-sky;Asturias;ES-sky;Spain
+9625;JTY-sky;Astypalaia;ASTY-sky;Astypalaia Island;GR-sky;Greece
+24800;ASU-sky;Asuncion;ASUA-sky;Asuncion;PY-sky;Paraguay
+6421;ASW-sky;Aswan Daraw;ASWA-sky;Aswan;EG-sky;Egypt
+9353;AXK-sky;Ataq;AXKA-sky;Ataq;YE-sky;Yemen
+306;AHN-sky;Athens Ben Epps;AHNA-sky;Athens;US-sky;United States
+1744;ATH-sky;Athens International;ATHE-sky;Athens;GR-sky;Greece
+3139;AIU-sky;Atiu Island;AIUC-sky;Atiu Island;CK-sky;Cook Islands
+9352;AKB-sky;Atka;AKBA-sky;Atka;US-sky;United States
+303;ATL-sky;Atlanta Hartsfield-Jackson;ATLA-sky;Atlanta;US-sky;United States
+3138;ACY-sky;Atlantic City International;AIYA-sky;Atlantic City;US-sky;United States
+5104;AUQ-sky;Atuona;AUQP-sky;Hiva Oa;PF-sky;French Polynesia
+8839;AKL-sky;Auckland International;AKLN-sky;Auckland;NZ-sky;New Zealand
+13664;AGB-sky;Augsburg;AUGS-sky;Munich;DE-sky;Germany
+6379;AUG-sky;Augusta;AUGA-sky;Augusta;US-sky;United States
+305;AGS-sky;Augusta Bush Field;AGSA-sky;Augusta;US-sky;United States
+13665;IXU-sky;Aurangabad;IIXU-sky;Aurangabad;IN-sky;India
+9044;AUR-sky;Aurillac Tronquiere;AURI-sky;Aurillac;FR-sky;France
+3605;AUU-sky;Aurukun Mission;AUUA-sky;Aurukun;AU-sky;Australia
+284;AUS-sky;Austin-Bergstrom;AUSA-sky;Austin;US-sky;United States
+25426;AVN-sky;Avignon;AVIG-sky;Avignon;FR-sky;France
+21735;AXU-sky;Axum;AXUA-sky;Axum;ET-sky;Ethiopia
+3151;AYQ-sky;Ayers Rock;AYQA-sky;Ayers Rock;AU-sky;Australia
+14517;YUS-sky;Ba Tong;BTON-sky;NULL;CN-sky;China
+6774;BCM-sky;Bacau International;BACA-sky;Bacau;RO-sky;Romania
+6775;BCD-sky;Bacolod-Silay;BCDP-sky;Bacolod;PH-sky;Philippines
+477;BJZ-sky;Badajoz Talaveral;BADA-sky;Badajoz;ES-sky;Spain
+23742;BDD-sky;Badu Island;BDDA-sky;Badu Island;AU-sky;Australia
+16926;IXB-sky;Bagdogra;IIXB-sky;Bagdogra;IN-sky;India
+15822;BJR-sky;Bahar Dar;BJRA-sky;Bahar Dar;ET-sky;Ethiopia
+9738;BHI-sky;Bahia Blanca;BHIA-sky;Bahia Blanca;AR-sky;Argentina
+22780;BFQ-sky;Bahia Pinas;BFQA-sky;Bahia Pinas;PA-sky;Panama
+9823;BSC-sky;Bahia Solano;BSCA-sky;Bahia Solano;CO-sky;Colombia
+819;BAH-sky;Bahrain;BAHA-sky;Bahrain;BH-sky;Bahrain
+13047;BAY-sky;Baia Mare;BAIA-sky;Baia Mare;RO-sky;Romania
+1630;YBC-sky;Baie Comeau;YBCA-sky;Baie Comeau;CA-sky;Canada
+10495;AEB-sky;Baise;AEBA-sky;NULL;CN-sky;China
+34910;NBS-sky;Baishan;NBSA-sky;Baishan;CN-sky;China
+9683;BJW-sky;Bajawa;BJWI-sky;NULL;ID-sky;Indonesia
+2135;BFL-sky;Bakersfield;BFLA-sky;Bakersfield;US-sky;United States
+4595;GYD-sky;Baku Heydar Aliyev International;BAKA-sky;Baku;AZ-sky;Azerbaijan
+11775;BAS-sky;Balalae;BASA-sky;Balalae;SB-sky;Solomon Islands
+27560;SOB-sky;Balaton;SAAS-sky;NULL;HU-sky;Hungary
+356;BLB-sky;Balboa;BLBA-sky;NULL;PA-sky;Panama
+1851;BQA-sky;Baler;BQAP-sky;NULL;PH-sky;Philippines
+1136;DPS-sky;Bali (Denpasar);DPSI-sky;Denpasar-Bali;ID-sky;Indonesia
+6374;BPN-sky;Balikpapan;BPNI-sky;Balikpapan;ID-sky;Indonesia
+12140;OPU-sky;Balimo;OPUP-sky;Balimo;PG-sky;Papua New Guinea
+1948;BNK-sky;Ballina;BNKA-sky;Ballina;AU-sky;Australia
+9659;BBA-sky;Balmaceda;BBAA-sky;Balmaceda;CL-sky;Chile
+14434;BIN-sky;Bamiyan;BINA-sky;NULL;AF-sky;Afghanistan
+3220;BTJ-sky;Banda Aceh;BTJI-sky;Banda Aceh;ID-sky;Indonesia
+389;BND-sky;Bandar Abbas;BNDA-sky;Bandar Abbas;IR-sky;Iran
+986;TKG-sky;Bandar Lampung;TKGI-sky;Bandar Lampung;ID-sky;Indonesia
+3175;BDH-sky;Bandar Lengeh;BDHA-sky;Bandar Lengeh;IR-sky;Iran
+3176;MRX-sky;Bandar Mahshahr;MRXA-sky;NULL;IR-sky;Iran
+1232;BWN-sky;Bandar Seri Begawan;BWNA-sky;Bandar Seri Begawan;BN-sky;Brunei
+14087;BDO-sky;Bandung;BDOI-sky;Bandung;ID-sky;Indonesia
+809;LUW-sky;Banggai (Luwuk);LUWI-sky;NULL;ID-sky;Indonesia
+1278;DMK-sky;Bangkok Don Meung;BKKT-sky;Bangkok;TH-sky;Thailand
+2124;BGR-sky;Bangor;BGRA-sky;Bangor;US-sky;United States
+4773;BNX-sky;Banja Luka;BANJ-sky;Banja Luka;BA-sky;Bosnia and Herzegovina
+208;BDJ-sky;Banjarmasin;BDJI-sky;Banjarmasin;ID-sky;Indonesia
+34911;BSD-sky;Baoshan;CBSD-sky;Baoshan;CN-sky;China
+1418;BAV-sky;Baotou;CBAV-sky;Baotou;CN-sky;China
+9696;BHB-sky;Bar Harbor;BHBA-sky;Bar Harbor;US-sky;United States
+617;BCA-sky;Baracoa;BCAA-sky;Baracoa;CU-sky;Cuba
+804;BBQ-sky;Barbuda;BBQA-sky;NULL;AG-sky;Antigua and Barbuda
+23487;BCI-sky;Barcaldine;BCIA-sky;Barcaldine;AU-sky;Australia
+233;BCN-sky;Barcelona;BARC-sky;Barcelona;ES-sky;Spain
+238;BLA-sky;Barcelona;BLAA-sky;Barcelona;VE-sky;Venezuela
+7373;BDU-sky;Bardufoss;BARD-sky;Bardufoss;NO-sky;Norway
+112;BRI-sky;Bari;BARI-sky;Bari;IT-sky;Italy
+1540;BNS-sky;Barinas;BNSA-sky;Barinas;VE-sky;Venezuela
+1539;BBN-sky;Bario;BBNM-sky;Bario;MY-sky;Malaysia
+240;BZL-sky;Barisal;BZLA-sky;Barisal;BD-sky;Bangladesh
+1838;BAX-sky;Barnaul;BARN-sky;Barnaul;RU-sky;Russia
+1621;BRM-sky;Barquisimeto;BRMA-sky;Barquisimeto;VE-sky;Venezuela
+3588;BRR-sky;Barra;BARR-sky;Barra;UK-sky;United Kingdom
+6877;EJA-sky;Barrancabermeja;EJAA-sky;Barrancabermeja;CO-sky;Colombia
+1836;BAQ-sky;Barranquilla;BAQA-sky;Barranquilla;CO-sky;Colombia
+2998;BRA-sky;Barreiras;BRAA-sky;NULL;BR-sky;Brazil
+702;BRW-sky;Barrow Wiley Post / W.Rogers M;BRWA-sky;Barrow;US-sky;United States
+1183;BTI-sky;Barter Island;BTIA-sky;Barter Island;US-sky;United States
+5029;BBH-sky;Barth;BART-sky;NULL;DE-sky;Germany
+9655;BSO-sky;Basco;BSOP-sky;Basco;PH-sky;Philippines
+1129;BSL-sky;Basel Mulhouse Freiburg;BASE-sky;Basel/Mulhouse;CH-sky;Switzerland
+28664;BSR-sky;Basra;BSRA-sky;Basrah;IQ-sky;Iraq
+1571;SKB-sky;Basseterre;SKBA-sky;St Kitts;KN-sky;Saint Kitts and Nevis
+6997;BIA-sky;Bastia - Corsica;BAST-sky;Bastia;FR-sky;France
+11822;BSG-sky;Bata;BSGA-sky;Bata;GQ-sky;Equatorial Guinea
+9618;BQJ-sky;Batagay Airport;BGJY-sky;NULL;RU-sky;Russia
+13294;BTH-sky;Batam;BTHI-sky;Batam;ID-sky;Indonesia
+5173;BAL-sky;Batman;BATM-sky;Batman;TR-sky;Turkey
+10924;BLJ-sky;Batna;BLJA-sky;Batna;DZ-sky;Algeria
+8875;BTR-sky;Baton Rouge Ryan;BTRA-sky;Baton Rouge;US-sky;United States
+1423;BUW-sky;Baubau;BUWI-sky;NULL;ID-sky;Indonesia
+24775;BCU-sky;Bauchi;BCUA-sky;NULL;NG-sky;Nigeria
+28095;JTC-sky;Bauru-Arealva;BAUA-sky;Bauru;BR-sky;Brazil
+24477;XBE-sky;Bearskin Lake;XBEA-sky;Bearskin Lake;CA-sky;Canada
+9885;BPT-sky;Beaumont Jefferson County;BPTA-sky;Beaumont;US-sky;United States
+2766;WBQ-sky;Beaver;WBQA-sky;Beaver;US-sky;United States
+3234;CBH-sky;Bechar;CBHA-sky;Bechar;DZ-sky;Algeria
+15952;BKW-sky;Beckley;BKWA-sky;Beckley;US-sky;United States
+33918;BEU-sky;Bedourie;BEUA-sky;Bedourie;AU-sky;Australia
+10767;YBW-sky;Bedwell Harbor;YBWA-sky;Bedwell Harbour;CA-sky;Canada
+23578;EIS-sky;Beef Island;EISA-sky;Beef Island;VG-sky;British Virgin Islands
+1422;LAQ-sky;Beida;LAQA-sky;Beida;LY-sky;Libya
+8876;BYD-sky;Beidah;BYDA-sky;NULL;YE-sky;Yemen
+20913;BHY-sky;Beihai;CBHY-sky;Beihai;CN-sky;China
+10580;PEK-sky;Beijing Capital;BJSA-sky;Beijing;CN-sky;China
+6131;BEW-sky;Beira;BEWA-sky;Beira;MZ-sky;Mozambique
+2147;BEY-sky;Beirut;BEIR-sky;Beirut;LB-sky;Lebanon
+9684;BJA-sky;Bejaia;BJAA-sky;Bejaia;DZ-sky;Algeria
+299;BGN-sky;Belaya Gora Airport;BGNC-sky;NULL;RU-sky;Russia
+376;BEL-sky;Belem;BELA-sky;Belem;BR-sky;Brazil
+357;BMY-sky;Belep Island;BMYN-sky;Ile Art;NC-sky;New Caledonia
+555;BHD-sky;Belfast City;BELF-sky;Belfast;UK-sky;United Kingdom
+153;IXG-sky;Belgaum;IIXG-sky;Belgaum;IN-sky;India
+298;EGO-sky;Belgorod;BELH-sky;Belgorod;RU-sky;Russia
+297;BEG-sky;Belgrade Nikola Tesla;BELI-sky;Belgrade;RS-sky;Serbia
+9750;TJQ-sky;Belitung (Tanjung Pandan);TJQI-sky;Tanjung Pandan;ID-sky;Indonesia
+584;BZE-sky;Belize City Philip S.W.Goldson Int;BZEA-sky;Belize City;BZ-sky;Belize
+9725;QBC-sky;Bella Coola;QBCA-sky;Bella Coola;CA-sky;Canada
+1850;ACB-sky;Bellaire;ACBA-sky;NULL;US-sky;United States
+9737;BLI-sky;Bellingham;BLIA-sky;Bellingham;US-sky;United States
+1950;BNY-sky;Bellona;BNYA-sky;Bellona;SB-sky;Solomon Islands
+14839;BCV-sky;Belmopan;BCVA-sky;NULL;BZ-sky;Belize
+14838;BMD-sky;Belo;BMDA-sky;Belo Tsiribihina;MG-sky;Madagascar
+335;CNF-sky;Belo Horizonte Tancredo Neves Int'l.;BHZA-sky;Belo Horizonte;BR-sky;Brazil
+630;EYK-sky;Beloyarsky;EYKA-sky;Beloyarsky;RU-sky;Russia
+9621;BZY-sky;Beltsy;BZYA-sky;NULL;MD-sky;Moldova
+9772;BJI-sky;Bemidji;BJIA-sky;Bemidji;US-sky;United States
+1006;ORN-sky;Ben Bella Airport;ORNA-sky;Oran;DZ-sky;Algeria
+505;TLV-sky;Ben Gurion Intl;TELA-sky;Tel Aviv-Yafo;IL-sky;Israel
+6866;BEB-sky;Benbecula;BENB-sky;Benbecula;UK-sky;United Kingdom
+807;BLR-sky;Bengaluru;IBLR-sky;Bengaluru;IN-sky;India
+14204;BEN-sky;Benghazi;BENA-sky;Benghazi;LY-sky;Libya
+7716;BKS-sky;Bengkulu;BKSI-sky;Bengkulu;ID-sky;Indonesia
+14245;BNC-sky;Beni;BNCA-sky;NULL;CD-sky;DR Congo
+13884;BEM-sky;Beni Mellal Airport;BENI-sky;NULL;MA-sky;Morocco
+818;BNI-sky;Benin City;BNIA-sky;NULL;NG-sky;Nigeria
+10265;BJT-sky;Bentota River;BJTA-sky;Bentota River;LK-sky;Sri Lanka
+1352;BEJ-sky;Berau;BEJI-sky;Tanjung Redeb;ID-sky;Indonesia
+15983;EZV-sky;Berezovo;EZVA-sky;NULL;RU-sky;Russia
+1596;BGO-sky;Bergen;BERI-sky;Bergen;NO-sky;Norway
+7045;EGC-sky;Bergerac;BERG-sky;Bergerac;FR-sky;France
+1848;BVG-sky;Berlevag;BERM-sky;Berlevag;NO-sky;Norway
+727;SXF-sky;Berlin Schoenefeld;BERL-sky;Berlin;DE-sky;Germany
+822;BRN-sky;Bern;BERN-sky;Bern;CH-sky;Switzerland
+10766;BET-sky;Bethel;BETA-sky;Bethel;US-sky;United States
+7010;BZR-sky;Beziers;BEXI-sky;Beziers;FR-sky;France
+2399;BDP-sky;Bhadrapur;BDPA-sky;Bhadrapur;NP-sky;Nepal
+17632;BWA-sky;Bhairawa;BWAA-sky;Bhairahawa;NP-sky;Nepal
+16956;BHR-sky;Bharatpur;BHRA-sky;Bharatpur;NP-sky;Nepal
+16880;BHU-sky;Bhavnagar;IBHU-sky;Bhavnagar;IN-sky;India
+9666;BHO-sky;Bhopal;IBHO-sky;Bhopal;IN-sky;India
+16865;BBI-sky;Bhubaneswar;IBBI-sky;Bhubaneshwar;IN-sky;India
+9682;BHJ-sky;Bhuj;IBHJ-sky;Bhuj;IN-sky;India
+84;BIK-sky;Biak;BIKI-sky;Biak;ID-sky;Indonesia
+2084;BIQ-sky;Biarritz;BIAR-sky;Biarritz;FR-sky;France
+16927;YYA-sky;Big Bay Yacht Club;YYAA-sky;NULL;CA-sky;Canada
+18597;YTL-sky;Big Trout;YTLA-sky;Big Trout Lake;CA-sky;Canada
+9685;BFJ-sky;Bijie Feixiong;BFJF-sky;NULL;CN-sky;China
+355;BIO-sky;Bilbao;BILB-sky;Bilbao;ES-sky;Spain
+24896;BIU-sky;Bildudalur;BILD-sky;Bildudalur;IS-sky;Iceland
+9735;BIL-sky;Billings;BILA-sky;Billings;US-sky;United States
+68;BLL-sky;Billund;BILL-sky;Billund;DK-sky;Denmark
+11774;ZBL-sky;Biloela;ZBLA-sky;Biloela;AU-sky;Australia
+20073;BMU-sky;Bima;BMUI-sky;Bima;ID-sky;Indonesia
+14433;BIM-sky;Bimini International;BIMA-sky;Bimini;BS-sky;Bahamas
+808;BGG-sky;BingÌ¦l;BING-sky;NULL;TR-sky;Turkey
+9628;BGM-sky;Binghamton;BGMA-sky;Binghamton;US-sky;United States
+2739;BTU-sky;Bintulu;BTUM-sky;Bintulu;MY-sky;Malaysia
+5028;BIR-sky;Biratnagar;BIRA-sky;Biratnagar;NP-sky;Nepal
+1558;KBC-sky;Birch Creek;KBCA-sky;Birch Creek;US-sky;United States
+2089;BVI-sky;Birdsville;BVIA-sky;Birdsville;AU-sky;Australia
+1597;XBJ-sky;Birjand;XBJA-sky;Birjand;IR-sky;Iran
+1468;BHX-sky;Birmingham;BIRM-sky;Birmingham;UK-sky;United Kingdom
+1469;BHM-sky;Birmingham;BHMA-sky;Birmingham;US-sky;United States
+14637;BHH-sky;Bisha;BHHA-sky;Bisha;SA-sky;Saudi Arabia
+14636;FRU-sky;Bishkek;FRUA-sky;Bishkek;KG-sky;Kyrgyzstan
+10219;BSK-sky;Biskra;BSKA-sky;Biskra;DZ-sky;Algeria
+9745;BIS-sky;Bismarck;BISA-sky;Bismarck;US-sky;United States
+2684;OXB-sky;Bissau;OXBA-sky;Bissau;GW-sky;Guinea-Bissau
+9726;BKQ-sky;Blackall;BKQA-sky;Blackall;AU-sky;Australia
+6373;BLK-sky;Blackpool;BLAC-sky;Blackpool;UK-sky;United Kingdom
+25891;BQS-sky;Blagoveschensk;BLAG-sky;Blagoveschensk;RU-sky;Russia
+9739;YBX-sky;Blanc Sablon;YBXA-sky;Blanc-Sablon;CA-sky;Canada
+69;BLZ-sky;Blantyre;BLZA-sky;Blantyre;MW-sky;Malawi
+6565;BID-sky;Block Island;BIDA-sky;Block Island;US-sky;United States
+71;BLO-sky;Blonduos;BLON-sky;NULL;IS-sky;Iceland
+1939;BFC-sky;Bloomfield;BFCA-sky;NULL;AU-sky;Australia
+1938;BMI-sky;Bloomington-Normal;BMIA-sky;Bloomington-Normal;US-sky;United States
+11207;BVC-sky;Boa Vista;BVCA-sky;Boa Vista Island;CV-sky;Cape Verde
+11208;BVB-sky;Boa Vista;BVBA-sky;Boa Vista;BR-sky;Brazil
+1497;BOY-sky;Bobo Dioulasso;BOYA-sky;Bobo Dioulasso;BF-sky;Burkina Faso
+1178;BOC-sky;Bocas Del Toro;BOCA-sky;Bocas Del Toro;PA-sky;Panama
+4414;ODO-sky;Bodaybo;BODA-sky;NULL;RU-sky;Russia
+1416;BOO-sky;Bodo;BODO-sky;Bodo;NO-sky;Norway
+2384;BJV-sky;Bodrum;BODR-sky;Bodrum;TR-sky;Turkey
+2382;BOG-sky;Bogota;BOGA-sky;Bogota;CO-sky;Colombia
+10261;GIC-sky;Boigu Island;GICA-sky;Boigu Island;AU-sky;Australia
+2682;BOI-sky;Boise;BOIA-sky;Boise;US-sky;United States
+2315;BWK-sky;Bol;BOLL-sky;Brac;HR-sky;Croatia
+2319;BPL-sky;Bole Alashankou;BOLE-sky;NULL;CN-sky;China
+48;BLQ-sky;Bologna International;BOLO-sky;Bologna;IT-sky;Italy
+2316;BZO-sky;Bolzano;BOLZ-sky;Bolzano/Bozen;IT-sky;Italy
+35510;BONA-sky;Bonaire;BONA-sky;Bonaire;BQ-sky;BES-Inseln
+27984;BYO-sky;Bonito;BYOA-sky;Bonito;BR-sky;Brazil
+116;BOB-sky;Bora Bora;BOBP-sky;Bora Bora;PF-sky;French Polynesia
+1481;BOD-sky;Bordeaux;BORD-sky;Bordeaux;FR-sky;France
+2529;BMW-sky;Bordj Badji Mokhtar;BMWA-sky;Bordj Badji Mokhtar;DZ-sky;Algeria
+730;BLE-sky;Borlange Dala;BORL-sky;Borlange/Falun;SE-sky;Sweden
+703;BST-sky;Bost;BSTA-sky;NULL;AF-sky;Afghanistan
+700;BOS-sky;Boston Logan International;BOSA-sky;Boston;US-sky;United States
+844;XBO-sky;Boulsa;XBOA-sky;NULL;BF-sky;Burkina Faso
+1620;BOJ-sky;Bourgas;BURG-sky;Burgas;BG-sky;Bulgaria
+2381;BOH-sky;Bournemouth;BOUR-sky;Bournemouth;UK-sky;United Kingdom
+8901;BZN-sky;Bozeman;BZNA-sky;Bozeman;US-sky;United States
+7375;BFD-sky;Bradford;BFDA-sky;Bradford;US-sky;United States
+7376;BDF-sky;Bradford;BDFA-sky;NULL;US-sky;United States
+1542;BRD-sky;Brainerd;BRDA-sky;Brainerd;US-sky;United States
+813;YBR-sky;Brandon;YBRA-sky;NULL;CA-sky;Canada
+237;BSB-sky;Brasilia;BSBA-sky;Brasilia;BR-sky;Brazil
+2175;BTS-sky;Bratislava;BRAS-sky;Bratislava;SK-sky;Slovakia
+2086;BTK-sky;Bratsk;BRAT-sky;Bratsk;RU-sky;Russia
+26471;BWE-sky;Braunschweig;BRAU-sky;NULL;DE-sky;Germany
+15982;BZV-sky;Brazzaville;BZVA-sky;Brazzaville;CG-sky;Congo
+1467;BRE-sky;Bremen;BREM-sky;Bremen;DE-sky;Germany
+2116;BES-sky;Brest;BRES-sky;Brest;FR-sky;France
+2119;BQT-sky;Brest;BQTA-sky;Brest;BY-sky;Belarus
+2176;BGI-sky;Bridgetown;BGIA-sky;Bridgetown;BB-sky;Barbados
+810;BDS-sky;Brindisi;BRIN-sky;Brindisi;IT-sky;Italy
+1499;BNE-sky;Brisbane;BNEA-sky;Brisbane;AU-sky;Australia
+2114;BRS-sky;Bristol;BRIS-sky;Bristol;UK-sky;United Kingdom
+536;BVE-sky;Brive VallÌ©e de la Dordogne;BRIV-sky;Brive-La-Gaillarde;FR-sky;France
+811;BRQ-sky;Brno-Turany;BRNO-sky;Brno;CZ-sky;Czech Republic
+829;BHQ-sky;Broken Hill;BHQA-sky;Broken Hill;AU-sky;Australia
+824;BNN-sky;Bronnoysund Bronnoy;BRON-sky;Bronnoysund;NO-sky;Norway
+10208;BME-sky;Broome;BMEA-sky;Broome;AU-sky;Australia
+8845;BRO-sky;Brownsville;BROA-sky;Brownsville;US-sky;United States
+307;BQK-sky;Brunswick Glynco Jetport;SSIA-sky;Brunswick;US-sky;United States
+25014;BHG-sky;Brus Laguna;BHGA-sky;Brus Laguna;HN-sky;Honduras
+234;BRUS-sky;Brussels;BRUS-sky;NULL;BE-sky;Belgium
+600;BGA-sky;Bucaramanga;BGAA-sky;Bucaramanga;CO-sky;Colombia
+595;BUCH-sky;Bucharest;BUCH-sky;NULL;RO-sky;Romania
+10262;BKC-sky;Buckland;BKCA-sky;Buckland;US-sky;United States
+594;BUD-sky;Budapest;BUDA-sky;Budapest;HU-sky;Hungary
+27546;BUN-sky;Buenaventura;BUNA-sky;Buenaventura;CO-sky;Colombia
+3152;BAI-sky;Buenos Aires;BAIB-sky;NULL;CR-sky;Costa Rica
+544;BUEA-sky;Buenos Aires;BUEA-sky;NULL;AR-sky;Argentina
+599;BUF-sky;Buffalo Niagara;BUFA-sky;Buffalo;US-sky;United States
+30072;UUA-sky;Bugulma;BUGU-sky;Bugulma;RU-sky;Russia
+15837;BKZ-sky;Bukoba;BKZA-sky;Bukoba;TZ-sky;Tanzania
+4531;BUQ-sky;Bulawayo;BUQA-sky;Bulawayo;ZW-sky;Zimbabwe
+11776;BULP-sky;Bulolo;BULP-sky;NULL;PG-sky;Papua New Guinea
+15874;BMB-sky;Bumba;BMBA-sky;NULL;CD-sky;DR Congo
+3089;BDB-sky;Bundaberg;BDBA-sky;Bundaberg;AU-sky;Australia
+14217;BUX-sky;Bunia;BUXA-sky;NULL;CD-sky;DR Congo
+2320;UOL-sky;Buol;UOLI-sky;NULL;ID-sky;Indonesia
+604;BUR-sky;Burbank;BURA-sky;Burbank;US-sky;United States
+608;RGS-sky;Burgos;RGSA-sky;Burgos;ES-sky;Spain
+119;BFV-sky;Buri Ram;BFVT-sky;Buri Ram;TH-sky;Thailand
+610;BUC-sky;Burketown;BUCA-sky;Burketown;AU-sky;Australia
+605;BTV-sky;Burlington;BTVA-sky;Burlington;US-sky;United States
+609;BRL-sky;Burlington;BRLA-sky;Burlington;US-sky;United States
+3978;BWT-sky;Burnie;BWTA-sky;Burnie;AU-sky;Australia
+611;KJI-sky;Burqin;BURQ-sky;NULL;CN-sky;China
+10;YEI-sky;Bursa;YEIA-sky;NULL;TR-sky;Turkey
+25634;BTZ-sky;Bursa;BURS-sky;NULL;TR-sky;Turkey
+598;PUS-sky;Busan;PUSA-sky;Busan;KR-sky;South Korea
+3232;BUZ-sky;Bushehr;BUZA-sky;Bushehr;IR-sky;Iran
+8;USU-sky;Busuanga;USUP-sky;Busuanga;PH-sky;Philippines
+7333;BTM-sky;Butte;BTMA-sky;Butte;US-sky;United States
+10921;BXU-sky;Butuan;BXUP-sky;Butuan;PH-sky;Philippines
+3130;BZG-sky;Bydgoszcz;BYDG-sky;Bydgoszcz;PL-sky;Poland
+1629;CAH-sky;Ca Mau;CAHV-sky;NULL;VN-sky;Vietnam
+348;CFB-sky;Cabo Frio;CFBA-sky;Cabo Frio;BR-sky;Brazil
+24957;OAL-sky;Cacoal;OALA-sky;NULL;BR-sky;Brazil
+952;CFR-sky;Caen;CAEN-sky;Caen;FR-sky;France
+6420;CGY-sky;Cagayan De Oro;CGYP-sky;Cagayan de Oro;PH-sky;Philippines
+669;CAG-sky;Cagliari;CAGL-sky;Cagliari;IT-sky;Italy
+943;CNS-sky;Cairns;CNSA-sky;Cairns;AU-sky;Australia
+10579;CAI-sky;Cairo;CAIR-sky;Cairo;EG-sky;Egypt
+30762;CJC-sky;Calama;CJCA-sky;Calama;CL-sky;Chile
+28012;CLV-sky;Caldas Novas;CLVA-sky;NULL;BR-sky;Brazil
+14915;YYC-sky;Calgary;YYCA-sky;Calgary;CA-sky;Canada
+13431;CLO-sky;Cali;CLOA-sky;Cali;CO-sky;Colombia
+11477;CLY-sky;Calvi;CALV-sky;Calvi;FR-sky;France
+13830;CBG-sky;Cambridge;CBGA-sky;Cambridge;UK-sky;United Kingdom
+13832;YCB-sky;Cambridge Bay;YCBA-sky;Cambridge Bay;CA-sky;Canada
+6860;YBLA-sky;Campbell River;YBLA-sky;NULL;CA-sky;Canada
+6858;CAL-sky;Campbeltown;CAMP-sky;Campbeltown;UK-sky;United Kingdom
+11620;CPE-sky;Campeche;CPEA-sky;Campeche;MX-sky;Mexico
+12137;CPV-sky;Campina Grande;CPVA-sky;NULL;BR-sky;Brazil
+402;CGR-sky;Campo Grande;CGRA-sky;Campo Grande;BR-sky;Brazil
+27994;CAW-sky;Campos;CAWA-sky;NULL;BR-sky;Brazil
+21;CA-sky;Canada;NULL;NULL;CA-sky;Canada
+25547;CAJ-sky;Canaima;CAJA-sky;Canaima;VE-sky;Venezuela
+5181;CKZ-sky;Canakkale;CANA-sky;NULL;TR-sky;Turkey
+14925;CBR-sky;Canberra;CBRA-sky;Canberra;AU-sky;Australia
+10578;CUN-sky;Cancun;CUNA-sky;Cancun;MX-sky;Mexico
+347;CAP-sky;Cap Haitien;CAPA-sky;Cap Haitien;HT-sky;Haiti
+3764;CSK-sky;Cap Skirring;CSKA-sky;Cap Skiring;SN-sky;Senegal
+2999;CBI-sky;Cape Barren Island;CBIA-sky;NULL;AU-sky;Australia
+683;YTE-sky;Cape Dorset;YTEA-sky;Cape Dorset;CA-sky;Canada
+3763;CGI-sky;Cape Girardeau;CGIA-sky;Cape Girardeau;US-sky;United States
+149;LUR-sky;Cape Lisburne;LURA-sky;Cape Lisburne;US-sky;United States
+341;CPT-sky;Cape Town;CPTA-sky;Cape Town;ZA-sky;South Africa
+7025;CCS-sky;Caracas;CCSA-sky;Caracas;VE-sky;Venezuela
+1023;CKS-sky;Carajas;CKSA-sky;Carajas;BR-sky;Brazil
+7024;CCF-sky;Carcassonne;CARC-sky;Carcassonne;FR-sky;France
+2690;CWL-sky;Cardiff;CARD-sky;Cardiff;UK-sky;United Kingdom
+1367;CNM-sky;Carlsbad;CNMA-sky;Carlsbad;US-sky;United States
+9545;MRY-sky;Carmel Monterey Peninsula;MRYA-sky;Monterey;US-sky;United States
+9254;CVQ-sky;Carnarvon;CVQA-sky;Carnarvon;AU-sky;Australia
+28007;CLN-sky;Carolina;CLNA-sky;NULL;BR-sky;Brazil
+12601;CTG-sky;Cartagena;CTGA-sky;Cartagena;CO-sky;Colombia
+12602;CRC-sky;Cartago;CRCA-sky;NULL;CO-sky;Colombia
+846;CUP-sky;Carupano;CUPA-sky;Carupano;VE-sky;Venezuela
+13885;CASA-sky;Casablanca;CASA-sky;NULL;MA-sky;Morocco
+27997;CAC-sky;Cascavel;CACA-sky;Cascavel;BR-sky;Brazil
+8982;CPR-sky;Casper;CPRA-sky;Casper;US-sky;United States
+1740;CDT-sky;Castellon de la Plana;CDTA-sky;NULL;ES-sky;Spain
+1743;YCG-sky;Castlegar;YCGA-sky;Castlegar;CA-sky;Canada
+877;DCM-sky;Castres Mazamet;CASU-sky;Castres;FR-sky;France
+875;SLUA-sky;Castries;SLUA-sky;NULL;LC-sky;Saint Lucia
+879;WCA-sky;Castro;WCAA-sky;Castro;CL-sky;Chile
+4061;CAT-sky;Cat Island;CATB-sky;NULL;BS-sky;Bahamas
+22338;YAC-sky;Cat Lake;YACA-sky;Cat Lake;CA-sky;Canada
+15941;CTC-sky;Catamarca;CTCA-sky;Catamarca;AR-sky;Argentina
+49;CTA-sky;Catania Fontanarossa;CATA-sky;Catania;IT-sky;Italy
+15942;CRM-sky;Catarman;CRMP-sky;Catarman;PH-sky;Philippines
+583;MPH-sky;Caticlan (Boracay);MPHP-sky;Caticlan;PH-sky;Philippines
+4995;CXJ-sky;Caxias Do Sul;CXJA-sky;Caxias Do Sul;BR-sky;Brazil
+14497;CUK-sky;Caye Caulker;CUKA-sky;Caye Caulker;BZ-sky;Belize
+14498;CYC-sky;Caye Chapel;CYCA-sky;Caye Chapel;BZ-sky;Belize
+11465;CAY-sky;Cayenne;CAYA-sky;Cayenne;GF-sky;French Guiana
+618;CYB-sky;Cayman Brac Is;CYBA-sky;Cayman Brac;KY-sky;Cayman Islands
+14495;CCC-sky;Cayo Coco;CCCA-sky;Cayo Coco;CU-sky;Cuba
+1233;CYO-sky;Cayo Largo Del Sur;CYOA-sky;Cayo Largo del Sur;CU-sky;Cuba
+7084;CDC-sky;Cedar City;CDCA-sky;Cedar City;US-sky;United States
+8931;CID-sky;Cedar Rapids;CIDA-sky;Cedar Rapids;US-sky;United States
+3433;CED-sky;Ceduna;CEDA-sky;Ceduna;AU-sky;Australia
+21278;TJR-sky;Ceiba;CEIB-sky;NULL;PR-sky;Puerto Rico
+17970;CEM-sky;Central;CEMA-sky;Central;US-sky;United States
+6;XCR-sky;ChÌ¢lons-en-Champagne;XCRA-sky;NULL;FR-sky;France
+1241;CDR-sky;Chadron;CDRA-sky;Chadron;US-sky;United States
+3227;ZBR-sky;Chah-Bahar;ZBRA-sky;Chah Bahar;IR-sky;Iran
+691;CMF-sky;Chambery;CHAM-sky;Chambery;FR-sky;France
+8960;CMI-sky;Champaign;CMIA-sky;Champaign;US-sky;United States
+1242;IXC-sky;Chandigarh;IIXC-sky;Chandigarh;IN-sky;India
+13201;CGQ-sky;Changchun;CCGQ-sky;Changchun;CN-sky;China
+22800;CGD-sky;Changde;CCGD-sky;Changde;CN-sky;China
+13200;CSX-sky;Changsha;CCSX-sky;Changsha;CN-sky;China
+22805;CIH-sky;Changzhi;CCIH-sky;NULL;CN-sky;China
+22804;CZX-sky;Changzhou;CCZX-sky;Changzhou;CN-sky;China
+22954;CHG-sky;Chaoyang;CCHG-sky;NULL;CN-sky;China
+11619;XAP-sky;Chapeco;XAPA-sky;Chapeco;BR-sky;Brazil
+8927;CHS-sky;Charleston;CHSA-sky;Charleston;US-sky;United States
+8928;CRW-sky;Charleston;CRWA-sky;Charleston;US-sky;United States
+13211;CTL-sky;Charleville;CTLA-sky;Charleville;AU-sky;Australia
+13221;YCL-sky;Charlo;YCLA-sky;NULL;CA-sky;Canada
+8775;CLT-sky;Charlotte Douglas;CLTA-sky;Charlotte;US-sky;United States
+8774;CHO-sky;Charlottesville;CHOA-sky;Charlottesville;US-sky;United States
+8776;YYG-sky;Charlottetown;YYGA-sky;Charlottetown;CA-sky;Canada
+3228;CHT-sky;Chatham Island;CHTN-sky;Chatham Island;NZ-sky;New Zealand
+8920;CHA-sky;Chattanooga;CHAA-sky;Chattanooga;US-sky;United States
+29830;CSY-sky;Cheboksary;CHEB-sky;Cheboksary;RU-sky;Russia
+12332;CEK-sky;Chelyabinsk;CHEL-sky;Chelyabinsk;RU-sky;Russia
+22799;CTU-sky;Chengdu;CCTU-sky;Chengdu;CN-sky;China
+660;MAA-sky;Chennai;IMAA-sky;Chennai;IN-sky;India
+22806;CJJ-sky;Cheongju;CJJA-sky;Cheongju;KR-sky;South Korea
+30061;CEE-sky;Cherepovets;CHER-sky;Cherepovets;RU-sky;Russia
+34021;CYX-sky;Cherskiy;CERV-sky;NULL;RU-sky;Russia
+34019;CEG-sky;Chester;CEGA-sky;Chester;UK-sky;United Kingdom
+34020;YCS-sky;Chesterfield Inlet;YCSA-sky;Chesterfield Inlet;CA-sky;Canada
+30768;CTM-sky;Chetumal;CTMA-sky;Chetumal;MX-sky;Mexico
+665;CYS-sky;Cheyenne;CYSA-sky;Cheyenne;US-sky;United States
+659;CNX-sky;Chiang Mai;CNXT-sky;Chiang Mai;TH-sky;Thailand
+661;CEI-sky;Chiang Rai;CEIT-sky;Chiang Rai;TH-sky;Thailand
+11;CHIA-sky;Chicago;CHIA-sky;NULL;US-sky;United States
+15153;CKX-sky;Chicken;CKXA-sky;Chicken;US-sky;United States
+18;CIX-sky;Chiclayo;CIXA-sky;Chiclayo;PE-sky;Peru
+20;CIC-sky;Chico;CICA-sky;Chico;US-sky;United States
+22786;CIF-sky;Chifeng;CCIF-sky;Chifeng;CN-sky;China
+4661;KCL-sky;Chignik Lagoon;KCLA-sky;Chignik;US-sky;United States
+28920;CUU-sky;Chihuahua;CUUA-sky;Chihuahua;MX-sky;Mexico
+24751;LLG-sky;Chillagoe;LLGA-sky;NULL;AU-sky;Australia
+17353;VPY-sky;Chimoio;VPYA-sky;NULL;MZ-sky;Mozambique
+22801;CGT-sky;Chinguitti;CGTA-sky;NULL;MR-sky;Mauritania
+17157;JKH-sky;Chios;CHIO-sky;Chios;GR-sky;Greece
+2840;KIV-sky;Chisinau;KIVA-sky;Chisinau;MD-sky;Moldova
+1243;HTA-sky;Chita;CHIT-sky;Chita;RU-sky;Russia
+25836;CJL-sky;Chitral;CJLA-sky;Chitral;PK-sky;Pakistan
+25835;CGP-sky;Chittagong;CGPA-sky;Chittagong;BD-sky;Bangladesh
+34769;JUH-sky;Chizhou Jiuhuashan;JUHI-sky;NULL;CN-sky;China
+11478;CFK-sky;Chlef;CFKA-sky;NULL;DZ-sky;Algeria
+17158;CHY-sky;Choiseul Bay;CHYA-sky;Choiseul Bay;SB-sky;Solomon Islands
+22787;CKG-sky;Chongqing;CCKG-sky;Chongqing;CN-sky;China
+6893;CHC-sky;Christchurch;CHCN-sky;Christchurch;NZ-sky;New Zealand
+11463;CJM-sky;Chumphon;CJMT-sky;Chumphon;TH-sky;Thailand
+31277;ZUM-sky;Churchill Falls;ZUMA-sky;Churchill Falls;CA-sky;Canada
+12401;ICI-sky;Cicia;ICIF-sky;Cicia Island;FJ-sky;Fiji
+1657;CVG-sky;Cincinnati Northern Kentucky;CVGA-sky;Cincinnati;US-sky;United States
+2318;CBL-sky;Ciudad Bolivar;CBLA-sky;Ciudad Bolivar;VE-sky;Venezuela
+166;CME-sky;Ciudad Del Carmen;CMEA-sky;Ciudad Del Carmen;MX-sky;Mexico
+3191;AGT-sky;Ciudad del Este;AGTA-sky;Ciudad del Este;PY-sky;Paraguay
+546;CJS-sky;Ciudad Juarez;CJSA-sky;Ciudad Juarez;MX-sky;Mexico
+14169;CEN-sky;Ciudad Obregon;CENA-sky;Ciudad Obregon;MX-sky;Mexico
+12237;CVM-sky;Ciudad Victoria;CVMA-sky;Ciudad Victoria;MX-sky;Mexico
+8936;CRK-sky;Clark International;CRKP-sky;Angeles/Mabalacat;PH-sky;Philippines
+8937;CLP-sky;Clarks Point;CLPA-sky;Clarks Point;US-sky;United States
+8935;CKB-sky;Clarksburg;CKBA-sky;Clarksburg;US-sky;United States
+15794;CAO-sky;Clayton;CAOA-sky;NULL;US-sky;United States
+8771;PIE-sky;Clearwater International;CLWA-sky;Tampa;US-sky;United States
+7023;CFE-sky;Clermont-Ferrand;CLER-sky;Clermont-Ferrand;FR-sky;France
+620;BKL-sky;Cleveland Burke Lakefront;CLEA-sky;Cleveland;US-sky;United States
+15342;CNJ-sky;Cloncurry;CNJA-sky;Cloncurry;AU-sky;Australia
+20282;CVN-sky;Clovis Municipal;CVNA-sky;Clovis;US-sky;United States
+2785;CLJ-sky;Cluj-Napoca;CLUJ-sky;Cluj;RO-sky;Romania
+9196;YCY-sky;Clyde River;YCYA-sky;Clyde River;CA-sky;Canada
+638;COD-sky;Cody / Yellowstone;CODA-sky;Cody;US-sky;United States
+25756;KCC-sky;Coffman Cove;KCCA-sky;Coffman Cove;US-sky;United States
+1039;CJB-sky;Coimbatore;ICJB-sky;Coimbatore;IN-sky;India
+9197;CDB-sky;Cold Bay;CDBA-sky;Cold Bay;US-sky;United States
+16376;CLQ-sky;Colima;CLQA-sky;Colima;MX-sky;Mexico
+8951;CLL-sky;College Station;CLLA-sky;College Station;US-sky;United States
+717;COLO-sky;Cologne;COLO-sky;NULL;DE-sky;Germany
+214;CMBA-sky;Colombo;CMBA-sky;NULL;LK-sky;Sri Lanka
+34281;CSA-sky;Colonsay Is;CSAA-sky;NULL;UK-sky;United Kingdom
+7058;COS-sky;Colorado Springs Peterson Field;COSA-sky;Colorado Springs;US-sky;United States
+220;COU-sky;Columbia;COUA-sky;Columbia;US-sky;United States
+219;CAE-sky;Columbia Metropolitan;CAEA-sky;Columbia;US-sky;United States
+221;GTR-sky;Columbus Golden Triangle Reg.;UBSA-sky;Columbus;US-sky;United States
+309;CSG-sky;Columbus Metropolitain;CSGA-sky;Columbus;US-sky;United States
+8941;YCK-sky;Colville Lake;COLV-sky;Colville Lake;CA-sky;Canada
+10170;CIY-sky;Comiso;COMI-sky;NULL;IT-sky;Italy
+26;VCS-sky;Con Dao;VCSV-sky;Con Dao;VN-sky;Vietnam
+14126;CKY-sky;Conakry;CKYA-sky;Conakry;GN-sky;Guinea
+198;CDJ-sky;Conceicao Do Araguaia;CDJA-sky;NULL;BR-sky;Brazil
+14125;USA-sky;Concord Regional;USAA-sky;Concord;US-sky;United States
+859;COX-sky;Congo Town;COXA-sky;NULL;BS-sky;Bahamas
+6852;CND-sky;Constanta Kogalniceanu;CONS-sky;Constanta;RO-sky;Romania
+25742;CZL-sky;Constantine;CZLA-sky;Constantine;DZ-sky;Algeria
+1420;CPD-sky;Coober Pedy;CPDA-sky;Coober Pedy;AU-sky;Australia
+145;RUY-sky;Copan;RUYA-sky;NULL;HN-sky;Honduras
+140;COPE-sky;Copenhagen;COPE-sky;NULL;DK-sky;Denmark
+22895;YZS-sky;Coral Harbour;YZSA-sky;Coral Harbour;CA-sky;Canada
+709;CZJ-sky;Corazon De Jesus;CZJA-sky;NULL;PA-sky;Panama
+12156;COR-sky;Cordoba;CORA-sky;Cordoba;AR-sky;Argentina
+2693;CDV-sky;Cordova Mudhole Smith;CDVA-sky;Cordova;US-sky;United States
+16612;CFU-sky;Corfu;CORF-sky;Kerkyra;GR-sky;Greece
+894;ORK-sky;Cork;CORK-sky;Cork;IE-sky;Ireland
+12431;CZE-sky;Coro;CZEA-sky;Coro;VE-sky;Venezuela
+9003;CRP-sky;Corpus Christi International;CRPA-sky;Corpus Christi;US-sky;United States
+17731;CNQ-sky;Corrientes;CNQA-sky;Corrientes;AR-sky;Argentina
+8926;YCF-sky;Cortes Bay;YCFA-sky;NULL;CA-sky;Canada
+8925;CEZ-sky;Cortez;CEZA-sky;Cortez;US-sky;United States
+28010;CMG-sky;Corumba;CMGA-sky;Corumba;BR-sky;Brazil
+10870;CVU-sky;Corvo Island;CORV-sky;Corvo Island (Azores);PT-sky;Portugal
+10099;COO-sky;Cotonou;COOA-sky;Cotonou;BJ-sky;Benin
+15948;COT-sky;Cotulla;COTA-sky;NULL;US-sky;United States
+28034;CXB-sky;Cox's Bazar;CXBA-sky;Coxs Bazar;BD-sky;Bangladesh
+28921;CZM-sky;Cozumel;CZMA-sky;Cozumel;MX-sky;Mexico
+896;CGA-sky;Craig;CGAA-sky;Craig;US-sky;United States
+895;CCV-sky;Craig Cove;CCVV-sky;Craig Cove;VU-sky;Vanuatu
+17132;CRA-sky;Craiova;CRAI-sky;Craiova;RO-sky;Romania
+9244;YXC-sky;Cranbrook;YXCA-sky;Cranbrook;CA-sky;Canada
+708;CEC-sky;Crescent City;CECA-sky;Crescent City;US-sky;United States
+662;CHQ-sky;Crete Chania;CRET-sky;Chania;GR-sky;Greece
+28000;CCM-sky;Criciuma;CCMA-sky;Criciuma;BR-sky;Brazil
+12421;CKI-sky;Croker Island;CKIA-sky;Croker Island;AU-sky;Australia
+897;CKD-sky;Crooked Creek;CKDA-sky;Crooked Creek;US-sky;United States
+1024;CRI-sky;Crooked Island;CRIA-sky;Crooked Island;BS-sky;Bahamas
+9180;CRV-sky;Crotone;CORT-sky;Crotone;IT-sky;Italy
+4996;CZS-sky;Cruzeiro Do Sul;CZSA-sky;Cruzeiro Do Sul;BR-sky;Brazil
+16486;CUC-sky;Cucuta;CUCA-sky;Cucuta;CO-sky;Colombia
+4264;CUE-sky;Cuenca;CUEA-sky;Cuenca;EC-sky;Ecuador
+343;CGB-sky;Cuiaba;CGBA-sky;Cuiaba;BR-sky;Brazil
+4407;CUL-sky;Culiacan;CULA-sky;Culiacan;MX-sky;Mexico
+10186;CUF-sky;Cuneo Levaldigi;CUNE-sky;Cuneo;IT-sky;Italy
+892;CUR-sky;Curacao;CURA-sky;Curacao;CW-sky;Curacao
+12155;CWB-sky;Curitiba;CWBA-sky;Curitiba;BR-sky;Brazil
+28371;CUZ-sky;Cuzco;CUZA-sky;Cuzco;PE-sky;Peru
+3058;DAD-sky;Da Nang;DADV-sky;Da Nang;VN-sky;Vietnam
+17342;DDU-sky;Dadu;DDUA-sky;NULL;PK-sky;Pakistan
+1258;TAE-sky;Daegu;TAEA-sky;Daegu;KR-sky;South Korea
+13988;DKR-sky;Dakar;DKRA-sky;Dakar;SN-sky;Senegal
+13906;VIL-sky;Dakhla;DAKH-sky;Dakhla;MA-sky;Morocco
+5141;DLM-sky;Dalaman;DALA-sky;Dalaman;TR-sky;Turkey
+9034;DLI-sky;Dalat;DLIV-sky;Da Lat;VN-sky;Vietnam
+12524;DLU-sky;Dali City;CDLU-sky;Dali City;CN-sky;China
+11418;DLC-sky;Dalian;CDLC-sky;Dalian;CN-sky;China
+1492;DFWA-sky;Dallas;DFWA-sky;NULL;US-sky;United States
+25937;DAM-sky;Damascus;DAMA-sky;Damascus;SY-sky;Syria
+15576;DMM-sky;Dammam;DMMA-sky;Dammam;SA-sky;Saudi Arabia
+19869;DDG-sky;Dandong;CDDG-sky;Dandong;CN-sky;China
+13913;DGA-sky;Dangriga;DGAA-sky;Dangriga;BZ-sky;Belize
+5238;DQA-sky;Daqing;DQAA-sky;NULL;CN-sky;China
+2226;DAR-sky;Dar Es Salaam;DARA-sky;Dar Es Salaam;TZ-sky;Tanzania
+15824;NLF-sky;Darnley Island;NLFA-sky;Darnley Island;AU-sky;Australia
+15823;DAU-sky;Daru;DAUP-sky;Daru;PG-sky;Papua New Guinea
+6702;DRW-sky;Darwin;DRWA-sky;Darwin;AU-sky;Australia
+22802;DAT-sky;Datong;CDAT-sky;NULL;CN-sky;China
+15570;DVO-sky;Davao International;DVOP-sky;Davao;PH-sky;Philippines
+15569;DAV-sky;David;DAVA-sky;David;PA-sky;Panama
+15842;DWD-sky;Dawadmi;DWDA-sky;Dawadmi;SA-sky;Saudi Arabia
+25980;YDA-sky;Dawson City;YDAA-sky;Dawson City;CA-sky;Canada
+3861;YDQ-sky;Dawson Creek;YDQA-sky;Dawson Creek;CA-sky;Canada
+9910;DAX-sky;Daxian;CDAX-sky;Dazhou;CN-sky;China
+14519;DYG-sky;Dayong;CDYG-sky;Dayong;CN-sky;China
+8727;DAY-sky;Dayton International;DAYA-sky;Dayton;US-sky;United States
+8728;DAB-sky;Daytona Beach;DABA-sky;Daytona Beach;US-sky;United States
+10795;SCC-sky;Deadhorse (Prudhoe Bay);SCCA-sky;Prudhoe Bay/Deadhorse;US-sky;United States
+7031;DOL-sky;Deauville St. Gatien;DEAU-sky;NULL;FR-sky;France
+3264;DEB-sky;Debrecen;DEBR-sky;Debrecen;HU-sky;Hungary
+9021;DEC-sky;Decatur;DECA-sky;Decatur;US-sky;United States
+20182;DHB-sky;Deer Harbor Seaplane;ESDA-sky;NULL;US-sky;United States
+6867;YDF-sky;Deer Lake;YDFA-sky;Deer Lake;CA-sky;Canada
+29236;YVZ-sky;Deer Lake;YVZA-sky;Deer Lake;CA-sky;Canada
+9045;DRG-sky;Deering;DRGA-sky;Deering;US-sky;United States
+1279;DED-sky;Dehra dun;IDED-sky;NULL;IN-sky;India
+20308;DRT-sky;Del Rio International;DRTA-sky;Del Rio;US-sky;United States
+2453;DEL-sky;Delhi;IDEL-sky;Delhi;IN-sky;India
+11419;YWJ-sky;Deline;YWJA-sky;Deline;CA-sky;Canada
+5122;DNZ-sky;Denizli Cardak;DENI-sky;Denizli;TR-sky;Turkey
+8731;DEN-sky;Denver International;DENA-sky;Denver;US-sky;United States
+1053;DEA-sky;Dera Ghazi Khan;DEAA-sky;Dera Ghazi Khan;PK-sky;Pakistan
+15479;DSK-sky;Dera Ismail Khan;DSKA-sky;Dera Ismail Khan;PK-sky;Pakistan
+5187;DCN-sky;Derby Curtin;DRBA-sky;Derby;AU-sky;Australia
+6419;LDY-sky;Derry;DERR-sky;Derry;UK-sky;United Kingdom
+8758;DSM-sky;Des Moines;DSMA-sky;Des Moines;US-sky;United States
+21752;DSE-sky;Dessie;DSEA-sky;Dessie;ET-sky;Ethiopia
+35505;DSIA-sky;Destin;DSIA-sky;Destin;US-sky;United States
+24;DTW-sky;Detroit Wayne County;DTTA-sky;Detroit;US-sky;United States
+7032;DVL-sky;Devils Lake;DVLA-sky;Devils Lake;US-sky;United States
+28029;DPO-sky;Devonport;DPOA-sky;Devonport;AU-sky;Australia
+1257;DAC-sky;Dhaka;DACA-sky;Dhaka;BD-sky;Bangladesh
+13914;DHI-sky;Dhangarhi;DHIA-sky;Dhangarhi;NP-sky;Nepal
+7309;DHM-sky;Dharamsala;IDHM-sky;NULL;IN-sky;India
+16888;DIB-sky;Dibrugarh;IDIB-sky;Dibrugarh;IN-sky;India
+9032;DIK-sky;Dickinson;DIKA-sky;Dickinson;US-sky;United States
+1281;DIN-sky;Dien Bien Phu;DINV-sky;Dien Bien Phu;VN-sky;Vietnam
+30826;DIJ-sky;Dijon;DIJO-sky;Dijon;FR-sky;France
+9911;DKS-sky;Dikson;DIKS-sky;NULL;RU-sky;Russia
+1093;DIW-sky;Dikwella;DIKW-sky;Dickwella;LK-sky;Sri Lanka
+12523;DIL-sky;Dili;DILA-sky;Dili;TL-sky;East Timor
+2750;DMU-sky;Dimapur;IDMU-sky;Dimapur;IN-sky;India
+7033;DNR-sky;Dinard;DINA-sky;Dinard;FR-sky;France
+34588;DIG-sky;Diqing;CDIG-sky;Diqing;CN-sky;China
+18596;DIR-sky;Dire Dawa;DIRA-sky;Dire Dawa;ET-sky;Ethiopia
+16892;DIU-sky;Diu;IDIU-sky;Diu;IN-sky;India
+28028;DIQ-sky;Divinopolis;DIQA-sky;NULL;BR-sky;Brazil
+5186;DIY-sky;Diyarbakir;DIYA-sky;Diyarbakir;TR-sky;Turkey
+29675;DJE-sky;Djerba;DJER-sky;Djerba;TN-sky;Tunisia
+882;JIB-sky;Djibouti;JIBA-sky;Djibouti;DJ-sky;Djibouti
+25753;DNK-sky;Dnepropetrovsk;DNEP-sky;Dnipropetrovsk;UA-sky;Ukraine
+23061;DOB-sky;Dobo;DOBI-sky;NULL;ID-sky;Indonesia
+9020;DDC-sky;Dodge City;DDCA-sky;Dodge City;US-sky;United States
+15841;DOD-sky;Dodoma;DODA-sky;NULL;TZ-sky;Tanzania
+7011;DLE-sky;Dole Tavaux;DOLE-sky;NULL;FR-sky;France
+34;DOMA-sky;Dominica;DOMA-sky;NULL;DM-sky;Dominica
+6386;DSA-sky;Doncaster Sheffield;DONC-sky;Doncaster;UK-sky;United Kingdom
+12409;CFN-sky;Donegal;DONE-sky;Donegal;IE-sky;Ireland
+5123;DOK-sky;Donetsk;DONF-sky;Donetsk;UA-sky;Ukraine
+14516;VDH-sky;Dong Hoi;DONG-sky;NULL;VN-sky;Vietnam
+22810;DSN-sky;Dongsheng;CDSN-sky;NULL;CN-sky;China
+34613;DOY-sky;Dongying;CDOY-sky;Dongying;CN-sky;China
+16419;DOF-sky;Dora Bay;DOFA-sky;NULL;US-sky;United States
+7606;DTM-sky;Dortmund;DORT-sky;Dortmund;DE-sky;Germany
+9022;DHN-sky;Dothan;DHNA-sky;Dothan;US-sky;United States
+12522;DLA-sky;Douala;DLAA-sky;Douala;CM-sky;Cameroon
+28030;DOU-sky;Dourados;DOUA-sky;NULL;BR-sky;Brazil
+197;DRK-sky;Drake Bay;DRAB-sky;NULL;CR-sky;Costa Rica
+680;DRS-sky;Dresden;DRES-sky;Dresden;DE-sky;Germany
+2706;YHD-sky;Dryden;YHDA-sky;Dryden;CA-sky;Canada
+7747;DXBA-sky;Dubai;DXBA-sky;NULL;AE-sky;United Arab Emirates
+7753;DBO-sky;Dubbo;DBOA-sky;Dubbo;AU-sky;Australia
+7746;DUB-sky;Dublin;DUBL-sky;Dublin;IE-sky;Ireland
+7752;DUJ-sky;Dubois;DUJA-sky;Dubois;US-sky;United States
+7750;DBV-sky;Dubrovnik;DUBR-sky;Dubrovnik;HR-sky;Croatia
+7751;DBQ-sky;Dubuque;DBQA-sky;Dubuque;US-sky;United States
+9033;DLH-sky;Duluth International;DLHA-sky;Duluth;US-sky;United States
+7317;LUV-sky;Dumatubin - Langgur;LUVI-sky;NULL;ID-sky;Indonesia
+6564;DND-sky;Dundee;DUND-sky;Dundee;UK-sky;United Kingdom
+19868;DUD-sky;Dunedin;DUDN-sky;Dunedin;NZ-sky;New Zealand
+34599;DNH-sky;Dunhuang;CDNH-sky;Dunhuang;CN-sky;China
+9038;DGO-sky;Durango;DGOA-sky;Durango;MX-sky;Mexico
+9039;DRO-sky;Durango La Plata;DROA-sky;Durango;US-sky;United States
+19;DUR-sky;Durban King Shaka International;MRCY-sky;Durban;ZA-sky;South Africa
+1307;VIR-sky;Durban Virginia;DURA-sky;NULL;ZA-sky;South Africa
+2650;MME-sky;Durham Tees Valley;MMEA-sky;Durham;UK-sky;United Kingdom
+29694;DYU-sky;Dushanbe;DYUA-sky;Dushanbe;TJ-sky;Tajikistan
+738;DUS-sky;Dusseldorf International;DUSS-sky;Duesseldorf;DE-sky;Germany
+17383;DUT-sky;Dutch Harbor;DUTA-sky;Dutch Harbor;US-sky;United States
+129;ELS-sky;East London;ELSA-sky;East London;ZA-sky;South Africa
+407;EMA-sky;East Midlands;NOTT-sky;Nottingham;UK-sky;United Kingdom
+12261;ESP-sky;East Stroudsburg;ESPA-sky;NULL;US-sky;United States
+102;IPC-sky;Easter Island;IPCA-sky;Easter Island;CL-sky;Chile
+6375;ZEM-sky;Eastmain River;ZEMA-sky;Eastmain;CA-sky;Canada
+671;EAU-sky;Eau Claire;EAUA-sky;Eau Claire;US-sky;United States
+96;EBO-sky;Ebon;EBOA-sky;Ebon Island;MH-sky;Marshall Islands
+2942;EOI-sky;Eday;EOIA-sky;Eday;UK-sky;United Kingdom
+2104;EDI-sky;Edinburgh;EDIN-sky;Edinburgh;UK-sky;United Kingdom
+2943;YEG-sky;Edmonton International;YEAA-sky;Edmonton;CA-sky;Canada
+2105;EDA-sky;Edna Bay;EDAA-sky;Edna Bay;US-sky;United States
+2944;EDO-sky;Edremit / Korfez;EDOA-sky;Edremit;TR-sky;Turkey
+2379;EDR-sky;Edward River;EDRA-sky;Pormpuraaw;AU-sky;Australia
+6485;EEK-sky;Eek;EEKA-sky;Eek;US-sky;United States
+2039;EIN-sky;Eindhoven;EIND-sky;Eindhoven;NL-sky;Netherlands
+909;SVX-sky;Ekaterinburg;EKAT-sky;Yekaterinburg;RU-sky;Russia
+9505;EBG-sky;El Bagre;EBGA-sky;El Bagre;CO-sky;Colombia
+2762;FTE-sky;El Calafate;FTEA-sky;El Calafate;AR-sky;Argentina
+6364;ELD-sky;El Dorado;ELDA-sky;El Dorado;US-sky;United States
+6887;ELG-sky;El Golea;ELGA-sky;El Golea;DZ-sky;Algeria
+22118;ENI-sky;El Nido;ENIP-sky;El Nido;PH-sky;Philippines
+12057;EBD-sky;El Obeid;EBDA-sky;El Obeid;SD-sky;Sudan
+2680;ELPA-sky;El Paso;ELPA-sky;NULL;US-sky;United States
+3167;PVE-sky;El Porvenir;PVEA-sky;NULL;PA-sky;Panama
+1225;ESR-sky;El Salvador;ESRA-sky;El Salvador;CL-sky;Chile
+1653;VIG-sky;El Vigia;VIGA-sky;El Vigia;VE-sky;Venezuela
+10183;EYP-sky;El Yopal;EYPA-sky;El Yopal;CO-sky;Colombia
+5185;EZS-sky;Elazig;ELAZ-sky;Elazig;TR-sky;Turkey
+1797;EBA-sky;Elba Island;ELBA-sky;Elba Island;IT-sky;Italy
+6365;EDL-sky;Eldoret;EDLA-sky;Eldoret;KE-sky;Kenya
+25755;ELV-sky;Elfin Cove;ELVA-sky;Elfin Cove;US-sky;United States
+14885;ELI-sky;Elim;ELIA-sky;Elim;US-sky;United States
+9334;ESL-sky;Elista;ELIS-sky;Elista;RU-sky;Russia
+9089;EKO-sky;Elko;EKOA-sky;Elko;US-sky;United States
+476;ELM-sky;Elmira;ELMA-sky;Elmira;US-sky;United States
+1405;EAE-sky;Emae;EAEV-sky;Emae Island;VU-sky;Vanuatu
+9132;EMD-sky;Emerald;EMDA-sky;Emerald;AU-sky;Australia
+16969;EMK-sky;Emmonak;EMKA-sky;Emmonak;US-sky;United States
+3221;ENE-sky;Ende;ENEI-sky;NULL;ID-sky;Indonesia
+26470;NBE-sky;Enfidha;NBEA-sky;NULL;TN-sky;Tunisia
+9073;ENH-sky;Enshi;CENH-sky;Enshi;CN-sky;China
+35125;EBB-sky;Entebbe;EBBA-sky;Entebbe;UG-sky;Uganda
+21111;ENU-sky;Enugu;ENUA-sky;NULL;NG-sky;Nigeria
+796;ECN-sky;Ercan;ERCA-sky;Ercan;CY-sky;Cyprus
+1008;ERL-sky;Erenhot;ERNH-sky;NULL;CN-sky;China
+7661;ERF-sky;Erfurt;ERFU-sky;Erfurt;DE-sky;Germany
+9100;ERI-sky;Erie;ERIA-sky;Erie;US-sky;United States
+13891;ERH-sky;Errachidia;ERRA-sky;NULL;MA-sky;Morocco
+5180;ERC-sky;Erzincan;ERZI-sky;Erzincan;TR-sky;Turkey
+5167;ERZ-sky;Erzurum;ERZU-sky;Erzurum;TR-sky;Turkey
+2229;EBJ-sky;Esbjerg;ESBJ-sky;Esbjerg;DK-sky;Denmark
+9110;ESC-sky;Escanaba;ESCA-sky;Escanaba;US-sky;United States
+4907;ESM-sky;Esmeraldas;ESMA-sky;NULL;EC-sky;Ecuador
+2230;EPR-sky;Esperance;EPRA-sky;Esperance;AU-sky;Australia
+5211;SON-sky;Espiritu Santo;SONV-sky;Luganville;VU-sky;Vanuatu
+2228;ESU-sky;Essaouira;ESSA-sky;Essaouira;MA-sky;Morocco
+9114;EUG-sky;Eugene;EUGA-sky;Eugene;US-sky;United States
+7330;EVV-sky;Evansville;EVVA-sky;Evansville;US-sky;United States
+7329;EVE-sky;Evenes;EVEN-sky;Harstad-Narvik;NO-sky;Norway
+9102;EWE-sky;Ewer;EWEI-sky;NULL;ID-sky;Indonesia
+6378;EXT-sky;Exeter;EXET-sky;Exeter;UK-sky;United Kingdom
+29441;FAC-sky;Faaite;FACP-sky;NULL;PF-sky;French Polynesia
+7362;VDB-sky;Fagernes Valdres;FAGE-sky;Fagernes;NO-sky;Norway
+1587;FIE-sky;Fair Isle;FIEA-sky;Fair Isle;UK-sky;United Kingdom
+8842;FAI-sky;Fairbanks International;FAIA-sky;Fairbanks;US-sky;United States
+13796;LYP-sky;Faisalabad;LYPA-sky;Faisalabad;PK-sky;Pakistan
+518;FKQ-sky;Fak Fak;FKQI-sky;NULL;ID-sky;Indonesia
+3355;EWB-sky;Fall River;EWBA-sky;New Bedford;US-sky;United States
+11585;FAH-sky;Farah;FAHA-sky;NULL;AF-sky;Afghanistan
+11584;FWL-sky;Farewell;FWLA-sky;NULL;US-sky;United States
+1586;FAR-sky;Fargo;FARA-sky;Fargo;US-sky;United States
+23970;FRG-sky;Farmingdale;FRGA-sky;NULL;US-sky;United States
+9156;FMN-sky;Farmington;FMNA-sky;Farmington;US-sky;United States
+9155;FAM-sky;Farmington;FAMA-sky;NULL;US-sky;United States
+1585;FAO-sky;Faro;FARO-sky;Faro;PT-sky;Portugal
+2255;FAY-sky;Fayetteville Municipal;FAYA-sky;Fayetteville;US-sky;United States
+201;FYV-sky;Fayetteville Municipal (Drake Fld);FYVA-sky;Fayetteville;US-sky;United States
+526;FEC-sky;Feira De Santana;FECA-sky;NULL;BR-sky;Brazil
+326;FRE-sky;Fera Island;FREA-sky;Fera Island;SB-sky;Solomon Islands
+1308;FEG-sky;Fergana;FEGA-sky;Fergana;UZ-sky;Uzbekistan
+6738;FEN-sky;Fernando De Noronha;FENA-sky;Fernando De Noronha;BR-sky;Brazil
+11211;FEZ-sky;Fes-SaÌøss;FEZS-sky;Fes;MA-sky;Morocco
+175;FSC-sky;Figari Sud Corse;FIGA-sky;Figari;FR-sky;France
+707;FIZ-sky;Fitzroy Crossing;FIZA-sky;Fitzroy Crossing;AU-sky;Australia
+6579;YFO-sky;Flin Flon;YFOA-sky;Flin Flon;CA-sky;Canada
+9164;FLS-sky;Flinders Island;FLSA-sky;Flinders Island;AU-sky;Australia
+3345;FNT-sky;Flint;FNTA-sky;Flint;US-sky;United States
+674;FLR-sky;Florence;FLOR-sky;Florence;IT-sky;Italy
+675;FLO-sky;Florence;FLOA-sky;Florence;US-sky;United States
+677;FLA-sky;Florencia;FLAA-sky;Florencia;CO-sky;Colombia
+3348;FRS-sky;Flores;FRSA-sky;Flores;GT-sky;Guatemala
+3349;FLW-sky;Flores Island;SANU-sky;Flores Island (Azores);PT-sky;Portugal
+676;FLN-sky;Florianopolis;FLNA-sky;Florianopolis;BR-sky;Brazil
+3346;FRO-sky;Floro;FLOT-sky;Floro;NO-sky;Norway
+424;FOG-sky;Foggia Gino Lisa;FOGG-sky;Foggia;IT-sky;Italy
+6847;FLD-sky;Fond Du Lac;FLDA-sky;NULL;US-sky;United States
+2611;FDE-sky;Forde Bringeland;FORD-sky;Forde;NO-sky;Norway
+15896;FRL-sky;ForlÌÂ;FORL-sky;Forli;IT-sky;Italy
+765;YFA-sky;Fort Albany;YFAA-sky;Fort Albany;CA-sky;Canada
+78;FDF-sky;Fort De France;FDFA-sky;Fort De France;MQ-sky;Martinique
+79;YAG-sky;Fort Frances;YAGA-sky;Fort Frances;CA-sky;Canada
+10760;FXE-sky;Fort Lauderdale Executive;FLLA-sky;NULL;US-sky;United States
+486;TBN-sky;Fort Leonard Wood;TBNA-sky;Fort Leonard Wood;US-sky;United States
+2917;YMM-sky;Fort Mcmurray;YMMA-sky;Fort McMurray;CA-sky;Canada
+2918;ZFM-sky;Fort McPherson;ZFMA-sky;Fort McPherson;CA-sky;Canada
+1218;RSW-sky;Fort Myers Southwest Florida Reg;FMYA-sky;Fort Myers;US-sky;United States
+9174;YYE-sky;Fort Nelson;YYEA-sky;Fort Nelson;CA-sky;Canada
+23545;YER-sky;Fort Severn;YERA-sky;Fort Severn;CA-sky;Canada
+9167;YFS-sky;Fort Simpson;YFSA-sky;Fort Simpson;CA-sky;Canada
+2919;FSM-sky;Fort Smith;FSMA-sky;Fort Smith;US-sky;United States
+2920;YSM-sky;Fort Smith;YSMA-sky;Fort Smith;CA-sky;Canada
+9166;YXJ-sky;Fort St John;YXJA-sky;Fort St. John;CA-sky;Canada
+9173;FWA-sky;Fort Wayne;FWAA-sky;Fort Wayne;US-sky;United States
+9119;FYU-sky;Fort Yukon;FYUA-sky;Fort Yukon;US-sky;United States
+10761;FOR-sky;Fortaleza;FORA-sky;Fortaleza;BR-sky;Brazil
+9175;FON-sky;Fortuna;FONA-sky;NULL;CR-sky;Costa Rica
+9079;FOA-sky;Foula;FOAA-sky;NULL;UK-sky;United Kingdom
+80;MVB-sky;Franceville / Mvengue;MVBA-sky;Franceville;GA-sky;Gabon
+32333;FBE-sky;Francisco Beltrao;FBEA-sky;NULL;BR-sky;Brazil
+85;FRW-sky;Francistown;FRWA-sky;Francistown;BW-sky;Botswana
+933;FRAN-sky;Frankfurt;FRAN-sky;NULL;DE-sky;Germany
+937;FKL-sky;Franklin;FKLA-sky;Franklin;US-sky;United States
+1812;YFC-sky;Fredericton;YFCA-sky;Fredericton;CA-sky;Canada
+3311;FPO-sky;Freeport;FPOA-sky;Freeport;BS-sky;Bahamas
+3310;FNA-sky;Freetown Lungi International;FNAA-sky;Freetown;SL-sky;Sierra Leone
+3309;FAT-sky;Fresno Yosemite;FATA-sky;Fresno;US-sky;United States
+1813;FRD-sky;Friday Harbor;FRDA-sky;Friday Harbor;US-sky;United States
+1814;FBS-sky;Friday Harbor SPB;FBSA-sky;NULL;US-sky;United States
+1811;FDH-sky;Friedrichshafen;FRIE-sky;Friedrichshafen;DE-sky;Germany
+385;FUE-sky;Fuerteventura;FUER-sky;Fuerteventura;ES-sky;Spain
+519;FUJ-sky;Fukue;JFUJ-sky;Fukue;JP-sky;Japan
+3267;FUK-sky;Fukuoka;JFUK-sky;Fukuoka;JP-sky;Japan
+20975;FKS-sky;Fukushima;JFKS-sky;Fukushima;JP-sky;Japan
+10807;FUN-sky;Funafuti;FUNA-sky;Funafuti;TV-sky;Tuvalu
+10808;FUO-sky;Fuoshan;CFUO-sky;NULL;CN-sky;China
+10806;FUT-sky;Futuna Island;FUTA-sky;Futuna Island;WF-sky;Wallis and Futuna Islands
+29448;FTA-sky;Futuna Island;FTAV-sky;Futuna Island;VU-sky;Vanuatu
+14190;FUG-sky;Fuyang;CFUG-sky;NULL;CN-sky;China
+4424;FYJ-sky;Fuyuan Airport;CFYJ-sky;NULL;CN-sky;China
+1652;FOC-sky;Fuzhou;CFOC-sky;Fuzhou;CN-sky;China
+2744;GAE-sky;Gabes;GABE-sky;NULL;TN-sky;Tunisia
+14154;GBE-sky;Gaborone;GBEA-sky;Gaborone;BW-sky;Botswana
+9221;GNV-sky;Gainesville;GNVA-sky;Gainesville;US-sky;United States
+3219;GPS-sky;Galapagos Is;GPSA-sky;NULL;EC-sky;Ecuador
+14467;GLK-sky;Galcaio;GLKA-sky;Galcaio;SO-sky;Somalia
+1342;GEV-sky;Gallivare;GALL-sky;Gallivare;SE-sky;Sweden
+6859;GMB-sky;Gambela;GMBA-sky;Gambela;ET-sky;Ethiopia
+6864;GAM-sky;Gambell;GAMA-sky;Gambell;US-sky;United States
+13834;GMR-sky;Gambier Is;GMRP-sky;Totegegie;PF-sky;French Polynesia
+20248;YRA-sky;Gameti (Rae Lakes);YRAA-sky;Gameti;CA-sky;Canada
+17535;GAN-sky;Gan Island;GANA-sky;Gan Island;MV-sky;Maldives
+21730;YQX-sky;Gander;YQXA-sky;Gander;CA-sky;Canada
+21871;YGG-sky;Ganges Harbor;YGGA-sky;Ganges;CA-sky;Canada
+34934;GXH-sky;Gannan Xiahe;GXHE-sky;NULL;CN-sky;China
+11349;KOW-sky;Ganzhou;CKOW-sky;Ganzhou;CN-sky;China
+9178;GCK-sky;Garden City;GCKA-sky;Garden City;US-sky;United States
+9179;GPN-sky;Garden Point;GPNA-sky;Garden Point;AU-sky;Australia
+1482;ZFQ-sky;Gare de Bordeaux;ZFQA-sky;Bordeaux;FR-sky;France
+2440;ZFJ-sky;Gare de Rennes;ZFJA-sky;Rennes;FR-sky;France
+12272;GGR-sky;Garoe;GGRA-sky;NULL;SO-sky;Somalia
+22462;GOU-sky;Garoua;GOUA-sky;Garoua;CM-sky;Cameroon
+35508;ELQA-sky;Gassim;ELQA-sky;Gassim;SA-sky;Saudi Arabia
+16899;GAY-sky;Gaya;IGAY-sky;Gaya;IN-sky;India
+5124;GZT-sky;Gaziantep;GAZI-sky;Gaziantep;TR-sky;Turkey
+5108;GZP-sky;Gazipasa;GZPA-sky;NULL;TR-sky;Turkey
+2340;GDN-sky;Gdansk;GADA-sky;Gdansk;PL-sky;Poland
+9440;GDZ-sky;Gelendzik;GELE-sky;NULL;RU-sky;Russia
+2443;GMA-sky;Gemena;GMAA-sky;Gemena;CD-sky;DR Congo
+1888;EGN-sky;Geneina;EGNA-sky;Geneina;SD-sky;Sudan
+1389;GES-sky;General Santos International;GESP-sky;General Santos;PH-sky;Philippines
+1847;GVA-sky;Geneva;GENE-sky;Geneva;CH-sky;Switzerland
+1890;GOA-sky;Genoa;GENO-sky;Genoa;IT-sky;Italy
+1026;GGT-sky;George Town;GGTA-sky;George Town;BS-sky;Bahamas
+1025;GEO-sky;Georgetown;GEOA-sky;Georgetown;GY-sky;Guyana
+6589;GET-sky;Geraldton;GETA-sky;Geraldton;AU-sky;Australia
+503;GRO-sky;Gerona;GERO-sky;Girona;ES-sky;Spain
+31172;GHA-sky;Ghardaia;GHAA-sky;Ghardaia;DZ-sky;Algeria
+32745;GHT-sky;Ghat;GHTA-sky;Ghat;LY-sky;Libya
+938;GIB-sky;Gibraltar;GIBR-sky;Gibraltar;GI-sky;Gibraltar
+15713;GIL-sky;Gilgit;GILA-sky;Gilgit;PK-sky;Pakistan
+30765;YGX-sky;Gillam;YGXA-sky;Gillam;CA-sky;Canada
+9195;GCC-sky;Gillette;GCCA-sky;Gillette;US-sky;United States
+9150;YGB-sky;Gillies Bay;YGBA-sky;Gillies Bay;CA-sky;Canada
+15712;GIS-sky;Gisborne;GISN-sky;Gisborne;NZ-sky;New Zealand
+12018;GZO-sky;Gizo;GZOA-sky;Gizo;SB-sky;Solomon Islands
+1809;YHK-sky;Gjoa Haven;YHKA-sky;Gjoa Haven;CA-sky;Canada
+9200;GGG-sky;Gladewater;GGGA-sky;Longview;US-sky;United States
+17272;GLT-sky;Gladstone;GLTA-sky;Gladstone;AU-sky;Australia
+2097;GGW-sky;Glasgow;GGWA-sky;Glasgow;US-sky;United States
+2094;GLA-sky;Glasgow International;GLAS-sky;Glasgow;UK-sky;United Kingdom
+9441;GDV-sky;Glendive;GDVA-sky;Glendive;US-sky;United States
+6385;GLO-sky;Gloucestershire;GLOA-sky;NULL;UK-sky;United Kingdom
+579;GOI-sky;Goa;IGOI-sky;Goa;IN-sky;India
+641;GDE-sky;Gode / Iddidole;GDEA-sky;Gode;ET-sky;Ethiopia
+582;GYN-sky;Goiania;GYNA-sky;Goiania;BR-sky;Brazil
+581;OOL-sky;Gold Coast;OOLA-sky;Gold Coast;AU-sky;Australia
+2761;GLF-sky;Golfito;GLFA-sky;Golfito;CR-sky;Costa Rica
+9565;GOQ-sky;Golmud;CGOQ-sky;NULL;CN-sky;China
+1628;GOM-sky;Goma;GOMA-sky;Goma;CD-sky;DR Congo
+91;GMO-sky;Gombe Lawanti;GOMB-sky;NULL;NG-sky;Nigeria
+21728;GDQ-sky;Gondar;GDQA-sky;Gonder;ET-sky;Ethiopia
+2341;GNU-sky;Goodnews Bay;GNUA-sky;Goodnews Bay;US-sky;United States
+12017;YYR-sky;Goose Bay;YYRA-sky;Goose Bay;CA-sky;Canada
+16909;GOP-sky;Gorakhpur;IGOP-sky;Gorakhpur;IN-sky;India
+3211;GBT-sky;Gorgan;GBTA-sky;Gorgon;IR-sky;Iran
+508;RGK-sky;Gorno-Altaysk;RGKA-sky;NULL;RU-sky;Russia
+898;GKA-sky;Goroka;GKAP-sky;Goroka;PG-sky;Papua New Guinea
+3894;GTO-sky;Gorontalo;GTOI-sky;Gorontalo;ID-sky;Indonesia
+577;GOTH-sky;Gothenburg;GOTH-sky;NULL;SE-sky;Sweden
+19840;GLN-sky;Goulimime;GOUL-sky;NULL;MA-sky;Morocco
+25754;GOV-sky;Gove;GOVA-sky;Nhulunbuy;AU-sky;Australia
+14445;GVR-sky;Governador Valadares;GVRA-sky;NULL;BR-sky;Brazil
+14444;GHB-sky;Governors Harbour;GHBA-sky;Governor's Harbour;BS-sky;Bahamas
+10819;GRW-sky;Graciosa Island;GRAC-sky;Graciosa Island (Azores);PT-sky;Portugal
+372;LPA-sky;Gran Canaria Las Palmas;GRAN-sky;Gran Canaria;ES-sky;Spain
+397;GRX-sky;Granada;GRAO-sky;Granada;ES-sky;Spain
+379;FLG-sky;Grand Canyon Pulliam Field;GCNA-sky;Grand Canyon;US-sky;United States
+398;GCM-sky;Grand Cayman Island;GCMA-sky;Grand Cayman;KY-sky;Cayman Islands
+406;GFK-sky;Grand Forks;GFKA-sky;Grand Forks;US-sky;United States
+9233;GRI-sky;Grand Island;GRIA-sky;Grand Island;US-sky;United States
+404;GJT-sky;Grand Junction;GJTA-sky;Grand Junction;US-sky;United States
+8761;GPZ-sky;Grand Rapids;GPZA-sky;Grand Rapids;US-sky;United States
+399;GRR-sky;Grand Rapids;GRRA-sky;Grand Rapids;US-sky;United States
+202;GDT-sky;Grand Turk Is;GDTA-sky;Grand Turk;TC-sky;Turks and Caicos Islands
+2282;YQU-sky;Grande Prairie;YQUA-sky;Grande Prairie;CA-sky;Canada
+28008;KGX-sky;Grayling;KGXA-sky;Grayling;US-sky;United States
+171;GRZ-sky;Graz;GRAZ-sky;Graz;AT-sky;Austria
+1541;GBZ-sky;Great Barrier Island;GBZN-sky;NULL;NZ-sky;New Zealand
+12157;GBD-sky;Great Bend;GBDA-sky;Great Bend;US-sky;United States
+2692;GTF-sky;Great Falls International;GTFA-sky;Great Falls;US-sky;United States
+28985;GHC-sky;Great Harbour;GHCA-sky;NULL;BS-sky;Bahamas
+9631;PIA-sky;Greater Peoria;PIAA-sky;Peoria;US-sky;United States
+509;GRB-sky;Green Bay;GRBA-sky;Green Bay;US-sky;United States
+944;GSO-sky;Greensboro / High Point;GSOA-sky;Greensboro/High Point;US-sky;United States
+9253;GLH-sky;Greenville;GLHA-sky;Greenville;US-sky;United States
+2036;GSP-sky;Greenville-Spartanburg;GSPA-sky;Greenville;US-sky;United States
+9243;GNB-sky;Grenoble;GREN-sky;Lyon;FR-sky;France
+7896;YGZ-sky;Grise Fiord;YGZA-sky;Grise Fiord;CA-sky;Canada
+9182;GNA-sky;Grodna;GNAA-sky;Grodno;BY-sky;Belarus
+7383;GRQ-sky;Groningen;GRON-sky;Groningen;NL-sky;Netherlands
+21248;GTE-sky;Groote Eylandt;GTEA-sky;Groote Eylandt;AU-sky;Australia
+706;GRV-sky;Grozny;GROZ-sky;NULL;RU-sky;Russia
+15843;GTZ-sky;Grumeti Airstrip;GRUM-sky;NULL;TZ-sky;Tanzania
+11324;GDL-sky;Guadalajara;GDLA-sky;Guadalajara;MX-sky;Mexico
+1417;GUM-sky;Guam A.B. Won Pat;GUMA-sky;Guam;GU-sky;Guam
+11331;GJA-sky;Guanaja;GJAA-sky;Guanaja;HN-sky;Honduras
+11332;GYS-sky;Guang Yuan;CGYS-sky;Guang Yuan;CN-sky;China
+11322;CAN-sky;Guangzhou;CCAN-sky;Guangzhou;CN-sky;China
+7705;GAO-sky;Guantanamo Los Canos;GAOA-sky;Guantanamo;CU-sky;Cuba
+18081;GPI-sky;Guapi;GPIA-sky;Guapi;CO-sky;Colombia
+559;GUA-sky;Guatemala City;GUAA-sky;Guatemala City;GT-sky;Guatemala
+11323;GYE-sky;Guayaquil;GYEA-sky;Guayaquil;EC-sky;Ecuador
+10172;GYM-sky;Guaymas;GYMA-sky;Guaymas;MX-sky;Mexico
+941;GCI-sky;Guernsey;GUER-sky;Guernsey;GG-sky;Guernsey
+721;KWL-sky;Guilin;CKWL-sky;Guilin;CN-sky;China
+22885;KWE-sky;Guiyang;CKWE-sky;Guiyang;CN-sky;China
+9232;GPT-sky;Gulfport;GPTA-sky;Gulfport;US-sky;United States
+9270;GUC-sky;Gunnison;GUCA-sky;Gunnison;US-sky;United States
+9271;KUV-sky;Gunsan;KUVA-sky;Gunsan;KR-sky;South Korea
+34933;GNS-sky;Gunungsitoli;GNSI-sky;NULL;ID-sky;Indonesia
+17143;URY-sky;Gurayat;URYA-sky;Gurayat;SA-sky;Saudi Arabia
+9257;GST-sky;Gustavus Arpt;GSTA-sky;Gustavus;US-sky;United States
+16891;GAU-sky;Guwahati;IGAU-sky;Guwahati;IN-sky;India
+1185;GWD-sky;Gwadar;GWDA-sky;Gwadar;PK-sky;Pakistan
+672;GWL-sky;Gwalior;IGWL-sky;Gwalior;IN-sky;India
+22775;KWJA-sky;Gwangju;KWJA-sky;NULL;KR-sky;South Korea
+21792;KVD-sky;Gyandzha;KVDA-sky;Ganja;AZ-sky;Azerbaijan
+13529;LWN-sky;Gyoumri;LWNA-sky;Gyoumri;AM-sky;Armenia
+15368;HPA-sky;Ha'Apai;HPAA-sky;Ha'apai;TO-sky;Tonga
+16941;HAC-sky;Hachijo Jima;JHAC-sky;Hachijojima;JP-sky;Japan
+22837;HFA-sky;Haifa;HAIF-sky;Haifa;IL-sky;Israel
+22834;HAK-sky;Haikou;CHAK-sky;Haikou;CN-sky;China
+9365;HAS-sky;Hail;HASA-sky;Hail;SA-sky;Saudi Arabia
+34677;HLD-sky;Hailar;CHLD-sky;Hailar;CN-sky;China
+9367;SUN-sky;Hailey;SUNA-sky;Sun Valley;US-sky;United States
+9300;HNS-sky;Haines;HNSA-sky;Haines;US-sky;United States
+3270;HKD-sky;Hakodate;JHKD-sky;Hakodate;JP-sky;Japan
+35504;YHZA-sky;Halifax;YHZA-sky;Halifax;CA-sky;Canada
+9364;YUX-sky;Hall Beach;YUXA-sky;Hall Beach;CA-sky;Canada
+4607;HCQ-sky;Halls Creek;HCQA-sky;Halls Creek;AU-sky;Australia
+1341;HAD-sky;Halmstad;HALM-sky;Halmstad;SE-sky;Sweden
+2897;DOH-sky;Hamad International;DOHA-sky;Doha;QA-sky;Qatar
+3200;HDM-sky;Hamadan;HDMA-sky;NULL;IR-sky;Iran
+688;HRI-sky;Hambantota International Airport;HAMT-sky;NULL;LK-sky;Sri Lanka
+574;HAMB-sky;Hamburg;HAMB-sky;NULL;DE-sky;Germany
+34736;HMI-sky;Hami;CHMI-sky;NULL;CN-sky;China
+2899;YHM-sky;Hamilton;YHMA-sky;Toronto;CA-sky;Canada
+2901;HLZ-sky;Hamilton;HLZN-sky;Hamilton;NZ-sky;New Zealand
+2898;HTI-sky;Hamilton Island;HTIA-sky;Hamilton Island;AU-sky;Australia
+2900;HFT-sky;Hammerfest;HAMM-sky;Hammerfest;NO-sky;Norway
+12457;HNM-sky;Hana;HNMA-sky;Hana;US-sky;United States
+109;CMX-sky;Hancock;CMXA-sky;Hancock;US-sky;United States
+13293;HGH-sky;Hangzhou;CHGH-sky;Hangzhou;CN-sky;China
+13297;HAQ-sky;Hanimaadhoo;HAQA-sky;Hanimaadhoo Island;MV-sky;Maldives
+1775;HAJ-sky;Hannover;HANN-sky;Hannover;DE-sky;Germany
+12455;HAN-sky;Hanoi;HANV-sky;Hanoi;VN-sky;Vietnam
+13295;HZG-sky;Hanzhong;CHZG-sky;Hanzhong;CN-sky;China
+13273;HRE-sky;Harare;HREA-sky;Harare;ZW-sky;Zimbabwe
+22840;HRB-sky;Harbin;CHRB-sky;Harbin;CN-sky;China
+9290;HRL-sky;Harlingen;HRLA-sky;Harlingen;US-sky;United States
+9490;HARA-sky;Harrisburg;HARA-sky;NULL;US-sky;United States
+9292;HRO-sky;Harrison;HROA-sky;Harrison;US-sky;United States
+1543;HFD-sky;Hartford Brainard;HFDA-sky;Hartford;US-sky;United States
+32025;HME-sky;Hassi Messaoud;HMEA-sky;Hassi Messaoud;DZ-sky;Algeria
+994;HDY-sky;Hat Yai;HDYT-sky;Hat Yai;TH-sky;Thailand
+12079;PIB-sky;Hattiesburg-Laurel;LULA-sky;Laurel;US-sky;United States
+7287;HAU-sky;Haugesund;HAUG-sky;Haugesund;NO-sky;Norway
+1806;HAV-sky;Havana;HAVA-sky;Havana;CU-sky;Cuba
+1807;UPB-sky;Havana;UPBA-sky;Havana;CU-sky;Cuba
+9645;YGV-sky;Havre St Pierre;YGVA-sky;Havre-St-Pierre;CA-sky;Canada
+34679;YHY-sky;Hay River;CYHY-sky;Hay River;CA-sky;Canada
+9273;HDN-sky;Hayden;HDNA-sky;Hayden;US-sky;United States
+9301;HYS-sky;Hays;HYSA-sky;Hays;US-sky;United States
+2433;HWD-sky;Hayward;HWDA-sky;NULL;US-sky;United States
+9363;HKB-sky;Healy Lake;HKBA-sky;Healy Lake;US-sky;United States
+13296;HDG-sky;Hebei Handan;HDGA-sky;NULL;CN-sky;China
+4597;HFE-sky;Hefei;CHFE-sky;Hefei;CN-sky;China
+4596;HEH-sky;Heho;HEHM-sky;Heho;MM-sky;Myanmar
+14655;HEK-sky;Heihe;CHEK-sky;NULL;CN-sky;China
+4604;HLN-sky;Helena;HLNA-sky;Helena;US-sky;United States
+4605;AGH-sky;Helsingborg Angelholm;HELT-sky;Angelholm/Helsingborg;SE-sky;Sweden
+2651;HEL-sky;Helsinki Vantaa;HELS-sky;Helsinki;FI-sky;Finland
+1343;HMV-sky;Hemavan;HEMA-sky;Hemavan;SE-sky;Sweden
+22844;HNY-sky;Hengyang;CHNY-sky;NULL;CN-sky;China
+2432;HEA-sky;Herat;HEAA-sky;NULL;AF-sky;Afghanistan
+7655;HDF-sky;Heringsdorf;HERI-sky;Heringsdorf;DE-sky;Germany
+28941;HMO-sky;Hermosillo;HMOA-sky;Hermosillo;MX-sky;Mexico
+9279;HIB-sky;Hibbing;HIBA-sky;Hibbing;US-sky;United States
+15536;HHZ-sky;Hikueru;HHZP-sky;NULL;PF-sky;French Polynesia
+9361;ITO-sky;Hilo;ITOA-sky;Hilo;US-sky;United States
+996;HHH-sky;Hilton Head;HHHA-sky;Hilton Head;US-sky;United States
+3269;HIJ-sky;Hiroshima International;JHIJ-sky;Hiroshima;JP-sky;Japan
+22836;HIX-sky;Hiva Oa;HIXP-sky;NULL;PF-sky;French Polynesia
+556;SGN-sky;Ho Chi Minh City;SGNV-sky;Ho Chi Minh City;VN-sky;Vietnam
+9283;HOB-sky;Hobbs Lea County;HOBA-sky;Hobbs;US-sky;United States
+995;HET-sky;Hohhot;CHET-sky;Hohhot;CN-sky;China
+15306;HOG-sky;Holguin;HOGA-sky;Holguin;CU-sky;Cuba
+4608;HYL-sky;Hollis;HYLA-sky;Hollis;US-sky;United States
+16590;BKG-sky;Hollister;HLIB-sky;Branson;US-sky;United States
+9366;HCR-sky;Holy Cross;HCRA-sky;Holy Cross;US-sky;United States
+21765;HOM-sky;Homer;HOMA-sky;Homer;US-sky;United States
+107;HKG-sky;Hong Kong International;HKGA-sky;Hong Kong;HK-sky;Hong Kong
+12665;HVG-sky;Honningsvag Valan;HONN-sky;Honningsvag;NO-sky;Norway
+9282;HNL-sky;Honolulu International;HNLA-sky;Honolulu;US-sky;United States
+9518;MKK-sky;Hoolehua;MKKA-sky;Hoolehua;US-sky;United States
+12458;HNH-sky;Hoonah;HNHA-sky;Hoonah;US-sky;United States
+9285;HID-sky;Horn Island;HIDA-sky;Horn Island;AU-sky;Australia
+2431;HOR-sky;Horta;HORT-sky;Horta (Azores);PT-sky;Portugal
+22847;HOT-sky;Hot Springs;HOTB-sky;Hot Springs;US-sky;United States
+9274;HTN-sky;Hotan;HOTA-sky;NULL;CN-sky;China
+597;IAH-sky;Houston George Bush Intercntl.;HOUA-sky;Houston;US-sky;United States
+3213;HHQ-sky;Hua Hin (Prachuap Khiri Khan);HHQT-sky;Hua Hin;TH-sky;Thailand
+29092;HUH-sky;Huahine;HUHP-sky;Huahine;PF-sky;French Polynesia
+28086;HJJ-sky;Huai Hua;HJJA-sky;Huai Hua;CN-sky;China
+12456;HIA-sky;Huai'an Lianshui Airport;HACN-sky;NULL;CN-sky;China
+8814;HUN-sky;Hualien;HUNT-sky;Hualien;TW-sky;Taiwan
+689;NOV-sky;Huambo;NOVA-sky;Huambo;AO-sky;Angola
+22843;HYN-sky;Huangyan;CHYN-sky;Huangyan;CN-sky;China
+29093;HUX-sky;Huatulco;HUXA-sky;Huatulco;MX-sky;Mexico
+29091;HUI-sky;Hue;HUIV-sky;Hue;VN-sky;Vietnam
+34657;HGD-sky;Hughenden;HGDA-sky;Hughenden;AU-sky;Australia
+34704;HUZ-sky;Huizhou;CHUZ-sky;NULL;CN-sky;China
+6384;HUY-sky;Humberside;HUMB-sky;Humberside;UK-sky;United Kingdom
+21764;HUE-sky;Humera;HUEA-sky;NULL;ET-sky;Ethiopia
+9296;HSV-sky;Huntsville International;HSVA-sky;Huntsville;US-sky;United States
+29090;HRG-sky;Hurghada;HURG-sky;Hurghada;EG-sky;Egypt
+9284;HON-sky;Huron;HONA-sky;Huron;US-sky;United States
+9299;HYA-sky;Hyannis;HYAA-sky;Hyannis;US-sky;United States
+31967;WHD-sky;Hyder;WHDA-sky;NULL;US-sky;United States
+16843;HYD-sky;Hyderabad;IHYD-sky;Hyderabad;IN-sky;India
+16844;HDD-sky;Hyderabad;HDDA-sky;Hyderabad;PK-sky;Pakistan
+3218;IAS-sky;Iasi;IASI-sky;Iasi;RO-sky;Romania
+3248;IBA-sky;Ibadan;IBAA-sky;Ibadan;NG-sky;Nigeria
+388;IBZ-sky;Ibiza;IBIZ-sky;Ibiza;ES-sky;Spain
+9316;IDA-sky;Idaho Falls;IDAA-sky;Idaho Falls;US-sky;United States
+912;IGD-sky;Igdir Airport;IGDR-sky;NULL;TR-sky;Turkey
+12183;IGU-sky;Iguassu Falls;IGUA-sky;Foz do Iguacu;BR-sky;Brazil
+15943;IGR-sky;Iguazu;IGRA-sky;Iguazu;AR-sky;Argentina
+5177;JIK-sky;Ikaria;IKAR-sky;Ikaria Island;GR-sky;Greece
+6486;IKI-sky;Iki;JIKI-sky;NULL;JP-sky;Japan
+20601;IIL-sky;Ilaam;IILA-sky;Ilaam;IR-sky;Iran
+21753;ILP-sky;Ile Des Pins;ILPN-sky;Ile des Pins;NC-sky;New Caledonia
+1832;YGR-sky;Iles De La Madeleine;YGRA-sky;Iles de La Madeleine;CA-sky;Canada
+28065;IOS-sky;Ilheus;IOSA-sky;Ilheus;BR-sky;Brazil
+9319;ILI-sky;Iliamna;ILIA-sky;Iliamna;US-sky;United States
+9318;XIQ-sky;Ilimanaq;XIQA-sky;Ilimanaq;GL-sky;Greenland
+9090;ILA-sky;Illaga;ILAI-sky;NULL;ID-sky;Indonesia
+9127;ILO-sky;Iloilo International;ILOP-sky;Iloilo;PH-sky;Philippines
+9326;IMP-sky;Imperatriz;IMPA-sky;Imperatriz;BR-sky;Brazil
+9325;IPL-sky;Imperial County;IPLA-sky;El Centro;US-sky;United States
+16914;IMF-sky;Imphal;IIMF-sky;Imphal;IN-sky;India
+29516;IAM-sky;In Amenas;IAMA-sky;In Amenas;DZ-sky;Algeria
+14898;INF-sky;In Guezzam;INFA-sky;NULL;DZ-sky;Algeria
+20074;INZ-sky;In Salah;INZA-sky;In Salah;DZ-sky;Algeria
+21113;IGA-sky;Inagua;IGAA-sky;Inagua;BS-sky;Bahamas
+2816;INB-sky;Independence;INBA-sky;NULL;BZ-sky;Belize
+328;IND-sky;Indianapolis;INDA-sky;NULL;US-sky;United States
+2815;IDR-sky;Indore;IIDR-sky;Indore;IN-sky;India
+17336;INH-sky;Inhambane;INHA-sky;NULL;MZ-sky;Mozambique
+4413;INN-sky;Innsbruck;INNS-sky;Innsbruck;AT-sky;Austria
+9340;INL-sky;International Falls;INLA-sky;International Falls;US-sky;United States
+1443;YEV-sky;Inuvik / Mike Zubko;YEVA-sky;Inuvik;CA-sky;Canada
+6390;IVC-sky;Invercargill;IVCN-sky;Invercargill;NZ-sky;New Zealand
+2830;INV-sky;Inverness;INVE-sky;Inverness;UK-sky;United Kingdom
+17138;IOA-sky;Ioannina;IOAN-sky;Ioannina;GR-sky;Greece
+3247;IPN-sky;Ipatinga;IPNA-sky;NULL;BR-sky;Brazil
+15369;IPH-sky;Ipoh;IPHM-sky;Ipoh;MY-sky;Malaysia
+12058;IPA-sky;Ipota;IPAV-sky;Ipota;VU-sky;Vanuatu
+12544;IQT-sky;Iquitos;IQTA-sky;Iquitos;PE-sky;Peru
+1003;IHR-sky;Iran Shahr;IHRA-sky;NULL;IR-sky;Iran
+15834;IRI-sky;Iringa;IRIA-sky;NULL;TZ-sky;Tanzania
+8897;IKT-sky;Irkutsk;IRKU-sky;Irkutsk;RU-sky;Russia
+1009;IMT-sky;Iron Mountain;IMTA-sky;Iron Mountain;US-sky;United States
+9358;IWD-sky;Ironwood;IWDA-sky;Ironwood;US-sky;United States
+3235;IFN-sky;Isfahan;IFNA-sky;Esfahan;IR-sky;Iran
+20996;ISG-sky;Ishigaki;JISG-sky;Ishigaki;JP-sky;Japan
+13794;IRP-sky;Isiro;IRPA-sky;NULL;CD-sky;DR Congo
+35511;ISBA-sky;Islamabad;ISBA-sky;Islamabad;PK-sky;Pakistan
+1889;ILY-sky;Islay Glenegedale;ISLA-sky;Islay;UK-sky;United Kingdom
+1244;ISC-sky;Isles of Scilly St. Mary's;SCIL-sky;Isles Of Scilly;UK-sky;United Kingdom
+1798;ISP-sky;Islip;ISPA-sky;Islip;US-sky;United States
+5210;ISE-sky;Isparta;ISEA-sky;NULL;TR-sky;Turkey
+281;ISTA-sky;Istanbul;ISTA-sky;NULL;TR-sky;Turkey
+15797;ITB-sky;Itaituba;ITBA-sky;NULL;BR-sky;Brazil
+9350;ITH-sky;Ithaca;ITHA-sky;Ithaca;US-sky;United States
+31606;IVL-sky;Ivalo;IVAL-sky;Ivalo;FI-sky;Finland
+936;IFO-sky;Ivano-Frankovsk;IVAN-sky;Ivano-FrankIvsk;UA-sky;Ukraine
+30081;IWA-sky;Ivanova;IVAO-sky;NULL;RU-sky;Russia
+9117;IWK-sky;Iwakuni;IWKU-sky;Iwakuni;JP-sky;Japan
+1408;IWJ-sky;Iwami;JIWJ-sky;Masuda;JP-sky;Japan
+6381;ZIH-sky;Ixtapa / Zihuatanejo;ZIHA-sky;Ixtapa/Zihuatanejo;MX-sky;Mexico
+29909;IJK-sky;Izhevsk;IZHE-sky;NULL;RU-sky;Russia
+4905;ADB-sky;Izmir;IZMI-sky;Izmir;TR-sky;Turkey
+21005;IZO-sky;Izumo;JIZO-sky;Izumo;JP-sky;Japan
+16973;JLR-sky;Jabalpur;IJLR-sky;NULL;IN-sky;India
+9372;MKL-sky;Jackson;MKLA-sky;Jackson;US-sky;United States
+9362;JAC-sky;Jackson Hole;JACA-sky;Jackson;US-sky;United States
+9371;JAN-sky;Jackson-Evers International;JANA-sky;Jackson;US-sky;United States
+9374;OAJ-sky;Jacksonville;OAJA-sky;Jacksonville;US-sky;United States
+9375;LRF-sky;Jacksonville;LRFA-sky;NULL;US-sky;United States
+9373;JAX-sky;Jacksonville International;JAXA-sky;Jacksonville;US-sky;United States
+16845;JAI-sky;Jaipur;IJAI-sky;Jaipur;IN-sky;India
+30775;JAL-sky;Jalapa;JALA-sky;Jalapa;MX-sky;Mexico
+14696;DJB-sky;Jambi;DJBI-sky;Jambi;ID-sky;Indonesia
+9387;JHW-sky;Jamestown;JHWA-sky;Jamestown;US-sky;United States
+9388;JMS-sky;Jamestown;JMSA-sky;Jamestown;US-sky;United States
+16939;IXJ-sky;Jammu;IIXJ-sky;Jammu;IN-sky;India
+16968;JGA-sky;Jamnagar;IJGA-sky;Jamnagar;IN-sky;India
+1349;JKR-sky;Janakpur;JKRA-sky;NULL;NP-sky;Nepal
+16213;JNA-sky;Januaria;JNAA-sky;NULL;BR-sky;Brazil
+22967;JAU-sky;Jauja;JAUA-sky;NULL;PE-sky;Peru
+524;DJJ-sky;Jayapura;DJJI-sky;Jayapura;ID-sky;Indonesia
+539;XRY-sky;Jerez;JERE-sky;Jerez;ES-sky;Spain
+540;JER-sky;Jersey;JERS-sky;Jersey;UK-sky;United Kingdom
+34773;JGS-sky;Ji An;CJGS-sky; ;CN-sky;China
+826;JPR-sky;Ji-Parana;JPRA-sky;Ji-Parana;BR-sky;Brazil
+22857;JMU-sky;Jiamusi;CJMU-sky;Jiamusi;CN-sky;China
+30202;JGN-sky;Jiayuguan;CJGN-sky;Jiayuguan;CN-sky;China
+28085;GJL-sky;Jijel;GJLA-sky;Jijel;DZ-sky;Algeria
+21766;JIJ-sky;Jijiga;JIJA-sky;Jijiga;ET-sky;Ethiopia
+16940;JIM-sky;Jimma;JIMA-sky;Jimma;ET-sky;Ethiopia
+22958;TNA-sky;Jinan Yaoqiang;JINA-sky;Jinan;CN-sky;China
+30201;JDZ-sky;Jingdezhen;CJDZ-sky;Jingdezhen;CN-sky;China
+30200;JHG-sky;Jinghong;CJHG-sky;Jinghong;CN-sky;China
+28087;JNG-sky;Jining;CJNG-sky;NULL;CN-sky;China
+22869;JJN-sky;Jinjiang;CJJN-sky;Jinjiang;CN-sky;China
+22971;HIN-sky;Jinju;HINA-sky;Jinju;KR-sky;South Korea
+22972;JNZ-sky;Jinzhou;CJNZ-sky;Jinzhou;CN-sky;China
+5182;JXA-sky;Jixi Khanka Lake;JIXI-sky;NULL;CN-sky;China
+9808;JPA-sky;Joao Pessoa;JPAA-sky;Joao Pessoa;BR-sky;Brazil
+16965;JDH-sky;Jodhpur;IJDH-sky;Jodhpur;IN-sky;India
+1993;JNB-sky;Johannesburg O.R. Tambo;JNBA-sky;Johannesburg;ZA-sky;South Africa
+9400;JST-sky;Johnstown;JSTA-sky;Johnstown;US-sky;United States
+114;JHB-sky;Johor Bahru;JHBM-sky;Johor Bahru;MY-sky;Malaysia
+28080;JOI-sky;Joinville;JOIA-sky;Joinville;BR-sky;Brazil
+1348;JKG-sky;Jonkoping Axamo;JONK-sky;Jonkoping;SE-sky;Sweden
+9385;JLN-sky;Joplin;JLNA-sky;Joplin;US-sky;United States
+16987;JRH-sky;Jorhat;IJRH-sky;Jorhat;IN-sky;India
+1109;JSM-sky;Jose De San Martin;JSMA-sky;NULL;AR-sky;Argentina
+30080;JOK-sky;Joshkar-Ola;JOSH-sky;Yoshkar-Ola;RU-sky;Russia
+7034;JDO-sky;Juazeiro Do Norte;JDOA-sky;Juazeiro Do Norte;BR-sky;Brazil
+1316;IZA-sky;Juiz De Fora;JDFA-sky;Juiz De Fora;BR-sky;Brazil
+900;JCK-sky;Julia Creek;JCKA-sky;Julia Creek;AU-sky;Australia
+6718;JNU-sky;Juneau;JNUA-sky;Juneau;US-sky;United States
+5198;KZR-sky;KÌ_tahya;KUTH-sky;NULL;TR-sky;Turkey
+14525;KBL-sky;Kabul;KBLA-sky;Kabul;AF-sky;Afghanistan
+10100;KAD-sky;Kaduna;KADA-sky;NULL;NG-sky;Nigeria
+3302;KOJ-sky;Kagoshima;JKOJ-sky;Kagoshima;JP-sky;Japan
+167;KCM-sky;Kahramanmaras;KCMA-sky;NULL;TR-sky;Turkey
+640;KAT-sky;Kaitaia;KATN-sky;Kaitaia;NZ-sky;New Zealand
+11628;KAJ-sky;Kajaani;KAJA-sky;Kajaani;FI-sky;Finland
+21244;KNK-sky;Kakhonak;KNKA-sky;Kakhonak;US-sky;United States
+9563;KLX-sky;Kalamata International;KALA-sky;Kalamata;GR-sky;Greece
+9562;AZO-sky;Kalamazoo;AZOA-sky;Kalamazoo;US-sky;United States
+30763;FMI-sky;Kalemie;FMIA-sky;NULL;CD-sky;DR Congo
+30764;KMV-sky;Kalemyo;KMVM-sky;Kalemyo;MM-sky;Myanmar
+616;KLO-sky;Kalibo International (Boracay);KLOP-sky;Kalibo;PH-sky;Philippines
+12336;KGD-sky;Kaliningrad;KALI-sky;Kaliningrad;RU-sky;Russia
+9149;FCA-sky;Kalispell;FCAA-sky;Kalispell;US-sky;United States
+1351;KLR-sky;Kalmar;KALM-sky;Kalmar;SE-sky;Sweden
+2099;KLG-sky;Kalskag;KLGA-sky;Kalskag;US-sky;United States
+15844;JKL-sky;Kalymnos;JKLA-sky;Kalymnos Island;GR-sky;Greece
+6863;KDB-sky;Kambalda;KDBA-sky;NULL;AU-sky;Australia
+34935;KGA-sky;Kananga;KGAA-sky;Kananga;CD-sky;DR Congo
+14529;KDH-sky;Kandahar;KDHA-sky;Kandahar;AF-sky;Afghanistan
+22939;QPW-sky;Kangaatsiaq;QPWA-sky;Kangaatsiaq;GL-sky;Greenland
+22938;KGT-sky;Kangding;KGTA-sky;NULL;CN-sky;China
+14127;SFJ-sky;Kangerlussuaq;SFJA-sky;Kangerlussuaq;GL-sky;Greenland
+14926;KNU-sky;Kanpur;IKNU-sky;NULL;IN-sky;India
+8716;MKCA-sky;Kansas City;MKCA-sky;NULL;US-sky;United States
+14526;JHM-sky;Kapalua;JHMA-sky;Kapalua;US-sky;United States
+204;KHI-sky;Karachi;KHIA-sky;Karachi;PK-sky;Pakistan
+3214;KGF-sky;Karaganda;KGFA-sky;Karaganda;KZ-sky;Kazakhstan
+29100;KRY-sky;Karamay;CKRY-sky;NULL;CN-sky;China
+29101;NZK-sky;Karamea;NZKR-sky;NULL;NZ-sky;New Zealand
+30969;KDL-sky;Kardla;KDLA-sky;NULL;EE-sky;Estonia
+18605;KAB-sky;Kariba;KABA-sky;Kariba;ZW-sky;Zimbabwe
+1588;KLV-sky;Karlovy Vary;KARN-sky;Karlovy Vary;CZ-sky;Czech Republic
+1364;FKB-sky;Karlsruhe / Baden-Baden;BADE-sky;Karlsruhe/Baden-Baden;DE-sky;Germany
+1363;KSD-sky;Karlstad;KARL-sky;Karlstad;SE-sky;Sweden
+17181;AOK-sky;Karpathos;KARP-sky;Karpathos;GR-sky;Greece
+30968;KTA-sky;Karratha;KTAA-sky;Karratha;AU-sky;Australia
+177;KSY-sky;Kars;KARS-sky;Kars;TR-sky;Turkey
+205;KSQ-sky;Karshi;KSQA-sky;Karshi;UZ-sky;Uzbekistan
+18604;KRP-sky;Karup;KARU-sky;Karup;DK-sky;Denmark
+12028;KXA-sky;Kasaan;KXAA-sky;Kasaan;US-sky;United States
+12025;BBK-sky;Kasane;BBKA-sky;Kasane;BW-sky;Botswana
+4492;KSE-sky;Kasese;KSEA-sky;Kasese;UG-sky;Uganda
+16828;KHG-sky;Kashi;CKHG-sky;Kashi;CN-sky;China
+4493;KSJ-sky;Kasos Island;KASO-sky;Kasos Island;GR-sky;Greece
+10955;KSF-sky;Kassel;KASS-sky;Kassel;DE-sky;Germany
+5199;KFS-sky;Kastamonu;KFSA-sky;NULL;TR-sky;Turkey
+1742;KZS-sky;Kastelorizo;KASU-sky;Megisti;GR-sky;Greece
+876;KSO-sky;Kastoria Aristotlis;KAST-sky;Kastoria;GR-sky;Greece
+5991;KXU-sky;Katiu;KXUP-sky;NULL;PF-sky;French Polynesia
+1570;KTW-sky;Katowice;KATO-sky;Katowice;PL-sky;Poland
+3100;KDZ-sky;Katugastota;KATU-sky;NULL;LK-sky;Sri Lanka
+9439;LIH-sky;Kauai Island Lihue;LIHA-sky;Kauai Island;US-sky;United States
+16311;KUN-sky;Kaunas;KAUN-sky;Kaunas;LT-sky;Lithuania
+8945;KVA-sky;Kavala Alexandros;KAVA-sky;Kavala;GR-sky;Greece
+5095;ASR-sky;Kayseri;KAYS-sky;Kayseri;TR-sky;Turkey
+12015;KZN-sky;Kazan;KAZA-sky;Kazan;RU-sky;Russia
+6913;EAR-sky;Kearney;EARA-sky;Kearney;US-sky;United States
+33711;KEZ-sky;Kelaniya;KEZA-sky;Kelaniya;LK-sky;Sri Lanka
+722;YLW-sky;Kelowna;YLWA-sky;Kelowna;CA-sky;Canada
+17273;KES-sky;Kelsey;KESA-sky;NULL;CA-sky;Canada
+25844;KEJ-sky;Kemerovo;KEME-sky;Kemerovo;RU-sky;Russia
+1627;KEM-sky;Kemi / Tornio;KEMI-sky;Kemi/Tornio;FI-sky;Finland
+17534;ENA-sky;Kenai;ENAA-sky;Kenai;US-sky;United States
+21729;KDI-sky;Kendari;KDII-sky;Kendari;ID-sky;Indonesia
+14520;KET-sky;Keng Tung;KETM-sky;Kentung;MM-sky;Myanmar
+9101;KEH-sky;Kenmore Air Harbor;KEHA-sky;Kenmore Air Harbor;US-sky;United States
+25846;KPW-sky;Keperveyem;KPWA-sky;NULL;RU-sky;Russia
+168;KER-sky;Kerman;KERA-sky;Kerman;IR-sky;Iran
+169;KSH-sky;Kermanshah;KSHA-sky;Kermanshah;IR-sky;Iran
+12269;KIR-sky;Kerry;KERR-sky;Kerry;IE-sky;Ireland
+17142;KTE-sky;Kerteh;KTEM-sky;NULL;MY-sky;Malaysia
+9421;KTNA-sky;Ketchikan;KTNA-sky;NULL;US-sky;United States
+287;EYW-sky;Key West International;EYWA-sky;Key West;US-sky;United States
+15672;KHV-sky;Khabarovsk Novy;KHAB-sky;Khabarovsk;RU-sky;Russia
+16913;HJR-sky;Khajuraho;IHJR-sky;Khajuraho;IN-sky;India
+28;HMA-sky;Khanty-Mansiysk;HMAA-sky;KHANTY-MANSIYSK;RU-sky;Russia
+25775;HRK-sky;Kharkov;KHAR-sky;Kharkiv;UA-sky;Ukraine
+705;KHE-sky;Kherson;KHER-sky;Kherson;UA-sky;Ukraine
+395;KKC-sky;Khon Kaen;KKCT-sky;Khon Kaen;TH-sky;Thailand
+28011;KHD-sky;Khorramabad;KHDA-sky;Khorramabad;IR-sky;Iran
+15564;KEL-sky;Kiel;KIEL-sky;Kiel;DE-sky;Germany
+15562;KIE-sky;Kieta;KIEP-sky;NULL;PG-sky;Papua New Guinea
+1500;KBP-sky;Kiev Borispol;KIEV-sky;Kiev;UA-sky;Ukraine
+15552;KGL-sky;Kigali;KGLA-sky;Kigali;RW-sky;Rwanda
+15877;TKQ-sky;Kigoma;TKQA-sky;Kigoma;TZ-sky;Tanzania
+15307;KKX-sky;Kikaiga Shima;JKKX-sky;Kikai;JP-sky;Japan
+15553;JRO-sky;Kilimanjaro;JROA-sky;Kilimanjaro;TZ-sky;Tanzania
+724;ILEA-sky;Killeen;ILEA-sky;NULL;US-sky;United States
+13833;KIM-sky;Kimberley;KIMA-sky;Kimberley;ZA-sky;South Africa
+25757;KVC-sky;King Cove;KVCA-sky;King Cove;US-sky;United States
+5183;KNS-sky;King Island;KNSA-sky;King Island;AU-sky;Australia
+9892;AKN-sky;King Salmon;AKNA-sky;King Salmon;US-sky;United States
+1559;KCS-sky;Kings Creek Station;KCSA-sky;NULL;AU-sky;Australia
+9893;KGC-sky;Kingscote;KGCA-sky;Kingscote;AU-sky;Australia
+9891;YGK-sky;Kingston;YGKA-sky;Kingston;CA-sky;Canada
+9890;KIN-sky;Kingston Norman Manley;KINA-sky;Kingston;JM-sky;Jamaica
+3074;SVD-sky;Kingstown;SVDA-sky;St Vincent;VC-sky;Saint Vincent and the Grenadines
+23020;KNH-sky;Kinmen;KNHT-sky;Kinmen;TW-sky;Taiwan
+24193;JJM-sky;Kinna Meru;KINN-sky;NULL;KE-sky;Kenya
+12069;FIH-sky;Kinshasa N'Djili;FIHA-sky;Kinshasa;CD-sky;DR Congo
+3171;KPN-sky;Kipnuk;KPNA-sky;Kipnuk;US-sky;United States
+13642;IRA-sky;Kirakira;IRAA-sky;Kirakira;SB-sky;Solomon Islands
+945;KCK-sky;Kirensk;KIRE-sky;NULL;RU-sky;Russia
+3212;KKN-sky;Kirkenes HÌüybuktmoen;KIRK-sky;Kirkenes;NO-sky;Norway
+7026;IRK-sky;Kirksville;IRKA-sky;Kirksville;US-sky;United States
+17133;KVX-sky;Kirov;KIRQ-sky;Kirov;RU-sky;Russia
+29892;KVK-sky;Kirovsk;KIRP-sky;NULL;RU-sky;Russia
+507;KRN-sky;Kiruna;KIRU-sky;Kiruna;SE-sky;Sweden
+16829;KIH-sky;Kish Island;KIHA-sky;Kish Island;IR-sky;Iran
+5990;KKJ-sky;Kita Kyushu;JKKJ-sky;Kitakyushu;JP-sky;Japan
+15947;KTL-sky;Kitale;KTLA-sky;NULL;KE-sky;Kenya
+9048;YKF-sky;Kitchener / Waterloo;YKFA-sky;Toronto;CA-sky;Canada
+17186;KIT-sky;Kithira;KITH-sky;Kythira;GR-sky;Greece
+8973;KTT-sky;KittilÌ_;KITT-sky;Kittila;FI-sky;Finland
+26970;KIW-sky;Kitwe;KIWA-sky;Kitwe;ZM-sky;Zambia
+4406;KLU-sky;Klagenfurt;KLAG-sky;Klagenfurt;AT-sky;Austria
+14466;KLW-sky;Klawock;KLWA-sky;Klawock;US-sky;United States
+9564;YKT-sky;Klemtu;YKTA-sky;Klemtu;CA-sky;Canada
+6409;NOC-sky;Knock;KNOC-sky;Knock;IE-sky;Ireland
+9925;TYS-sky;Knoxville;TYSA-sky;Knoxville;US-sky;United States
+345;UKB-sky;Kobe;JUKB-sky;NULL;JP-sky;Japan
+4886;OBU-sky;Kobuk / Wien;OBUA-sky;Kobuk;US-sky;United States
+24956;KCO-sky;Kocaeli;KCOA-sky;NULL;TR-sky;Turkey
+16405;COK-sky;Kochi;ICOK-sky;Kochi;IN-sky;India
+16827;KCZ-sky;Kochi;JKCZ-sky;Kochi;JP-sky;Japan
+10772;ADQ-sky;Kodiak;ADQA-sky;Kodiak;US-sky;United States
+29984;KGP-sky;Kogalym;KGPA-sky;Kogalym;RU-sky;Russia
+24955;KCT-sky;Koggala;KCTA-sky;Koggala;LK-sky;Sri Lanka
+8854;USM-sky;Koh Samui / Samui Island;USMT-sky;Koh Samui;TH-sky;Thailand
+9245;KOK-sky;Kokkola / Pietarsaari Kruunupyy;KOKK-sky;Kokkola/Pietarsaari;FI-sky;Finland
+16878;CCU-sky;Kolkata;ICCU-sky;Kolkata;IN-sky;India
+17274;KWZ-sky;Kolwezi;KWZA-sky;NULL;CD-sky;DR Congo
+21027;KMQ-sky;Komatsu;JKMQ-sky;Komatsu;JP-sky;Japan
+3299;KXK-sky;Komsomolsk Na Amure;KOMS-sky;Komsomolsk-an-Amure;RU-sky;Russia
+3919;KOA-sky;Kona;KOAA-sky;Kona;US-sky;United States
+5184;KOO-sky;Kongolo;KOOA-sky;NULL;CD-sky;DR Congo
+953;KYA-sky;Konya;KONY-sky;Konya;TR-sky;Turkey
+899;HGO-sky;Korhogo;HGOA-sky;NULL;CI-sky;Ivory Coast
+22894;KRL-sky;Korla;CKRL-sky;Korla;CN-sky;China
+12271;KXF-sky;Koro Island;KXFF-sky;Koro;FJ-sky;Fiji
+12016;KGS-sky;Kos;KOSS-sky;Kos;GR-sky;Greece
+4491;KSC-sky;Kosice;KOSI-sky;Kosice;SK-sky;Slovakia
+5096;KSA-sky;Kosrae;KSAA-sky;Kosrae;FM-sky;Micronesia
+17191;KSN-sky;Kostanay;KSNA-sky;Kostanay;KZ-sky;Kazakhstan
+878;KMW-sky;Kostroma;KOST-sky;NULL;RU-sky;Russia
+115;KBR-sky;Kota Bharu;KBRM-sky;Kota Bharu;MY-sky;Malaysia
+636;BKI-sky;Kota Kinabalu;BKIM-sky;Kota Kinabalu;MY-sky;Malaysia
+21241;KBU-sky;Kotabaru;KBUI-sky;NULL;ID-sky;Indonesia
+8974;KSZ-sky;Kotlas;KOTL-sky;Kotlas;RU-sky;Russia
+10782;OTZ-sky;Kotzebue;OTZA-sky;Kotzebue;US-sky;United States
+15308;KYU-sky;Koyukuk;KYUA-sky;Koyukuk;US-sky;United States
+12026;KZI-sky;Kozani Philippos;KOZA-sky;Kozani;GR-sky;Greece
+13432;CCJ-sky;Kozhikode;ICCJ-sky;Kozhikode;IN-sky;India
+570;KBV-sky;Krabi;KBVT-sky;Krabi;TH-sky;Thailand
+569;KRK-sky;Krakow;KRAK-sky;Krakow;PL-sky;Poland
+573;KRF-sky;Kramfors;KRAM-sky;Kramfors;SE-sky;Sweden
+571;KRR-sky;Krasnodar;KRAT-sky;Krasnodar;RU-sky;Russia
+572;KJA-sky;Krasnoyarsk;KRAS-sky;Krasnoyarsk;RU-sky;Russia
+6894;KRS-sky;Kristiansand Kjevik;KRSA-sky;Kristiansand;NO-sky;Norway
+6892;KID-sky;Kristianstad;KRIS-sky;Kristianstad;SE-sky;Sweden
+6895;KSU-sky;Kristiansund;KRIT-sky;Kristiansund;NO-sky;Norway
+1979;KULM-sky;Kuala Lumpur;KULM-sky;NULL;MY-sky;Malaysia
+9040;TGG-sky;Kuala Terengganu;TGGM-sky;Kuala Terengganu;MY-sky;Malaysia
+21258;KUA-sky;Kuantan;KUAM-sky;Kuantan;MY-sky;Malaysia
+144;KUG-sky;Kubin Island;KUGA-sky;Kubin;AU-sky;Australia
+21243;KCH-sky;Kuching;KCHM-sky;Kuching;MY-sky;Malaysia
+16977;YCO-sky;Kugluktuk;YCOA-sky;Kugluktuk;CA-sky;Canada
+9555;KUU-sky;Kulu;IKUU-sky;NULL;IN-sky;India
+2098;KUS-sky;Kulusuk Island;KULU-sky;Kulusuk;GL-sky;Greenland
+21028;KMJ-sky;Kumamoto;JKMJ-sky;Kumamoto;JP-sky;Japan
+10171;KMS-sky;Kumasi;KMSA-sky;NULL;GH-sky;Ghana
+21096;UEO-sky;Kumejima;JUEO-sky;Kume-jima;JP-sky;Japan
+23019;KMG-sky;Kunming;CKMG-sky;Kunming;CN-sky;China
+346;KUO-sky;Kuopio;KUOP-sky;Kuopio;FI-sky;Finland
+3169;KOE-sky;Kupang;KOEA-sky;Kupang;ID-sky;Indonesia
+3215;KRO-sky;Kurgan;KURG-sky;Kurgan;RU-sky;Russia
+3216;KQT-sky;Kurgon-Tyube;KRGN-sky;NULL;TJ-sky;Tajikistan
+30069;URS-sky;Kursk;KURS-sky;NULL;RU-sky;Russia
+21031;KUH-sky;Kushiro;JKUH-sky;Kushiro;JP-sky;Japan
+1572;KUT-sky;Kutaisi;KUTA-sky;Kutaisi;GE-sky;Georgia
+24093;KUZ-sky;Kuummiit Heliport;KUZA-sky;NULL;KR-sky;South Korea
+633;KWI-sky;Kuwait;KWIA-sky;Kuwait;KW-sky;Kuwait
+10956;KYZ-sky;Kyzyl;KYZY-sky;Kyzyl;RU-sky;Russia
+2615;KZO-sky;Kzyl-Orda;KZOA-sky;Kzyl-Orda;KZ-sky;Kazakhstan
+833;BDA-sky;L.F. Wade International Airport;BDAA-sky;Bermuda;BM-sky;Bermuda
+150;LCE-sky;La Ceiba;LCEA-sky;La Ceiba;HN-sky;Honduras
+456;LCG-sky;La Coruna;LACO-sky;A Coruna;ES-sky;Spain
+178;LSE-sky;La Crosse;LSEA-sky;La Crosse;US-sky;United States
+1589;LFR-sky;La Fria;LFRA-sky;NULL;VE-sky;Venezuela
+394;GMZ-sky;La Gomera Tenerife;LAGO-sky;San Sebastian/Gomera;ES-sky;Spain
+457;YGL-sky;La Grande;YGLA-sky;La Grande Riviere;CA-sky;Canada
+371;SPC-sky;La Palma;LAPA-sky;Santa Cruz De La Palma;ES-sky;Spain
+2679;LPB-sky;La Paz;LPBA-sky;La Paz;BO-sky;Bolivia
+2683;LAP-sky;La Paz;LAPB-sky;La Paz;MX-sky;Mexico
+12713;IRJ-sky;La Rioja;IRJB-sky;La Rioja;AR-sky;Argentina
+7037;LRH-sky;La Rochelle;LARO-sky;La Rochelle;FR-sky;France
+267;LRM-sky;La Romana;LRMA-sky;La Romana;DO-sky;Dominican Republic
+16950;YVC-sky;La Ronge;YVCA-sky;La Ronge;CA-sky;Canada
+492;EUN-sky;Laayoune Hassan I;LAAY-sky;Laayoune;MA-sky;Morocco
+30791;LBS-sky;Labasa;LBSF-sky;Labasa;FJ-sky;Fiji
+1072;LBR-sky;Labrea;LBRA-sky;NULL;BR-sky;Brazil
+21261;LBU-sky;Labuan;LBUM-sky;Labuan;MY-sky;Malaysia
+9681;LBJ-sky;Labuan Bajo;LBJI-sky;Labuan Bajo;ID-sky;Indonesia
+9430;LFT-sky;Lafayette;LFTA-sky;Lafayette;US-sky;United States
+4775;LGQ-sky;Lago Agrio;LGQA-sky;Lago Agrio;EC-sky;Ecuador
+15247;LOS-sky;Lagos;LOSA-sky;Lagos;NG-sky;Nigeria
+17340;LDU-sky;Lahad Datu;LDUM-sky;Lahad Datu;MY-sky;Malaysia
+21813;LHE-sky;Lahore;LHEA-sky;Lahore;PK-sky;Pakistan
+8929;LCH-sky;Lake Charles;LCHA-sky;Lake Charles;US-sky;United States
+31607;LEL-sky;Lake Evella;LELA-sky;Gapuwiyak;AU-sky;Australia
+9524;LKY-sky;Lake Manyara;LKYA-sky;Lake Manyara;TZ-sky;Tanzania
+12466;LMA-sky;Lake Minchumina;LMAA-sky;Lake Minchumina;US-sky;United States
+1377;LKL-sky;Lakselv;LAKE-sky;Lakselv;NO-sky;Norway
+15256;LLI-sky;Lalibela;LLIA-sky;Lalibela;ET-sky;Ethiopia
+31027;LPM-sky;Lamap;LPMV-sky;Lamap;VU-sky;Vanuatu
+2747;LNB-sky;Lamen Bay;LNBV-sky;Lamen Bay;VU-sky;Vanuatu
+31495;LFM-sky;Lamerd;LFMA-sky;Lamerd;IR-sky;Iran
+1800;SUF-sky;Lamezia Terme;MARA-sky;Lamezia Terme;IT-sky;Italy
+18590;LPT-sky;Lampang;LPTT-sky;Lampang;TH-sky;Thailand
+10196;LMP-sky;Lampedusa;LAMP-sky;Lampedusa;IT-sky;Italy
+14892;LAU-sky;Lamu;LAUA-sky;Lamu;KE-sky;Kenya
+2064;LNY-sky;Lanai City;LNYA-sky;Lanai;US-sky;United States
+28105;LNS-sky;Lancaster;LNSA-sky;Lancaster;US-sky;United States
+330;LEQ-sky;Lands End;LEQA-sky;Lands End;UK-sky;United Kingdom
+21322;LGK-sky;Langkawi;LGKM-sky;Langkawi;MY-sky;Malaysia
+7315;LLK-sky;Lankaran International;LANK-sky;NULL;AZ-sky;Azerbaijan
+13991;LAI-sky;Lannion;LANN-sky;Lannion;FR-sky;France
+384;HLA-sky;Lanseria;HLAA-sky;NULL;ZA-sky;South Africa
+9413;LAN-sky;Lansing;LANA-sky;Lansing;US-sky;United States
+383;ACE-sky;Lanzarote;ARRE-sky;Lanzarote;ES-sky;Spain
+34830;LHW-sky;Lanzhou;CLHW-sky;Lanzhou;CN-sky;China
+4774;LAO-sky;Laoag International;LAOP-sky;Laoag;PH-sky;Philippines
+31612;LPP-sky;Lappeenranta;LAPP-sky;Lappeenranta;FI-sky;Finland
+3237;LRR-sky;Lar;LRRA-sky;Lar;IR-sky;Iran
+3238;LAR-sky;Laramie;LARA-sky;Laramie;US-sky;United States
+3241;LKA-sky;Larantuka;LKAI-sky;NULL;ID-sky;Indonesia
+3239;LRD-sky;Laredo;LRDA-sky;Laredo;US-sky;United States
+2201;LCA-sky;Larnaca;LARN-sky;Larnaca;CY-sky;Cyprus
+3242;KLN-sky;Larsen Bay;KLNA-sky;Larsen Bay;US-sky;United States
+1607;BWW-sky;Las Brujas;BANY-sky;NULL;CU-sky;Cuba
+7060;LSP-sky;Las Piedras;LSPA-sky;Las Piedras;VE-sky;Venezuela
+758;VTU-sky;Las Tunas;VTUA-sky;Las Tunas;CU-sky;Cuba
+1062;LAS-sky;Las Vegas Mccarran;LASA-sky;Las Vegas;US-sky;United States
+15782;LSH-sky;Lashio;LSHM-sky;Lashio;MM-sky;Myanmar
+9420;LBE-sky;Latrobe;LBEA-sky;Latrobe;US-sky;United States
+14544;LST-sky;Launceston;LSTA-sky;Launceston;AU-sky;Australia
+273;LAW-sky;Lawton;LAWA-sky;Lawton;US-sky;United States
+9181;LZC-sky;Lazaro Cardenas;LZCA-sky;Lazaro Cardenas;MX-sky;Mexico
+16933;LEH-sky;Le Havre Octeville;LEHA-sky;Le Havre;FR-sky;France
+3128;LPY-sky;Le Puy Loudes;LEPU-sky;Le Puy;FR-sky;France
+5;LTQ-sky;Le Touquet Paris Plag;LETO-sky;NULL;FR-sky;France
+323;LEB-sky;Lebanon;LEBA-sky;Lebanon;US-sky;United States
+2100;LBA-sky;Leeds Bradford;LEED-sky;Leeds/Bradford;UK-sky;United Kingdom
+13358;IXL-sky;Leh;IIXL-sky;Leh;IN-sky;India
+1470;LEJ-sky;Leipzig;LEIP-sky;Leipzig/Halle;DE-sky;Germany
+17197;LXS-sky;Lemnos;LEMN-sky;Limnos;GR-sky;Greece
+11283;LEC-sky;Lencois;LECB-sky;Lencois;BR-sky;Brazil
+30071;ULK-sky;Lensk Airport;ULKC-sky;NULL;RU-sky;Russia
+483;LEN-sky;Leon;LEON-sky;NULL;ES-sky;Spain
+485;LNO-sky;Leonora;LNOA-sky;Leonora;AU-sky;Australia
+17198;LRS-sky;Leros;LERO-sky;Leros;GR-sky;Greece
+35506;YQLA-sky;Lethbridge;YQLA-sky;Lethbridge;CA-sky;Canada
+3127;LET-sky;Leticia;LETA-sky;Leticia;CO-sky;Colombia
+9453;LWB-sky;Lewisburg;LWBA-sky;Lewisburg;US-sky;United States
+1787;LWS-sky;Lewiston-Nez Perce County;LWSA-sky;Lewiston;US-sky;United States
+176;LEX-sky;Lexington Blue Grass;LEXA-sky;Lexington;US-sky;United States
+585;LXA-sky;Lhasa Gonggar;CLXA-sky;Lhasa/Lasa;CN-sky;China
+647;LSW-sky;Lhoksumawe;LSWI-sky;NULL;ID-sky;Indonesia
+34856;LYG-sky;Lianyungang;CLYG-sky;Lianyungang;CN-sky;China
+9429;LBL-sky;Liberal;LBLA-sky;Liberal;US-sky;United States
+1070;LIR-sky;Liberia;LIRA-sky;Liberia;CR-sky;Costa Rica
+12874;LBV-sky;Libreville;LBVA-sky;Libreville;GA-sky;Gabon
+17337;VXC-sky;Lichinga;VXCA-sky;Lichinga;MZ-sky;Mozambique
+2117;LGG-sky;Liege;LIEG-sky;Liege;BE-sky;Belgium
+22911;LJG-sky;Lijiang City;CLJG-sky;Lijiang;CN-sky;China
+1988;LIL-sky;Lille;LILL-sky;Lille;FR-sky;France
+18265;LLW-sky;Lilongwe;LLWA-sky;Lilongwe;MW-sky;Malawi
+2549;LIM-sky;Lima;LIMA-sky;Lima;PE-sky;Peru
+14884;LMN-sky;Limbang;LMNM-sky;Limbang;MY-sky;Malaysia
+2551;LIG-sky;Limoges;LIMO-sky;Limoges;FR-sky;France
+2746;LIO-sky;Limon;LIOA-sky;NULL;CR-sky;Costa Rica
+491;LZY-sky;Lin Zhi;LZYA-sky;Lin Zhi;CN-sky;China
+11304;LNJ-sky;Lincang;CLNJ-sky;Lincang;CN-sky;China
+9443;LNK-sky;Lincoln;LNKA-sky;Lincoln;US-sky;United States
+9446;LLF-sky;LingLing;CLLF-sky;Ling Ling;CN-sky;China
+1371;LPI-sky;Linkoping City;LINK-sky;Linkoping;SE-sky;Sweden
+490;LYI-sky;Linyi;CLYI-sky;Linyi;CN-sky;China
+2552;LNZ-sky;Linz;LINZ-sky;Linz;AT-sky;Austria
+425;LIQ-sky;Lisala;LIQA-sky;NULL;CD-sky;DR Congo
+148;LIS-sky;Lisbon;LISB-sky;Lisbon;PT-sky;Portugal
+426;LSY-sky;Lismore;LSYA-sky;Lismore;AU-sky;Australia
+9448;LIT-sky;Little Rock;LITA-sky;Little Rock;US-sky;United States
+4771;LZH-sky;Liuzhou;CLZH-sky;Liuzhou;CN-sky;China
+2113;LPL-sky;Liverpool;LIVE-sky;Liverpool;UK-sky;United Kingdom
+27910;LVI-sky;Livingstone;LVIA-sky;Livingstone;ZM-sky;Zambia
+3121;LJU-sky;Ljubljana;LJUB-sky;Ljubljana;SI-sky;Slovenia
+520;ILD-sky;Lleida;LLEI-sky;NULL;ES-sky;Spain
+15254;YLL-sky;Lloydminster;YLLA-sky;Lloydminster;CA-sky;Canada
+3126;LCJ-sky;Lodz;LODZ-sky;Lodz;PL-sky;Poland
+21161;LOE-sky;Loei;LOET-sky;Loei;TH-sky;Thailand
+458;RJL-sky;Logrono;LOGR-sky;Logrono;ES-sky;Spain
+4770;LOH-sky;Loja;LOHA-sky;Loja;EC-sky;Ecuador
+10469;LOP-sky;Lombok International;AMII-sky;Praya;ID-sky;Indonesia
+10470;LFW-sky;Lome;LFWA-sky;Lome;TG-sky;Togo
+6663;LDZ-sky;Londolozi;LDZA-sky;NULL;ZA-sky;South Africa
+130;YXU-sky;London;YXUS-sky;London;CA-sky;Canada
+122;LOND-sky;London;LOND-sky;NULL;UK-sky;United Kingdom
+2049;LDB-sky;Londrina;LDBA-sky;Londrina;BR-sky;Brazil
+11284;LKH-sky;Long Akah;LKHM-sky;Long Akah;MY-sky;Malaysia
+1375;LBP-sky;Long Banga;LBPM-sky;Long Banga;MY-sky;Malaysia
+1373;LGB-sky;Long Beach Municipal;LGBA-sky;Long Beach;US-sky;United States
+9444;LGI-sky;Long Island;LGIA-sky;Deadmans Cay;BS-sky;Bahamas
+9445;LGL-sky;Long Lellang;LGLM-sky;Long Lellang;MY-sky;Malaysia
+1374;GSA-sky;Long Pasia;GSAM-sky;NULL;MY-sky;Malaysia
+11285;ODN-sky;Long Seridan;ODNM-sky;Long Seridan;MY-sky;Malaysia
+11302;LOD-sky;Longana;LODV-sky;Longana;VU-sky;Vanuatu
+7316;LRE-sky;Longreach;LREA-sky;Longreach;AU-sky;Australia
+11303;LCX-sky;Longyan;CLCX-sky;Longyan;CN-sky;China
+2495;LYR-sky;Longyearbyen;LYRL-sky;Longyearbyen;NO-sky;Norway
+24268;LPS-sky;Lopez Island;LPSA-sky;Lopez Island;US-sky;United States
+9450;LDH-sky;Lord Howe Island;LDHA-sky;Lord Howe Island;AU-sky;Australia
+9449;LTO-sky;Loreto;LTOA-sky;Loreto;MX-sky;Mexico
+7038;LRT-sky;Lorient;LORI-sky;Lorient;FR-sky;France
+7704;LAM-sky;Los Alamos;LAMA-sky;NULL;US-sky;United States
+1061;LAX-sky;Los Angeles International;LAXA-sky;Los Angeles;US-sky;United States
+15246;LMM-sky;Los Mochis;LMMA-sky;Los Mochis;MX-sky;Mexico
+30783;LRV-sky;Los Roques;LRVA-sky;Los Roques;VE-sky;Venezuela
+15248;LSA-sky;Losuia;LSAP-sky;Kiriwina Island;PG-sky;Papua New Guinea
+25979;DIS-sky;Loubomo;DISA-sky;Dolisie;CG-sky;Congo
+8810;SDF-sky;Louisville Standiford Field;SDFA-sky;Louisville;US-sky;United States
+7036;LDE-sky;Lourdes;LOUR-sky;Lourdes;FR-sky;France
+619;ZAMB-sky;Lower Zambezi National Park;ZAMB-sky;NULL;ZM-sky;Zambia
+89;LAD-sky;Luanda;LADA-sky;Luanda;AO-sky;Angola
+11282;LXG-sky;Luang Namtha;LXGL-sky;Luang Namtha;LA-sky;Laos
+1372;LPQ-sky;Luang Prabang;LPQL-sky;Luang Prabang;LA-sky;Laos
+14546;SDD-sky;Lubango;SDDA-sky;Lubango;AO-sky;Angola
+9424;LBB-sky;Lubbock International;LBBA-sky;Lubbock;US-sky;United States
+1981;LUZ-sky;Lublin;CLUZ-sky;Lushan;PL-sky;Poland
+12068;FBM-sky;Lubumbashi;FBMA-sky;Lubumbashi;CD-sky;DR Congo
+4660;LKO-sky;Lucknow;ILKO-sky;Lucknow;IN-sky;India
+272;LUH-sky;Ludhiana;ILUH-sky;NULL;IN-sky;India
+2065;LUO-sky;Luena;LUOA-sky;NULL;AO-sky;Angola
+4659;LUG-sky;Lugano;LUGA-sky;Lugano;CH-sky;Switzerland
+14059;LUA-sky;Lukla;LUAA-sky;Lukla;NP-sky;Nepal
+1370;LLA-sky;Lulea Kallax;LULE-sky;Lulea;SE-sky;Sweden
+11286;LYA-sky;Luoyang;CLYA-sky;Luoyang;CN-sky;China
+276;MLA-sky;Luqa Malta International;LUQA-sky;Malta;MT-sky;Malta
+5248;LUN-sky;Lusaka;LUNA-sky;Lusaka;ZM-sky;Zambia
+854;YSG-sky;Lutselke / Snowdrift;YSGA-sky;Lutselke;CA-sky;Canada
+645;LUX-sky;Luxembourg;LUXE-sky;Luxembourg;LU-sky;Luxembourg
+2270;LUM-sky;Luxi;CLUM-sky;Mangshi;CN-sky;China
+2269;LXR-sky;Luxor;LUXO-sky;Luxor;EG-sky;Egypt
+4772;LZO-sky;Luzhou;CLZO-sky;Luzhou;CN-sky;China
+13807;LWO-sky;Lviv;LVOV-sky;Lviv;UA-sky;Ukraine
+1989;YAJ-sky;Lyall Harbour;YAJA-sky;NULL;CA-sky;Canada
+1376;LYC-sky;Lycksele Hedlunda;LYCK-sky;Lycksele;SE-sky;Sweden
+521;LYX-sky;Lydd;LYXA-sky;NULL;UK-sky;United Kingdom
+9457;LYH-sky;Lynchburg;LYHA-sky;Lynchburg;US-sky;United States
+487;LYON-sky;Lyon;LYON-sky;NULL;FR-sky;France
+15384;XMB-sky;M'Bahiakro;XMBA-sky;NULL;CI-sky;Ivory Coast
+10799;MST-sky;Maastricht;MAAS-sky;Maastricht;NL-sky;Netherlands
+1645;MEA-sky;Macae;MEAA-sky;NULL;BR-sky;Brazil
+28169;MCP-sky;Macapa;MCPA-sky;Macapa;BR-sky;Brazil
+29408;XMS-sky;Macas;XMSA-sky;NULL;EC-sky;Ecuador
+1642;MFM-sky;Macau;MFMA-sky;Macau;MO-sky;Macau
+12206;MCZ-sky;Maceio;MCZA-sky;Maceio;BR-sky;Brazil
+1643;MKY-sky;Mackay;MKYA-sky;Mackay;AU-sky;Australia
+308;MCN-sky;Macon Lewis B Wilson;MCNA-sky;Macon;US-sky;United States
+17384;KCV-sky;Maconacon;MACO-sky;NULL;PH-sky;Philippines
+15617;CEB-sky;Mactan-Cebu International;CEBP-sky;Cebu;PH-sky;Philippines
+1831;MAG-sky;Madang;MAGP-sky;Madang;PG-sky;Papua New Guinea
+1826;FNC-sky;Madeira;FUNC-sky;Madeira;PT-sky;Portugal
+1827;MED-sky;Madinah;MEDA-sky;Madinah;SA-sky;Saudi Arabia
+1828;MSN-sky;Madison;MSNA-sky;Madison;US-sky;United States
+146;MAD-sky;Madrid;MADR-sky;Madrid;ES-sky;Spain
+1829;IXM-sky;Madurai;IIXM-sky;Madurai;IN-sky;India
+2109;HGN-sky;Mae Hong Son;HGNT-sky;Mae Hong Son;TH-sky;Thailand
+736;MAQ-sky;Mae Sot (Tak);MAQT-sky;Mae Sot;TH-sky;Thailand
+15855;MFA-sky;Mafia;MFAA-sky;Mafia;TZ-sky;Tanzania
+25833;GDX-sky;Magadan;MAGA-sky;Magadan;RU-sky;Russia
+30079;IGT-sky;Magas;NAZR-sky;NULL;RU-sky;Russia
+25879;MQF-sky;Magnitogorsk;MAGN-sky;Magnitogorsk;RU-sky;Russia
+1204;SEZ-sky;Mahe Island;SEZA-sky;Mahe Island;SC-sky;Seychelles
+2952;MMZ-sky;Maimana;MMZA-sky;NULL;AF-sky;Afghanistan
+21774;MQX-sky;Makale;MQXA-sky;Mekele;ET-sky;Ethiopia
+14088;UPG-sky;Makassar;UPGI-sky;Makassar;ID-sky;Indonesia
+12373;MCX-sky;Makhachkala;MAKH-sky;Makhachkala;RU-sky;Russia
+13120;SSG-sky;Malabo;SSGA-sky;Malabo;GQ-sky;Equatorial Guinea
+360;MKZ-sky;Malacca;MKZM-sky;Malacca;MY-sky;Malaysia
+358;AGP-sky;Malaga;MALA-sky;Malaga;ES-sky;Spain
+13121;MLG-sky;Malang;MLGI-sky;NULL;ID-sky;Indonesia
+13130;MEG-sky;Malange;MEGA-sky;Malanje;AO-sky;Angola
+13122;LGS-sky;Malargue;LGSA-sky;NULL;AR-sky;Argentina
+278;MLX-sky;Malatya;MALB-sky;Malatya;TR-sky;Turkey
+1090;MLE-sky;Male;MLEA-sky;Male;MV-sky;Maldives
+1088;MYD-sky;Malindi;MYDA-sky;Malindi;KE-sky;Kenya
+1186;MMX-sky;Malmo Sturup;MALM-sky;Malmo;SE-sky;Sweden
+277;MLK-sky;Malta;MLKA-sky;NULL;US-sky;United States
+9540;MMH-sky;Mammoth Lakes;MMHA-sky;NULL;US-sky;United States
+1414;MJU-sky;Mamuju;MJUI-sky;NULL;ID-sky;Indonesia
+25496;MJC-sky;Man;MJCA-sky;NULL;CI-sky;Ivory Coast
+9553;MDC-sky;Manado;MDCI-sky;Manado;ID-sky;Indonesia
+1455;MGA-sky;Managua;MGAA-sky;Managua;NI-sky;Nicaragua
+12198;MAO-sky;Manaus;MAOA-sky;Manaus;BR-sky;Brazil
+2106;MAN-sky;Manchester;MANC-sky;Manchester;UK-sky;United Kingdom
+2107;MHT-sky;Manchester;MHTA-sky;Manchester;US-sky;United States
+12279;MDL-sky;Mandalay;MDLM-sky;Mandalay;MM-sky;Myanmar
+1099;MGS-sky;Mangaia Island;MGSC-sky;Mangaia Island;CK-sky;Cook Islands
+1098;IXE-sky;Mangalore;IIXE-sky;Mangalore;IN-sky;India
+1080;MHK-sky;Manhattan;MHKA-sky;Manhattan;US-sky;United States
+12289;MNX-sky;Manicore;MNXA-sky;NULL;BR-sky;Brazil
+28140;JSU-sky;Maniitsoq;JSUA-sky;Maniitsoq;GL-sky;Greenland
+2208;MNL-sky;Manila Ninoy Aquino;MNLP-sky;Manila;PH-sky;Philippines
+34891;MNG-sky;Maningrida;MNGA-sky;Maningrida;AU-sky;Australia
+1478;MBL-sky;Manistee;MBLA-sky;Manistee;US-sky;United States
+9500;MTW-sky;Manitowoc;MTWA-sky;NULL;US-sky;United States
+9778;MLY-sky;Manley Hot Springs;MLYA-sky;Manley Hot Springs;US-sky;United States
+25505;MHG-sky;Mannheim;MANN-sky;Mannheim;DE-sky;Germany
+28224;MKW-sky;Manokwari;MKWI-sky;Manokwari;ID-sky;Indonesia
+12201;MNS-sky;Mansa;MNSA-sky;NULL;ZM-sky;Zambia
+9556;MEC-sky;Manta;MECA-sky;Manta;EC-sky;Ecuador
+12200;MAS-sky;Manus Island;MASP-sky;Manus Island;PG-sky;Papua New Guinea
+28994;ZLO-sky;Manzanillo;ZLOA-sky;Manzanillo;MX-sky;Mexico
+28995;MZO-sky;Manzanillo;MZOA-sky;Manzanillo;CU-sky;Cuba
+34924;NZH-sky;Manzhouli;NZHA-sky;Manzhouli;CN-sky;China
+28996;MTS-sky;Manzini;MTSA-sky;Manzini;SZ-sky;Swaziland
+1318;MXS-sky;Maota Savaii Is;MXSW-sky;Maota;WS-sky;Samoa
+9541;YAQ-sky;Maple Bay;YAQA-sky;NULL;CA-sky;Canada
+12055;MPM-sky;Maputo;MPMA-sky;Maputo;MZ-sky;Mozambique
+9591;MDQ-sky;Mar Del Plata;MDQA-sky;Mar Del Plata;AR-sky;Argentina
+13045;MRE-sky;Mara Lodges;MREA-sky;Masai Mara;KE-sky;Kenya
+28108;MAB-sky;Maraba;MABA-sky;Maraba;BR-sky;Brazil
+31924;RUS-sky;Marau Sound;RUSA-sky;Marau;SB-sky;Solomon Islands
+1103;MQM-sky;Mardin;MARD-sky;Mardin;TR-sky;Turkey
+9544;MGH-sky;Margate;MGHA-sky;Margate;ZA-sky;South Africa
+28136;MII-sky;Marilia;MIIA-sky;Marilia;BR-sky;Brazil
+15382;MWA-sky;Marion;MWAA-sky;Marion;US-sky;United States
+9543;MQT-sky;Marquette;MQTA-sky;Marquette;US-sky;United States
+4495;RAK-sky;Marrakech Menara;MARR-sky;Marrakech;MA-sky;Morocco
+1504;RMF-sky;Marsa Allam;MART-sky;Marsa Alam;EG-sky;Egypt
+1503;MRS-sky;Marseille;MARS-sky;Marseille;FR-sky;France
+14427;MHH-sky;Marsh Harbour;MHHA-sky;Marsh Harbour;BS-sky;Bahamas
+14815;MLL-sky;Marshall;MLLA-sky;Marshall;US-sky;United States
+4919;MVY-sky;Martha's Vineyard;MVYA-sky;Martha's Vineyard;US-sky;United States
+1107;AOO-sky;Martinsburg;AOOA-sky;Altoona;US-sky;United States
+28951;MUR-sky;Marudi;MUMM-sky;Marudi;MY-sky;Malaysia
+1133;MXB-sky;Masamba;MXBI-sky;NULL;ID-sky;Indonesia
+29409;MUW-sky;Mascara;MUWA-sky;NULL;DZ-sky;Algeria
+14531;MSU-sky;Maseru;MSUA-sky;Maseru;LS-sky;Lesotho
+3266;MHD-sky;Mashhad;MHDA-sky;Mashhad;IR-sky;Iran
+9475;MCW-sky;Mason City;MCWA-sky;Mason City;US-sky;United States
+9566;MSS-sky;Massena;MSSA-sky;Massena;US-sky;United States
+28846;ZMT-sky;Masset;ZMTA-sky;Masset;CA-sky;Canada
+30790;MAM-sky;Matamoros;MAMA-sky;Matamoros;MX-sky;Mexico
+11492;MFK-sky;Matsu;MFKT-sky;NULL;TW-sky;Taiwan
+21049;MMJ-sky;Matsumoto;JMMJ-sky;Matsumoto;JP-sky;Japan
+21048;MYJ-sky;Matsuyama;JMYJ-sky;Matsuyama;JP-sky;Japan
+2251;MUN-sky;Maturin;MUNA-sky;Maturin;VE-sky;Venezuela
+9594;OGG-sky;Maui Kahului;OGGA-sky;Kahului;US-sky;United States
+1647;MUK-sky;Mauke Island;MUKC-sky;Mauke Island;CK-sky;Cook Islands
+83;MOF-sky;Maumere;MOFI-sky;Maumere;ID-sky;Indonesia
+25495;MUB-sky;Maun;MUBA-sky;Maun;BW-sky;Botswana
+12056;MAU-sky;Maupiti;MAUP-sky;Maupiti;PF-sky;French Polynesia
+338;MRU-sky;Mauritius;MRUA-sky;Mauritius;MU-sky;Mauritius
+17385;MYG-sky;Mayaguana;MYGA-sky;Mayaguana;BS-sky;Bahamas
+33561;MAZ-sky;Mayaguez;MAZA-sky;Mayaguez;PR-sky;Puerto Rico
+14530;MZR-sky;Mazar-I-Sharif;MZRA-sky;NULL;AF-sky;Afghanistan
+28968;MZT-sky;Mazatlan;MZTA-sky;Mazatlan;MX-sky;Mexico
+15858;MBI-sky;Mbeya;MBIA-sky;NULL;TZ-sky;Tanzania
+8816;MFE-sky;Mcallen;MFEA-sky;McAllen;US-sky;United States
+9476;MCK-sky;Mccook;MCKA-sky;McCook;US-sky;United States
+1949;MES-sky;Medan;MESI-sky;Medan;ID-sky;Indonesia
+2691;MDE-sky;Medellin Jose Marie Cordova;MDEA-sky;Medellin;CO-sky;Colombia
+9494;MFR-sky;Medford;MFRA-sky;Medford;US-sky;United States
+997;YXH-sky;Medicine Hat;YXHA-sky;Medicine Hat;CA-sky;Canada
+33560;MXZ-sky;Meixian;CMXZ-sky;Mei Xian;CN-sky;China
+9539;MLB-sky;Melbourne;MLBA-sky;Melbourne;US-sky;United States
+9535;MELA-sky;Melbourne;MELA-sky;NULL;AU-sky;Australia
+478;MLN-sky;Melilla;MELI-sky;Melilla;ES-sky;Spain
+21030;MMB-sky;Memanbetsu;JMMB-sky;Memanbetsu;JP-sky;Japan
+7629;FMM-sky;Memmingen AllgÌ_u;MEMB-sky;Memmingen;DE-sky;Germany
+9493;MEM-sky;Memphis International;MEMA-sky;Memphis;US-sky;United States
+28139;MDZ-sky;Mendoza;MDZA-sky;Mendoza;AR-sky;Argentina
+34890;SPP-sky;Menongue;SPPA-sky;Menongue;AO-sky;Angola
+387;MAH-sky;Menorca;MENO-sky;Menorca;ES-sky;Spain
+191;MKQ-sky;Merauke;MKQI-sky;Merauke;ID-sky;Indonesia
+9487;MCE-sky;Merced Municipal Arpt;MCEA-sky;Merced;US-sky;United States
+28949;MID-sky;Merida;MIDA-sky;Merida;MX-sky;Mexico
+28950;MRD-sky;Merida;MRDA-sky;Merida;VE-sky;Venezuela
+1106;MEI-sky;Meridian;MEIA-sky;Meridian;US-sky;United States
+28137;RLO-sky;Merlo;RLOA-sky;NULL;AR-sky;Argentina
+1733;MUH-sky;Mersa Matruh;MERS-sky;Mersa Matruh;EG-sky;Egypt
+5218;MZH-sky;Merzifon;MERZ-sky;NULL;TR-sky;Turkey
+8755;ETZ-sky;Metz / Nancy Lorraine;METZ-sky;Metz/Nancy;FR-sky;France
+21173;MEQ-sky;Meulaboh;MEQI-sky;NULL;ID-sky;Indonesia
+76;MXL-sky;Mexicali;MXLA-sky;Mexicali;MX-sky;Mexico
+75;MEX-sky;Mexico City Juarez International;MEXA-sky;Mexico City;MX-sky;Mexico
+30329;WMK-sky;Meyers Chuck;WMKA-sky;Meyers Chuck;US-sky;United States
+15856;MFU-sky;Mfuwe;MFUA-sky;Mfuwe;ZM-sky;Zambia
+2165;MIAA-sky;Miami;MIAA-sky;NULL;US-sky;United States
+2471;MIG-sky;Mian Yang;MIGA-sky;Mian Yang;CN-sky;China
+411;MBS-sky;Midland;MBSA-sky;Saginaw;US-sky;United States
+412;MAF-sky;Midland Odessa Regional;MAFA-sky;Midland;US-sky;United States
+51;MXP-sky;Milan Malpensa;MILA-sky;Milan;IT-sky;Italy
+410;YYV-sky;Milanau;MILU-sky;NULL;ID-sky;Indonesia
+430;MQL-sky;Mildura;MQLA-sky;Mildura;AU-sky;Australia
+431;MGT-sky;Milingimbi;MGTA-sky;Milingimbi Island;AU-sky;Australia
+429;MLO-sky;Milos;MILO-sky;Milos;GR-sky;Greece
+359;MKE-sky;Milwaukee General Mitchell;MKEA-sky;Milwaukee;US-sky;United States
+21490;MMD-sky;Minami Daito;JMMD-sky;NULL;JP-sky;Japan
+15351;MTT-sky;Minatitlan;MTTA-sky;Minatitlan;MX-sky;Mexico
+12372;MRV-sky;Mineralnye Vody;MINE-sky;Mineralnye Vody;RU-sky;Russia
+25498;MXJ-sky;Minna;MXJA-sky;NULL;NG-sky;Nigeria
+560;MSP-sky;Minneapolis St Paul;MSPA-sky;Minneapolis;US-sky;United States
+9525;MNH-sky;Minneriya;MNHA-sky;NULL;LK-sky;Sri Lanka
+1079;MOT-sky;Minot International;MOTA-sky;Minot;US-sky;United States
+23327;MSQA-sky;Minsk;MSQA-sky;NULL;BY-sky;Belarus
+9552;MNT-sky;Minto;MNTA-sky;Minto;US-sky;United States
+13043;MJR-sky;Miramar;MJRA-sky;NULL;AR-sky;Argentina
+13044;MYY-sky;Miri;MYYM-sky;Miri;MY-sky;Malaysia
+30006;MJZ-sky;Mirny;MIRN-sky;Mirny;RU-sky;Russia
+12208;MSJ-sky;Misawa;JMSJ-sky;Misawa;JP-sky;Japan
+9550;MSO-sky;Missoula;MSOA-sky;Missoula;US-sky;United States
+31128;MRA-sky;Misurata;MRAA-sky;Misurata;LY-sky;Libya
+1319;MVP-sky;Mitu;MVPA-sky;Mitu;CO-sky;Colombia
+1644;MMY-sky;Miyako Jima;JMMY-sky;Miyako;JP-sky;Japan
+3699;KMI-sky;Miyazaki;JKMI-sky;Miyazaki;JP-sky;Japan
+1005;MQN-sky;Mo I Rana Rossvoll;MOIR-sky;Mo I Rana;NO-sky;Norway
+15859;CNY-sky;Moab;CNYA-sky;Moab;US-sky;United States
+5270;MOB-sky;Mobile Municipal Arpt;MOBA-sky;Mobile;US-sky;United States
+34925;OHE-sky;Mohe;MOHE-sky;NULL;CN-sky;China
+34926;MJD-sky;Mohenjodaro;MJDA-sky;Mohenjo Daro;PK-sky;Pakistan
+279;MOL-sky;Molde Aro;MOLD-sky;Molde;NO-sky;Norway
+438;MLI-sky;Moline;MLIA-sky;Moline;US-sky;United States
+2477;MQJ-sky;Moma Airport;MQJC-sky;NULL;RU-sky;Russia
+1477;MIR-sky;Monastir;MONA-sky;Monastir;TN-sky;Tunisia
+16667;MOG-sky;Mong Hsat;MOGM-sky;NULL;MM-sky;Myanmar
+1458;MYZ-sky;Monkey Bay;MYZA-sky;NULL;MW-sky;Malawi
+1457;MJK-sky;Monkey Mia;MJKA-sky;Monkey Mia;AU-sky;Australia
+25497;MNYA-sky;Mono;MNYA-sky;NULL;SB-sky;Solomon Islands
+9523;MLU-sky;Monroe;MLUA-sky;Monroe;US-sky;United States
+3307;MLW-sky;Monrovia Sprigg Payne;MLWA-sky;Monrovia;LR-sky;Liberia
+2131;YTM-sky;Mont Tremblant;YTMA-sky;NULL;CA-sky;Canada
+1083;YMF-sky;Montagne Harbor;YMFA-sky;NULL;CA-sky;Canada
+9499;MCM-sky;Monte Carlo;MCMA-sky;Monte Carlo;MC-sky;Monaco
+14847;MEU-sky;Monte Dourado;MEUA-sky;NULL;BR-sky;Brazil
+12875;MTB-sky;Monte Libano;MTBA-sky;NULL;CO-sky;Colombia
+9498;MBJ-sky;Montego Bay;MBJA-sky;Montego Bay;JM-sky;Jamaica
+9578;MTR-sky;Monteria;MTRA-sky;Monteria;CO-sky;Colombia
+1893;MTY-sky;Monterrey Gen Mariano Escobedo;MTYA-sky;Monterrey;MX-sky;Mexico
+14848;MOC-sky;Montes Claros;MOCA-sky;Montes Claros;BR-sky;Brazil
+11966;MVD-sky;Montevideo;MVDA-sky;Montevideo;UY-sky;Uruguay
+9495;MGMA-sky;Montgomery;MGMA-sky;NULL;US-sky;United States
+7043;MPL-sky;Montpellier;MONT-sky;Montpellier;FR-sky;France
+113;YUL-sky;Montreal Pierre Elliott Trudeau;YMQA-sky;Montreal;CA-sky;Canada
+9573;MTJ-sky;Montrose;MTJA-sky;Montrose;US-sky;United States
+28141;MNI-sky;Montserrat;MNIA-sky;NULL;MS-sky;Montserrat
+9568;YMO-sky;Moosonee;YMOA-sky;Moosonee;CA-sky;Canada
+1505;MXX-sky;Mora-Siljan;MORA-sky;Mora;SE-sky;Sweden
+13046;MRZ-sky;Moree;MRZA-sky;Moree;AU-sky;Australia
+28138;MLM-sky;Morelia;MLMA-sky;Morelia;MX-sky;Mexico
+9506;MGW-sky;Morgantown;MGWA-sky;Morgantown;US-sky;United States
+30008;MXV-sky;Moron;MXVA-sky;Moron;MN-sky;Mongolia
+2352;YVA-sky;Moroni Iconi;YVAA-sky;Moroni;KM-sky;Comoros
+9592;OTI-sky;Morotai Island;OTII-sky;NULL;ID-sky;Indonesia
+9488;MMU-sky;Morristown;MMUA-sky;Morristown;US-sky;United States
+1801;DME-sky;Moscow Domodedovo;MOSC-sky;Moscow;RU-sky;Russia
+9567;MJF-sky;Mosjoen Kjaerstad;MOSJ-sky;Mosjoen;NO-sky;Norway
+10800;OMO-sky;Mostar;MOST-sky;Mostar;BA-sky;Bosnia and Herzegovina
+9551;OSM-sky;Mosul;OSMA-sky;NULL;IQ-sky;Iraq
+1317;MTV-sky;Mota Lava;MTVV-sky;Mota Lava Island;VU-sky;Vanuatu
+957;MGB-sky;Mount Gambier;MGBA-sky;Mount Gambier;AU-sky;Australia
+14002;HGU-sky;Mount Hagen;HGUP-sky;Mount Hagen;PG-sky;Papua New Guinea
+9557;MHU-sky;Mount Hotham;MHUA-sky;NULL;AU-sky;Australia
+8986;ISA-sky;Mount Isa;ISAA-sky;Mount Isa;AU-sky;Australia
+1081;MOU-sky;Mountain Village;MOUA-sky;Mountain Village;US-sky;United States
+2195;MYW-sky;Mtwara;MYWA-sky;Mtwara;TZ-sky;Tanzania
+4665;KXH-sky;Muara Teweh;MUAR-sky;NULL;ID-sky;Indonesia
+22928;MDG-sky;Mudanjiang;CMDG-sky;Mudanjiang;CN-sky;China
+1648;MKM-sky;Mukah;MKMM-sky;Mukah;MY-sky;Malaysia
+1646;MPC-sky;Muko-Muko;MPCI-sky;NULL;ID-sky;Indonesia
+20270;MPP-sky;Mulatupo;MPPA-sky;NULL;PA-sky;Panama
+1130;MLH-sky;Mulhouse;MULH-sky;Mulhouse/Basel;FR-sky;France
+24919;MUX-sky;Multan;MUXA-sky;Multan;PK-sky;Pakistan
+1092;MZV-sky;Mulu;MZVM-sky;Mulu;MY-sky;Malaysia
+2383;BOM-sky;Mumbai;IBOM-sky;Mumbai;IN-sky;India
+20281;MUA-sky;Munda;MUAA-sky;Munda;SB-sky;Solomon Islands
+1453;MUC-sky;Munich;MUNI-sky;Munich;DE-sky;Germany
+1476;FMO-sky;Munster Osnabruck;MUNS-sky;Muenster/Osnabrueck;DE-sky;Germany
+1730;MJV-sky;Murcia;MURC-sky;Murcia;ES-sky;Spain
+10268;MMK-sky;Murmansk;MURM-sky;Murmansk;RU-sky;Russia
+14734;MYI-sky;Murray Island;MYIA-sky;Murray Island;AU-sky;Australia
+5214;MSR-sky;Mus;MUSI-sky;Mus;TR-sky;Turkey
+1802;MCT-sky;Muscat;MCTA-sky;Muscat;OM-sky;Oman
+3700;MSL-sky;Muscle Shoals;MSLA-sky;Muscle Shoals;US-sky;United States
+5215;MKG-sky;Muskegon;MKGA-sky;Muskegon;US-sky;United States
+18528;MSA-sky;Muskrat Dam;MSAA-sky;Muskrat Dam;CA-sky;Canada
+958;VUU-sky;Mvuu Camp;VUUA-sky;Blantyre;MW-sky;Malawi
+12199;MWZ-sky;Mwanza;MWZA-sky;Mwanza;TZ-sky;Tanzania
+1649;MGZ-sky;Myeik;MGZM-sky;Myeik;MM-sky;Myanmar
+2689;JMK-sky;Mykonos;MIKO-sky;Mykonos;GR-sky;Greece
+6489;CRE-sky;Myrtle Beach Grand Strand;MYRA-sky;NULL;US-sky;United States
+12207;YMK-sky;Mys Kamennyy;MYSK-sky;NULL;RU-sky;Russia
+9466;MJT-sky;Mytilene;MYTI-sky;Mytilini;GR-sky;Greece
+25883;NBC-sky;Naberevnye Chelny;NABE-sky;NULL;RU-sky;Russia
+17344;MNC-sky;Nacala;MNCA-sky;NULL;MZ-sky;Mozambique
+1651;NAN-sky;Nadi;NANF-sky;Nadi;FJ-sky;Fiji
+13882;NDR-sky;Nador;NADO-sky;Nador;MA-sky;Morocco
+25888;NYM-sky;Nadym;NADY-sky;Nadym;RU-sky;Russia
+6413;WNP-sky;Naga;WNPP-sky;Naga;PH-sky;Philippines
+21037;NGS-sky;Nagasaki;JNGS-sky;Nagasaki;JP-sky;Japan
+851;NGO-sky;Nagoya Chubu Centrair;JNGO-sky;Nagoya;JP-sky;Japan
+17007;NAG-sky;Nagpur;INAG-sky;Nagpur;IN-sky;India
+23;NBO-sky;Nairobi Jomo Kenyatta;NBOA-sky;Nairobi;KE-sky;Kenya
+3283;SHB-sky;Nakashibetsu;JSHB-sky;Nakashibetsu;JP-sky;Japan
+21156;KOP-sky;Nakhon Phanom;KOPT-sky;Nakhon Phanom;TH-sky;Thailand
+21172;NAK-sky;Nakhon Ratchasima;NAKT-sky;Nakhon Ratchasima;TH-sky;Thailand
+1245;NST-sky;Nakhon Si Thammarat;NSTT-sky;Nakhon Si Thammarat;TH-sky;Thailand
+1139;NUU-sky;Nakuru;NUUA-sky;NULL;KE-sky;Kenya
+30078;NAL-sky;Nalchik;NALC-sky;Nalchik;RU-sky;Russia
+13246;NMA-sky;Namangan;NMAA-sky;Namangan;UZ-sky;Uzbekistan
+1142;MSZ-sky;Namibe;MSZA-sky;Namibe;AO-sky;Angola
+13244;APL-sky;Nampula;APLA-sky;Nampula;MZ-sky;Mozambique
+13245;OSY-sky;Namsos;NAMS-sky;Namsos;NO-sky;Norway
+21183;NNT-sky;Nan;NNTT-sky;Nan;TH-sky;Thailand
+21186;KHN-sky;Nanchang;CKHN-sky;Nanchang;CN-sky;China
+22877;NAO-sky;Nanchong;CNAO-sky;NULL;CN-sky;China
+22878;LZN-sky;Nangan;LZNA-sky;NULL;CN-sky;China
+22917;NPO-sky;Nangapinoh;NPOI-sky;NULL;ID-sky;Indonesia
+21184;NKG-sky;Nanking / Nanjing;CNKG-sky;Nanjing;CN-sky;China
+21185;NNG-sky;Nanning;CNNG-sky;Nanning;CN-sky;China
+1747;NTE-sky;Nantes;NANT-sky;Nantes;FR-sky;France
+34921;NTG-sky;Nantong;CNTG-sky;Nantong;CN-sky;China
+9883;ACK-sky;Nantucket;ACKA-sky;Nantucket;US-sky;United States
+22933;NNY-sky;Nanyang;CNNY-sky;Nanyang;CN-sky;China
+21187;NYK-sky;Nanyuki;NYKA-sky;Nanyuki;KE-sky;Kenya
+2787;APC-sky;Napa;APCA-sky;NULL;US-sky;United States
+2789;WNA-sky;Napakiak;WNAA-sky;Napakiak;US-sky;United States
+2788;PKA-sky;Napaskiak;PKAA-sky;Napaskiak;US-sky;United States
+2786;NPE-sky;Napier-Hastings;NPEN-sky;Napier/Hastings;NZ-sky;New Zealand
+667;APF-sky;Naples;APFA-sky;Naples;US-sky;United States
+46;NAP-sky;Naples International;NAPL-sky;Naples;IT-sky;Italy
+2790;NAU-sky;Napuka Island;NAUP-sky;NULL;PF-sky;French Polynesia
+21171;NAW-sky;Narathiwat;NAWT-sky;Narathiwat;TH-sky;Thailand
+9157;NVK-sky;Narvik Framnes;NARV-sky;Narvik;NO-sky;Norway
+21267;NNM-sky;Naryan-Mar;NARY-sky;Naryan-Mar;RU-sky;Russia
+3059;BNA-sky;Nashville;BNAA-sky;Nashville;US-sky;United States
+1783;NAS-sky;Nassau International;NASA-sky;Nassau;BS-sky;Bahamas
+12213;NAT-sky;Natal;NATA-sky;Natal;BR-sky;Brazil
+9717;NTX-sky;Natuna Ranai;NTXI-sky;NULL;ID-sky;Indonesia
+21007;NKI-sky;Naukiti;NKIA-sky;Naukiti;US-sky;United States
+209;INU-sky;Nauru Island;INUA-sky;Nauru Island;NR-sky;Nauru
+12219;NVT-sky;Navegantes;NVTA-sky;Navegantes;BR-sky;Brazil
+30953;NVI-sky;Navoiy;NVIA-sky;Navoi;UZ-sky;Uzbekistan
+17166;JNX-sky;Naxos;NAXO-sky;Naxos;GR-sky;Greece
+12215;NLA-sky;Ndola;NLAA-sky;Ndola;ZM-sky;Zambia
+30952;NVA-sky;Neiva;NVAA-sky;Neiva;CO-sky;Colombia
+4662;NLG-sky;Nelson Lagoon;NLGA-sky;Nelson Lagoon;US-sky;United States
+1146;KEP-sky;Nepalganj;KEPA-sky;Nepalganj;NP-sky;Nepal
+5135;NAV-sky;Nevsehir;NAVA-sky;NULL;TR-sky;Turkey
+825;EWN-sky;New Bern;EWNA-sky;New Bern;US-sky;United States
+1808;HVN-sky;New Haven;HVNA-sky;New Haven;US-sky;United States
+16846;ARA-sky;New Iberia;ARAA-sky;NULL;US-sky;United States
+4408;KGK-sky;New Koliganek;KGKA-sky;New Koliganek;US-sky;United States
+59;MSY-sky;New Orleans Louis Armstrong;MSYA-sky;New Orleans;US-sky;United States
+29140;KNW-sky;New Stuyahok;KNWA-sky;New Stuyahok;US-sky;United States
+22;JFK-sky;New York John F. Kennedy;NYCA-sky;New York;US-sky;United States
+9882;SWF-sky;Newburgh;SWFA-sky;Newburgh;US-sky;United States
+2451;NCL-sky;Newcastle;NEWC-sky;Newcastle;UK-sky;United Kingdom
+2454;NTLA-sky;Newcastle;NTLA-sky;NULL;AU-sky;Australia
+15355;ZNE-sky;Newman;ZNEA-sky;Newman;AU-sky;Australia
+1785;PHF-sky;Newport News / Williamsb;PHFA-sky;Hampton;US-sky;United States
+2452;NQY-sky;Newquay;NEWQ-sky;Newquay;UK-sky;United Kingdom
+871;CXR-sky;Nha Trang Cam Ranh;NHAV-sky;Nha Trang;VN-sky;Vietnam
+1137;IAG-sky;Niagara Falls;IAGA-sky;NULL;US-sky;United States
+1782;NCE-sky;Nice;NICE-sky;Nice;FR-sky;France
+21006;KIJ-sky;Niigata;JKIJ-sky;Niigata;JP-sky;Japan
+17345;NIB-sky;Nikolai;NIBA-sky;Nikolai;US-sky;United States
+11506;FNI-sky;Nimes;NIME-sky;Nimes;FR-sky;France
+22916;NGB-sky;Ningbo;CNGB-sky;Ningbo;CN-sky;China
+1786;INI-sky;Nis;NISI-sky;NULL;RS-sky;Serbia
+30954;NFO-sky;Niuafo'ou;NFOA-sky;Niuafo'ou;TO-sky;Tonga
+35502;IUEA-sky;Niue Island;IUEA-sky;Niue Island;NU-sky;Niue
+12374;NJC-sky;Nizhnevartovsk;NIZI-sky;Nizhnevartovsk;RU-sky;Russia
+12337;GOJ-sky;Nizhniy Novgorod;NIZH-sky;Nizhny Novgorod;RU-sky;Russia
+29937;NOJ-sky;Nojabrxsk;NOJA-sky;Noyabrsk;RU-sky;Russia
+9601;ORF-sky;Norfolk International;ORFA-sky;Norfolk;US-sky;United States
+9602;NLK-sky;Norfolk Island;NLKN-sky;Norfolk Island;AU-sky;Australia
+25887;NSK-sky;Norilsk;NORI-sky;Norilsk;RU-sky;Russia
+28067;YVQ-sky;Norman Wells;YVQA-sky;Norman Wells;CA-sky;Canada
+1382;NRK-sky;Norrkoping Kungsangen;NORR-sky;Norrkoping;SE-sky;Sweden
+9428;YYB-sky;North Bay;YYBA-sky;North Bay;CA-sky;Canada
+9427;OTH-sky;North Bend;OTHA-sky;North Bend;US-sky;United States
+14424;ELH-sky;North Eleuthera;ELHA-sky;North Eleuthera;BS-sky;Bahamas
+3170;KAZ-sky;North Halmahera (Kau);KAZI-sky;NULL;ID-sky;Indonesia
+9426;LBF-sky;North Platte;LBFA-sky;North Platte;US-sky;United States
+1658;NRL-sky;North Ronaldsay;NRLA-sky;North Ronaldsay;UK-sky;United Kingdom
+6407;NWI-sky;Norwich;NORW-sky;Norwich;UK-sky;United Kingdom
+2745;NOB-sky;Nosara Beach;NOBA-sky;Nosara;CR-sky;Costa Rica
+1784;NOS-sky;Nossi-be;NOSA-sky;Nosy-Be;MG-sky;Madagascar
+15682;NTB-sky;Notodden;NOTO-sky;NULL;NO-sky;Norway
+14003;GEA-sky;Noumea Magenta;NOUN-sky;Noumea;NC-sky;New Caledonia
+25884;NOZ-sky;Novokuzinetsk;NOVP-sky;Novokuznetsk;RU-sky;Russia
+12384;OVB-sky;Novosibirsk;OVBA-sky;Novosibirsk;RU-sky;Russia
+15835;NUX-sky;Novy Urengoy;NOVY-sky;Novyj Urengoj;RU-sky;Russia
+504;GER-sky;Nueva Gerona;GERA-sky;Nueva Gerona;CU-sky;Cuba
+3240;NLD-sky;Nuevo Laredo;NLDA-sky;Nuevo Laredo;MX-sky;Mexico
+6340;NUI-sky;Nuiqsut;NUIA-sky;Nuiqsut;US-sky;United States
+6415;NHV-sky;Nuku Hiva;NHVP-sky;Nuku Hiva;PF-sky;French Polynesia
+22879;NNX-sky;Nunukan;NNXI-sky;Nunukan;ID-sky;Indonesia
+6414;NQU-sky;Nuqui;NQUA-sky;Nuqui;CO-sky;Colombia
+1452;NUE-sky;Nuremberg;NURE-sky;Nuremberg;DE-sky;Germany
+6412;GOH-sky;Nuuk;GOHA-sky;Nuuk;GL-sky;Greenland
+211;NUA-sky;Nuwara Eliya;NUAA-sky;Nuwara Eliya;LK-sky;Sri Lanka
+35010;NYU-sky;Nyaung-u;NYUM-sky;Bagan/Nyaung-u;MM-sky;Myanmar
+6478;OAK-sky;Oakland Metropolitan Oak;OAKA-sky;Oakland;US-sky;United States
+28914;OAX-sky;Oaxaca;OAXA-sky;Oaxaca;MX-sky;Mexico
+93;OBN-sky;Oban Connel;OBNA-sky;Oban;UK-sky;United Kingdom
+1454;OBF-sky;Oberpfaffenhofen Munich;OBER-sky;NULL;DE-sky;Germany
+21051;OBO-sky;Obihiro;JOBO-sky;Obihiro;JP-sky;Japan
+21072;ONJ-sky;Odate Noshiro;JONJ-sky;Odate/Noshiro;JP-sky;Japan
+1745;ODE-sky;Odense;ODEN-sky;Odense;DK-sky;Denmark
+848;ODS-sky;Odessa Central;ODES-sky;Odesa;UA-sky;Ukraine
+5103;KEO-sky;Odienne;KEOA-sky;NULL;CI-sky;Ivory Coast
+2254;OGD-sky;Ogden Municipal;OGDA-sky;Ogden;US-sky;United States
+9595;OGS-sky;Ogdensburg;OGSA-sky;Ogdensburg;US-sky;United States
+2613;OHD-sky;Ohrid;OHRI-sky;Ohrid;MK-sky;Republic of Macedonia
+3285;OIT-sky;Oita;JOIT-sky;Oita;JP-sky;Japan
+3296;OKJ-sky;Okayama;JOKJ-sky;Okayama;JP-sky;Japan
+6483;OHH-sky;Okha;OHHA-sky;Okha;RU-sky;Russia
+6484;OKI-sky;Oki Island;JOKI-sky;Oki;JP-sky;Japan
+3295;OKA-sky;Okinawa Naha;JOKA-sky;Okinawa;JP-sky;Japan
+469;OKE-sky;Okino Erabu;JOKE-sky;Okierabu;JP-sky;Japan
+9599;OKC-sky;Oklahoma City Will Rogers World;OKCA-sky;Oklahoma City;US-sky;United States
+28366;OKL-sky;Oksibil;OKLI-sky;NULL;ID-sky;Indonesia
+21052;OIR-sky;Okushiri;JOIR-sky;Okushiri;JP-sky;Japan
+1796;OLB-sky;Olbia;OLBI-sky;Olbia;IT-sky;Italy
+6366;OLH-sky;Old Harbor;OLHA-sky;Old Harbor;US-sky;United States
+21098;OLP-sky;Olympic Dam;OLPA-sky;Olympic Dam;AU-sky;Australia
+8730;OMA-sky;Omaha Eppley Airfield;OMAA-sky;Omaha;US-sky;United States
+3286;IBR-sky;Omitama;IBRA-sky;NULL;JP-sky;Japan
+12375;OMS-sky;Omsk;OMSK-sky;Omsk;RU-sky;Russia
+988;OND-sky;Ondangwa;ONDA-sky;Ondangwa;NA-sky;Namibia
+25183;ONL-sky;Oneill;ONLA-sky;NULL;US-sky;United States
+25184;VPE-sky;Ongiva;VPEA-sky;Ondjiva;AO-sky;Angola
+2333;ONS-sky;Onslow;ONSA-sky;NULL;AU-sky;Australia
+9605;ONT-sky;Ontario International;ONTA-sky;Ontario;US-sky;United States
+2610;OMR-sky;Oradea;ORAD-sky;Oradea;RO-sky;Romania
+2003;OAG-sky;Orange;OAGA-sky;Orange;AU-sky;Australia
+2004;ORZ-sky;Orange Walk;ORZA-sky;NULL;BZ-sky;Belize
+2006;OMD-sky;Oranjemund;OMDA-sky;Oranjemund;NA-sky;Namibia
+467;AUA-sky;Oranjestad;AUAA-sky;Aruba;AW-sky;Aruba
+15532;OGU-sky;Ordu/Giresun;OGUA-sky;NULL;TR-sky;Turkey
+25996;REN-sky;Orenburg;OREN-sky;Orenburg;RU-sky;Russia
+795;KOI-sky;Orkney Kirkwall;ORKN-sky;Kirkwall;UK-sky;United Kingdom
+60;OLA-sky;Orland;ORLA-sky;Orland;NO-sky;Norway
+54;ORLB-sky;Orlando;ORLB-sky;NULL;US-sky;United States
+1383;OER-sky;Ornskoldsvik;ORNS-sky;Ornskoldsvik;SE-sky;Sweden
+1780;OSW-sky;Orsk;ORSK-sky;Orsk;RU-sky;Russia
+12383;HOV-sky;Orsta / Volda Hovden;ORST-sky;Orsta-Volda;NO-sky;Norway
+3303;KIX-sky;Osaka Kansai International;OSAA-sky;Osaka;JP-sky;Japan
+16330;OSS-sky;Osh;OSSA-sky;Osh;KG-sky;Kyrgyzstan
+12845;OSI-sky;Osijek;OSIJ-sky;Osijek;HR-sky;Croatia
+2311;OSLO-sky;Oslo;OSLO-sky;NULL;NO-sky;Norway
+286;OST-sky;Ostend - Bruges;OSTA-sky;Oostende/Brugge;BE-sky;Belgium
+104;OSD-sky;Ostersund Froesoe;OSTE-sky;Ostersund;SE-sky;Sweden
+101;OSR-sky;Ostrava;OSTR-sky;Ostrava;CZ-sky;Czech Republic
+3287;YOW-sky;Ottawa International;YOWA-sky;Ottawa;CA-sky;Canada
+21114;OFI-sky;Ouango Fitini;OFIA-sky;NULL;CI-sky;Ivory Coast
+9604;OZZ-sky;Ouarzazate;OUAR-sky;Ouarzazate;MA-sky;Morocco
+13890;OUD-sky;Oujda L. Angades;OUJD-sky;Oujda;MA-sky;Morocco
+31583;OUL-sky;Oulu;OULU-sky;Oulu;FI-sky;Finland
+62;OIA-sky;Ourilandia;OIAA-sky;NULL;BR-sky;Brazil
+17235;OUK-sky;Outer Skerries;OUKA-sky;NULL;UK-sky;United Kingdom
+16562;KOZ-sky;Ouzinkie SPB;KOZB-sky;Ouzinkie;US-sky;United States
+13829;VDA-sky;Ovda;OVDA-sky;Ovda;IL-sky;Israel
+4415;OWB-sky;Owensboro;OWBA-sky;Owensboro;US-sky;United States
+9103;QOW-sky;Owerri;OWEB-sky;NULL;NG-sky;Nigeria
+29180;PBJ-sky;Paama;PBJV-sky;Paama Island Island;VU-sky;Vanuatu
+29181;JFR-sky;Paamiut;JFRA-sky;Paamiut;GL-sky;Greenland
+1412;PDG-sky;Padang;PDGI-sky;Padang;ID-sky;Indonesia
+1411;PAD-sky;Paderborn;PADE-sky;Paderborn/Lippstadt;DE-sky;Germany
+1413;PAH-sky;Paducah;PAHA-sky;Paducah;US-sky;United States
+9680;PGA-sky;Page;PGAA-sky;Page;US-sky;United States
+15920;PPG-sky;Pago Pago;PPGA-sky;Pago Pago;AS-sky;American Samoa
+2108;PYY-sky;Pai (Mae Hong Son);PYYA-sky;NULL;TH-sky;Thailand
+15838;PAF-sky;Pakuba;PAFA-sky;Pakuba;UG-sky;Uganda
+9736;PLQ-sky;Palanga International;PALA-sky;Klaipeda/Palanga;LT-sky;Lithuania
+9741;PKY-sky;Palangkaraya;PKYI-sky;Palangkaraya;ID-sky;Indonesia
+16487;PLM-sky;Palembang;PLMI-sky;Palembang;ID-sky;Indonesia
+9740;PQM-sky;Palenque;PQMA-sky;Palenque;MX-sky;Mexico
+50;PMO-sky;Palermo;PALE-sky;Palermo;IT-sky;Italy
+12141;PMK-sky;Palm Island;PMKA-sky;NULL;AU-sky;Australia
+377;PSPA-sky;Palm Springs;PSPA-sky;NULL;US-sky;United States
+370;PMI-sky;Palma - Majorca;PALM-sky;Palma De Mallorca;ES-sky;Spain
+373;PMZ-sky;Palmar;PMZA-sky;Palmar Sur;CR-sky;Costa Rica
+374;PMW-sky;Palmas;PMWA-sky;NULL;BR-sky;Brazil
+16488;PMR-sky;Palmerston North;PMRN-sky;Palmerston North;NZ-sky;New Zealand
+2078;PLW-sky;Palu;PLWI-sky;Palu;ID-sky;Indonesia
+493;PNA-sky;Pamplona;PAMP-sky;Pamplona;ES-sky;Spain
+17021;PZI-sky;Pan Zhi Hua;CPZI-sky;NULL;CN-sky;China
+558;PTYA-sky;Panama City;PTYA-sky;NULL;PA-sky;Panama
+30;PFN-sky;Panama City Bay County;PFNA-sky;Panama City;US-sky;United States
+7715;PKN-sky;Pangkalanbuun;PKNI-sky;Pangkalanbuun;ID-sky;Indonesia
+3300;PGK-sky;Pangkalpinang;PGKI-sky;Pangkalpinang;ID-sky;Indonesia
+2740;PNL-sky;Pantelleria;PANT-sky;Pantelleria;IT-sky;Italy
+17008;PGH-sky;Pantnagar;IPGH-sky;NULL;IN-sky;India
+12847;PSV-sky;Papa Stour;PSVA-sky;NULL;UK-sky;United Kingdom
+250;PPW-sky;Papa Westray;PPWA-sky;Papa Westray;UK-sky;United Kingdom
+13348;PPT-sky;Papeete;PPTP-sky;Tahiti;PF-sky;French Polynesia
+1433;PFO-sky;Paphos;PAPH-sky;Paphos;CY-sky;Cyprus
+29185;PBO-sky;Paraburdoo;PBOA-sky;Paraburdoo;AU-sky;Australia
+852;PBM-sky;Paramaribo Zanderij;PBMA-sky;Paramaribo;SR-sky;Suriname
+823;PRA-sky;Parana;PRAA-sky;Parana;AR-sky;Argentina
+29184;PPQ-sky;Paraparaumu;PPQN-sky;NULL;NZ-sky;New Zealand
+16957;PED-sky;Pardubice;PEDA-sky;Pardubice;CZ-sky;Czech Republic
+812;PIN-sky;Parintins;PINA-sky;NULL;BR-sky;Brazil
+1;PARI-sky;Paris;PARI-sky;NULL;FR-sky;France
+2273;PKB-sky;Parkersburg;PKBA-sky;Parkersburg;US-sky;United States
+1622;PKE-sky;Parkes;PKEA-sky;Parkes;AU-sky;Australia
+2272;PMF-sky;Parma;PARM-sky;Milan;IT-sky;Italy
+28175;PHB-sky;Parnaiba;PHBA-sky;Parnaiba;BR-sky;Brazil
+17094;PBH-sky;Paro;PBHA-sky;Paro;BT-sky;Bhutan
+7;PAS-sky;Paros;PARO-sky;Paros;GR-sky;Greece
+9654;PSC-sky;Pasco;PSCA-sky;Pasco;US-sky;United States
+6846;PFB-sky;Passo Fundo;PFBA-sky;Passo Fundo;BR-sky;Brazil
+701;PSO-sky;Pasto;PSOA-sky;Pasto;CO-sky;Colombia
+10920;PAT-sky;Patna;IPAT-sky;Patna;IN-sky;India
+2342;POJ-sky;Patos De Minas;QPTA-sky;NULL;BR-sky;Brazil
+917;UTP-sky;Pattaya (Chonburi);UTPT-sky;U-Tapao;TH-sky;Thailand
+2074;PUF-sky;Pau;PAUU-sky;Pau;FR-sky;France
+2076;YPC-sky;Paulatuk;YPCA-sky;Paulatuk;CA-sky;Canada
+2077;PAV-sky;Paulo Afonso;PAVA-sky;NULL;BR-sky;Brazil
+11592;PWQ-sky;Pavlodar;PWQA-sky;Pavlodar;KZ-sky;Kazakhstan
+9201;GCW-sky;Peach Springs Grand Canyon West;PGSA-sky;NULL;US-sky;United States
+2400;PDB-sky;Pedro Bay;PDBA-sky;Pedro Bay;US-sky;United States
+1259;PKU-sky;Pekanbaru;PKUI-sky;Pekanbaru;ID-sky;Indonesia
+686;PEC-sky;Pelican;PECA-sky;Pelican;US-sky;United States
+9652;PLN-sky;Pellston;PLNA-sky;Pellston;US-sky;United States
+9622;PET-sky;Pelotas;PETA-sky;NULL;BR-sky;Brazil
+3099;POL-sky;Pemba;POLA-sky;Pemba;MZ-sky;Mozambique
+15873;PMA-sky;Pemba;PMAA-sky;Pemba;TZ-sky;Tanzania
+2853;PEN-sky;Penang;PENM-sky;Penang;MY-sky;Malaysia
+3178;YPT-sky;Pender Harbor;YPTA-sky;NULL;CA-sky;Canada
+2741;PDT-sky;Pendleton;PDTA-sky;Pendleton;US-sky;United States
+9651;PNS-sky;Pensacola Regional;PNSA-sky;Pensacola;US-sky;United States
+10779;YYF-sky;Penticton;YYFA-sky;Penticton;CA-sky;Canada
+29818;PEZ-sky;Penza;PENZ-sky;NULL;RU-sky;Russia
+16483;PEI-sky;Pereira;PEIA-sky;Pereira;CO-sky;Colombia
+10207;PEE-sky;Perm;PERM-sky;Perm;RU-sky;Russia
+7051;PGF-sky;Perpignan;PERP-sky;Perpignan;FR-sky;France
+2146;PER-sky;Perth;PERA-sky;Perth;AU-sky;Australia
+111;PEG-sky;Perugia Santegidio;PERU-sky;Perugia;IT-sky;Italy
+10218;PSR-sky;Pescara;PESC-sky;Pescara;IT-sky;Italy
+3233;PEW-sky;Peshawar;PEWA-sky;Peshawar;PK-sky;Pakistan
+7062;PSG-sky;Petersburg;PSGA-sky;Petersburg;US-sky;United States
+12220;PNZ-sky;Petrolina;PNZA-sky;Petrolina;BR-sky;Brazil
+2397;PPK-sky;Petropavlovsk;PPKA-sky;Petropavlovsk;KZ-sky;Kazakhstan
+2398;PKC-sky;Petropavlovsk-Kamchatsky;PETS-sky;Petropavlovsk;RU-sky;Russia
+7061;PES-sky;Petrozavodsk;PETR-sky;Petrozavodsk;RU-sky;Russia
+9927;PHW-sky;Phalaborwa;PHWA-sky;Phalaborwa;ZA-sky;South Africa
+533;PHLA-sky;Philadelphia;PHLA-sky;NULL;US-sky;United States
+837;PHS-sky;Phitsanulok;PHST-sky;Phitsanulok;TH-sky;Thailand
+14215;PNH-sky;Phnom Penh;PNHK-sky;Phnom Penh;KH-sky;Cambodia
+262;PHX-sky;Phoenix Sky Harbor;PHXA-sky;Phoenix;US-sky;United States
+9547;PCQ-sky;Phongsaly;PCQL-sky;Phongsaly;LA-sky;Laos
+3319;PRH-sky;Phrae;PRHT-sky;Phrae;TH-sky;Thailand
+3268;PQC-sky;Phu Quoc;PQCV-sky;Phu Quoc Island;VN-sky;Vietnam
+6625;HKT-sky;Phuket;HKTT-sky;Phuket;TH-sky;Thailand
+10260;PIX-sky;Pico Island;PICO-sky;Pico Island (Azores);PT-sky;Portugal
+7059;PDS-sky;Piedras Negras;PDSA-sky;Piedras Negras;MX-sky;Mexico
+9644;PIR-sky;Pierre;PIRA-sky;Pierre;US-sky;United States
+2977;PZB-sky;Pietermaritzburg;PZBA-sky;Pietermaritzburg;ZA-sky;South Africa
+3177;PIP-sky;Pilot Point Arpt;PIPA-sky;Pilot Point;US-sky;United States
+9623;PQS-sky;Pilot Station;PQSA-sky;Pilot Station;US-sky;United States
+47;PSA-sky;Pisa;PISA-sky;Pisa;IT-sky;Italy
+2348;PTX-sky;Pitalito;PTXA-sky;NULL;CO-sky;Colombia
+33246;YPK-sky;Pitt Meadows;YPKA-sky;NULL;CA-sky;Canada
+1419;PGV-sky;Pitt-Greenville;PGVA-sky;Greenville;US-sky;United States
+332;PIT-sky;Pittsburgh Int'l Apt.;PITA-sky;Pittsburgh;US-sky;United States
+2347;THU-sky;Pituffik;THUA-sky;Pituffik;GL-sky;Greenland
+117;PIU-sky;Piura;PIUA-sky;Piura;PE-sky;Peru
+10173;PLJ-sky;Placencia;PLJA-sky;Placencia;BZ-sky;Belize
+70;PLA-sky;Planadas;PLAA-sky;NULL;CO-sky;Colombia
+9653;TLY-sky;Plastun;TLYA-sky;Plastun;RU-sky;Russia
+27562;PTU-sky;Platinum;PTUA-sky;Platinum;US-sky;United States
+9620;PBG-sky;Plattsburgh AFB;PLBA-sky;NULL;US-sky;United States
+1952;PYC-sky;Playon Chico;PYCA-sky;NULL;PA-sky;Panama
+6566;PXU-sky;Pleiku;PXUV-sky;Pleiku;VN-sky;Vietnam
+27561;PBZ-sky;Plettenberg Bay;PBZA-sky;Plettenberg;ZA-sky;South Africa
+9630;PIH-sky;Pocatello;PIHA-sky;Pocatello;US-sky;United States
+6626;TGD-sky;Podgorica;PODG-sky;Podgorica;ME-sky;Montenegro
+6388;TGP-sky;Podkamennaya Tunguska;TGPA-sky;NULL;RU-sky;Russia
+24895;PNI-sky;Pohnpei;PNIA-sky;Pohnpei;FM-sky;Micronesia
+2742;PIZ-sky;Point Lay;PIZA-sky;Point Lay;US-sky;United States
+207;PNR-sky;Pointe Noire;PNRA-sky;Pointe-Noire;CG-sky;Congo
+2346;PTP-sky;Pointe-a-Pitre;PTPA-sky;Pointe A Pitre;GP-sky;Guadeloupe
+1548;YNL-sky;Points North Landing;YNLA-sky;Points North Landing;CA-sky;Canada
+7056;PIS-sky;Poitiers;POIT-sky;Poitiers;FR-sky;France
+685;PTG-sky;Polokwane;PTGA-sky;Polokwane;ZA-sky;South Africa
+3101;PYJ-sky;Polyarnyj;POLY-sky;Polyarnyj;RU-sky;Russia
+29819;PSE-sky;Ponce;PSEA-sky;Ponce;PR-sky;Puerto Rico
+14089;YIO-sky;Pond Inlet;YIOA-sky;Pond Inlet;CA-sky;Canada
+2430;PDL-sky;Ponta Delgada;PONT-sky;Ponta Delgada (Azores);PT-sky;Portugal
+10858;PTK-sky;Pontiac;PTKA-sky;NULL;US-sky;United States
+10857;PNK-sky;Pontianak;PNKI-sky;Pontianak;ID-sky;Indonesia
+24659;YHP-sky;Poplar Hill;YHPA-sky;Poplar Hill;CA-sky;Canada
+4480;TAT-sky;Poprad-Tatry;POPR-sky;Poprad/Tatry;SK-sky;Slovakia
+7052;PBD-sky;Porbandar;IPBD-sky;Porbandar;IN-sky;India
+6635;POR-sky;Pori;PORI-sky;Pori;FI-sky;Finland
+13616;PMV-sky;Porlamar;PMVA-sky;Porlamar;VE-sky;Venezuela
+21441;YPB-sky;Port Alberni;YPBA-sky;Port Alberni;CA-sky;Canada
+24930;PTA-sky;Port Alsworth;PTAA-sky;Port Alsworth;US-sky;United States
+20800;CLM-sky;Port Angeles;CLMA-sky;Port Angeles;US-sky;United States
+8843;PAP-sky;Port Au Prince;PAPA-sky;Port Au Prince;HT-sky;Haiti
+162;PUG-sky;Port Augusta;PUGA-sky;Port Augusta;AU-sky;Australia
+1849;IXZ-sky;Port blair;IIXZ-sky;Port Blair;IN-sky;India
+158;CMH-sky;Port Columbus;CMHA-sky;Columbus;US-sky;United States
+2150;PLZ-sky;Port Elizabeth;PLZA-sky;Port Elizabeth;ZA-sky;South Africa
+2763;POG-sky;Port Gentil;POGA-sky;Port Gentil;GA-sky;Gabon
+160;PGM-sky;Port Graham;PGMA-sky;Port Graham;US-sky;United States
+1181;PHC-sky;Port Harcourt;PHCA-sky;Port Harcourt;NG-sky;Nigeria
+1182;YZT-sky;Port Hardy;YZTA-sky;Port Hardy;CA-sky;Canada
+9275;PTH-sky;Port Heiden;PTHA-sky;Port Heiden;US-sky;United States
+4484;PLO-sky;Port Lincoln;PLOA-sky;Port Lincoln;AU-sky;Australia
+4418;ORI-sky;Port Lions;ORIA-sky;Port Lions;US-sky;United States
+6636;POM-sky;Port Moresby;POMP-sky;Port Moresby;PG-sky;Papua New Guinea
+1582;PRL-sky;Port Oceanic;PRLA-sky;NULL;US-sky;United States
+155;POS-sky;Port Of Spain;POSA-sky;Port Of Spain;TT-sky;Trinidad and Tobago
+161;PPV-sky;Port Protection;PPVA-sky;Port Protection;US-sky;United States
+184;PZU-sky;Port Sudan;PZUA-sky;Port Sudan;SD-sky;Sudan
+7374;VLI-sky;Port Vila;VLIV-sky;Port Vila;VU-sky;Vanuatu
+8819;PTJ-sky;Portland;PTJA-sky;Portland;AU-sky;Australia
+4481;PDX-sky;Portland;PDXA-sky;Portland;US-sky;United States
+4483;PWM-sky;Portland;PWMA-sky;Portland;US-sky;United States
+1578;OPO-sky;Porto;PORT-sky;Porto;PT-sky;Portugal
+904;POA-sky;Porto Alegre;POAA-sky;Porto Alegre;BR-sky;Brazil
+1579;PXO-sky;Porto Santo;PORY-sky;Porto Santo;PT-sky;Portugal
+1580;BPS-sky;Porto Seguro;BPSA-sky;Porto Seguro;BR-sky;Brazil
+1581;PVH-sky;Porto Velho;PVHA-sky;Porto Velho;BR-sky;Brazil
+2087;PSM-sky;Portsmouth;PSMA-sky;Boston;US-sky;United States
+9691;WPR-sky;Porvenir;WPRA-sky;NULL;CL-sky;Chile
+15047;PSJ-sky;Poso;PSJI-sky;NULL;ID-sky;Indonesia
+2343;POI-sky;Potosi;POIA-sky;NULL;BO-sky;Bolivia
+16881;YPX-sky;Povungnituk;YPXA-sky;Puvirnituq;CA-sky;Canada
+9809;PAZ-sky;Poza Rica;PAZA-sky;Poza Rica;MX-sky;Mexico
+648;POZ-sky;Poznan;POZN-sky;Poznan;PL-sky;Poland
+614;PRG-sky;Prague;PRAG-sky;Prague;CZ-sky;Czech Republic
+118;RAI-sky;Praia;RAIA-sky;Praia;CV-sky;Cape Verde
+239;PRI-sky;Praslin Island;PRIA-sky;Praslin Island;SC-sky;Seychelles
+2061;PRC-sky;Prescott;PRCA-sky;Prescott;US-sky;United States
+2118;PPB-sky;Presidente Prudente;PPBA-sky;Presidente Prudente;BR-sky;Brazil
+2060;PQI-sky;Presque Isle;PQIA-sky;Presque Isle;US-sky;United States
+12059;PRY-sky;Pretoria Wonderboom Apt.;PRYA-sky;Pretoria;ZA-sky;South Africa
+17213;PVK-sky;Preveza;PREV-sky;Preveza/Lefkada;GR-sky;Greece
+3168;YPA-sky;Prince Albert;YPAA-sky;Prince Albert;CA-sky;Canada
+8846;YXS-sky;Prince George;YXSA-sky;Prince George;CA-sky;Canada
+8848;YPR-sky;Prince Rupert Digby Island;YPRA-sky;Prince Rupert;CA-sky;Canada
+2115;PRN-sky;Pristina;PRIT-sky;Pristina;KO-sky;Kosovo
+2122;PPP-sky;Proserpine;PPPA-sky;Proserpine;AU-sky;Australia
+9687;PVD-sky;Providence;PVDA-sky;Providence;US-sky;United States
+9689;PVA-sky;Providencia;PVAA-sky;Providencia;CO-sky;Colombia
+9688;PLS-sky;Providenciales;PLSA-sky;Providenciales;TC-sky;Turks and Caicos Islands
+9690;PVC-sky;Provincetown;PVCA-sky;Provincetown;US-sky;United States
+9694;PVU-sky;Provo;PVUA-sky;NULL;US-sky;United States
+16559;PKV-sky;Pskov;PSKO-sky;Pskov;RU-sky;Russia
+9667;PBC-sky;Puebla;PBCA-sky;Puebla;MX-sky;Mexico
+9665;PUB-sky;Pueblo;PUBA-sky;Pueblo;US-sky;United States
+2088;PUU-sky;Puerto Asis;PUUA-sky;Puerto Asis;CO-sky;Colombia
+163;PYH-sky;Puerto Ayacucho;PYHA-sky;Puerto Ayacucho;VE-sky;Venezuela
+164;PBL-sky;Puerto Cabello;PBLA-sky;NULL;VE-sky;Venezuela
+159;PCR-sky;Puerto Carreno;PCRA-sky;Puerto Carreno;CO-sky;Colombia
+2085;PXM-sky;Puerto Escondido;PXMB-sky;Puerto Escondido;MX-sky;Mexico
+20801;PDA-sky;Puerto Inirida;PDAA-sky;Puerto Inirida;CO-sky;Colombia
+2442;PJM-sky;Puerto Jimenez;PJMA-sky;Puerto Jimenez;CR-sky;Costa Rica
+646;LQM-sky;Puerto Leguizamo;LQMA-sky;Puerto Leguizamo;CO-sky;Colombia
+4485;PEU-sky;Puerto Lempira;PEUA-sky;Puerto Lempira;HN-sky;Honduras
+1830;PMY-sky;Puerto Madryn;PMYA-sky;Puerto Madryn;AR-sky;Argentina
+21324;PEM-sky;Puerto Maldonado;PEMA-sky;Puerto Maldonado;PE-sky;Peru
+9554;PMC-sky;Puerto Montt;PMCA-sky;Puerto Montt;CL-sky;Chile
+12214;PNT-sky;Puerto Natales;PNTA-sky;NULL;CL-sky;Chile
+9324;PUE-sky;Puerto Obaldia;PUEA-sky;NULL;PA-sky;Panama
+1180;PZO-sky;Puerto Ordaz;PZOA-sky;Puerto Ordaz;VE-sky;Venezuela
+13333;POP-sky;Puerto Plata;POPA-sky;Puerto Plata;DO-sky;Dominican Republic
+2149;PPS-sky;Puerto Princesa International;PPSP-sky;Puerto Princesa;PH-sky;Philippines
+2148;PVR-sky;Puerto Vallarta;PVRA-sky;Puerto Vallarta;MX-sky;Mexico
+9053;WPU-sky;Puerto Williams;WPUA-sky;NULL;CL-sky;Chile
+1683;PUY-sky;Pula;PULA-sky;Pula;HR-sky;Croatia
+9669;PUW-sky;Pullman;PUWA-sky;Pullman;US-sky;United States
+14216;PNQ-sky;Pune;IPNQ-sky;Pune;IN-sky;India
+1384;PUQ-sky;Punta Arenas;PUQA-sky;Punta Arenas;CL-sky;Chile
+949;PUJ-sky;Punta Cana;PUJA-sky;Punta Cana;DO-sky;Dominican Republic
+3193;PDP-sky;Punta Del Este;PDPA-sky;Punta Del Este;UY-sky;Uruguay
+10778;PND-sky;Punta Gorda;PNDA-sky;Punta Gorda;BZ-sky;Belize
+10777;PGD-sky;Punta Gorda;PGDA-sky;NULL;US-sky;United States
+2738;PBP-sky;Punta Islita;PBPA-sky;Punta Islita;CR-sky;Costa Rica
+14194;PBU-sky;Putao;PBUM-sky;Putao;MM-sky;Myanmar
+2966;PSU-sky;Putussibau;PSUI-sky;Putussibau;ID-sky;Indonesia
+12270;GBB-sky;Qabala;QABA-sky;NULL;AZ-sky;Azerbaijan
+22937;TAO-sky;Qingdao;CTAO-sky;Qingdao;CN-sky;China
+13779;IQN-sky;Qingyang;CIQN-sky;NULL;CN-sky;China
+34932;SHP-sky;Qinhuangdao;CSHP-sky;Qinhuangdao;CN-sky;China
+34912;NDG-sky;Qiqihar;CNDG-sky;Qiqihar;CN-sky;China
+35501;YQBA-sky;Quebec;YQBA-sky;Quebec;CA-sky;Canada
+15845;UEL-sky;Quelimane;UELA-sky;Quelimane;MZ-sky;Mozambique
+2743;XQP-sky;Quepos;XQPA-sky;Quepos;CR-sky;Costa Rica
+28984;QRO-sky;Queretaro;QUEA-sky;Queretaro;MX-sky;Mexico
+639;UET-sky;Quetta;UETA-sky;Quetta;PK-sky;Pakistan
+14496;UIH-sky;Qui Nhon;UIHV-sky;Qui Nhon;VN-sky;Vietnam
+15101;UIB-sky;Quibdo;UIBA-sky;Quibdo;CO-sky;Colombia
+16643;ULP-sky;Quilpie;ULPA-sky;Quilpie;AU-sky;Australia
+13831;UIP-sky;Quimper;QUIM-sky;Quimper;FR-sky;France
+16312;UIN-sky;Quincy;UINA-sky;Quincy;US-sky;United States
+16642;KWN-sky;Quinhagak;KWNA-sky;Quinhagak;US-sky;United States
+635;UIO-sky;Quito;UIOA-sky;Quito;EC-sky;Ecuador
+7222;RBA-sky;Rabat;RABA-sky;Rabat;MA-sky;Morocco
+31317;VKG-sky;Rach Gia;VKGV-sky;Rach Gia;VN-sky;Vietnam
+31740;RDO-sky;Radom;RDOA-sky;NULL;PL-sky;Poland
+802;RYK-sky;Rahim Yar Khan;RYKA-sky;Rahim Yar Khan;PK-sky;Pakistan
+14023;RFP-sky;Raiatea;RFPP-sky;Raiatea;PF-sky;French Polynesia
+1381;YOP-sky;Rainbow Lake;YOPA-sky;Rainbow Lake;CA-sky;Canada
+17031;RPR-sky;Raipur;IRPR-sky;Raipur;IN-sky;India
+17035;RJA-sky;Rajahmundry;IRJA-sky;NULL;IN-sky;India
+17033;RAJ-sky;Rajkot;IRAJ-sky;Rajkot;IN-sky;India
+8661;RDU-sky;Raleigh / Durham;RDUA-sky;Raleigh/Durham;US-sky;United States
+16266;RMS-sky;Ramstein;RAMS-sky;NULL;DE-sky;Germany
+16949;IXR-sky;Ranchi;IIXR-sky;Ranchi;IN-sky;India
+21215;UNN-sky;Ranong;UNNT-sky;Ranong;TH-sky;Thailand
+9705;RAP-sky;Rapid City Regional;RAPA-sky;Rapid City;US-sky;United States
+226;RKT-sky;Ras Al Khaimah;RKTA-sky;Ras al Khaimah;AE-sky;United Arab Emirates
+3236;RAS-sky;Rasht;RASB-sky;Rasht;IR-sky;Iran
+12116;REC-sky;Recife;RECA-sky;Recife;BR-sky;Brazil
+2945;YQF-sky;Red Deer;YQFA-sky;NULL;CA-sky;Canada
+21205;RDV-sky;Red Devil;RDVA-sky;Red Devil;US-sky;United States
+21204;RDBA-sky;Red Dog;RDBA-sky;NULL;US-sky;United States
+14102;YRL-sky;Red Lake;YRLA-sky;Red Lake;CA-sky;Canada
+9703;RDN-sky;Redang;RDNM-sky;Redang Island;MY-sky;Malaysia
+9702;RDD-sky;Redding;RDDA-sky;Redding;US-sky;United States
+9704;RDC-sky;Redencao;RDCA-sky;NULL;BR-sky;Brazil
+9700;RDM-sky;Redmond;RDMA-sky;Redmond;US-sky;United States
+10217;REG-sky;Reggio Calabria;REGG-sky;Reggio di Calabria;IT-sky;Italy
+2760;MGF-sky;Regional De Maringa;MGFA-sky;Maringa;BR-sky;Brazil
+2439;RNS-sky;Rennes;RENN-sky;Rennes;FR-sky;France
+9715;RNO-sky;Reno / Tahoe;RNOA-sky;Reno;US-sky;United States
+225;REU-sky;Reus;REUS-sky;Reus;ES-sky;Spain
+20450;REYK-sky;Reykjavik;REYK-sky;NULL;IS-sky;Iceland
+2441;REX-sky;Reynosa;REXA-sky;Reynosa;MX-sky;Mexico
+9701;RHI-sky;Rhinelander;RHIA-sky;Rhinelander;US-sky;United States
+7067;RHO-sky;Rhodes;RHOD-sky;Rhodes;GR-sky;Greece
+17032;RAO-sky;Ribeirao Preto;RAOA-sky;Ribeirao Preto;BR-sky;Brazil
+8760;RCM-sky;Richmond;RCMA-sky;Richmond;AU-sky;Australia
+8759;RIC-sky;Richmond;RICA-sky;Richmond;US-sky;United States
+12804;RIX-sky;Riga International;RIGA-sky;Riga;LV-sky;Latvia
+12844;RJK-sky;Rijeka;RUJE-sky;Rijeka;HR-sky;Croatia
+266;RMI-sky;Rimini;RIMI-sky;Rimini;IT-sky;Italy
+12712;RBR-sky;Rio Branco;RBRA-sky;Rio Branco;BR-sky;Brazil
+1388;SDU-sky;Rio De Janeiro Santos Dumont;RIOA-sky;Rio De Janeiro;BR-sky;Brazil
+8952;RGL-sky;Rio Gallegos;RGLA-sky;Rio Gallegos;AR-sky;Argentina
+405;RGA-sky;Rio Grande;RGAA-sky;Rio Grande;AR-sky;Argentina
+17732;RIG-sky;Rio Grande;RIGB-sky;NULL;BR-sky;Brazil
+1190;RHD-sky;Rio Hondo;RHDA-sky;NULL;AR-sky;Argentina
+16420;RYO-sky;Rio Turbio;RYOA-sky;NULL;AR-sky;Argentina
+9712;RVD-sky;Rio Verde;RVDA-sky;NULL;BR-sky;Brazil
+12714;RCH-sky;Riohacha;RCHA-sky;Riohacha;CO-sky;Colombia
+9711;RIW-sky;Riverton;RIWA-sky;Riverton;US-sky;United States
+14020;RUH-sky;Riyadh;RUHA-sky;Riyadh;SA-sky;Saudi Arabia
+16622;RIY-sky;Riyan Mukalla;RIYA-sky;Mukalla;YE-sky;Yemen
+9729;ROA-sky;Roanoke;ROAA-sky;Roanoke;US-sky;United States
+24506;RCE-sky;Roche Harbor;RCEA-sky;Roche Harbor;US-sky;United States
+9731;ROC-sky;Rochester;ROCA-sky;Rochester;US-sky;United States
+9732;RST-sky;Rochester Municipal;RSTA-sky;Rochester;US-sky;United States
+9714;RKS-sky;Rock Springs;RKSA-sky;Rock Springs;US-sky;United States
+9713;RKD-sky;Rockland;RKDA-sky;Rockland;US-sky;United States
+2612;RDZ-sky;Rodez;RODE-sky;Rodez;FR-sky;France
+3289;ROI-sky;Roi Et;ROIT-sky;Roi Et;TH-sky;Thailand
+1602;RMA-sky;Roma;RMAA-sky;Roma;AU-sky;Australia
+44;ROME-sky;Rome;ROME-sky;NULL;IT-sky;Italy
+1741;IOM-sky;Ronaldsway;CAST-sky;Isle Of Man;UK-sky;United Kingdom
+28223;ROO-sky;Rondonopolis;ROOA-sky;NULL;BR-sky;Brazil
+9716;RNN-sky;Ronne Bornholm;RONO-sky;Bornholm;DK-sky;Denmark
+1379;RNB-sky;Ronneby;RONN-sky;Ronneby;SE-sky;Sweden
+23245;NRR-sky;Roosevelt Roads;NRRA-sky;Roosevelt Roads;PR-sky;Puerto Rico
+24540;ROS-sky;Rosario;ROSA-sky;Rosario;AR-sky;Argentina
+24541;RSJ-sky;Rosario;RSJA-sky;Rosario;US-sky;United States
+228;ROX-sky;Roseau;ROXA-sky;NULL;US-sky;United States
+14806;RET-sky;Rost;ROSU-sky;Rost;NO-sky;Norway
+7649;RLG-sky;Rostock;ROST-sky;Rostock;DE-sky;Germany
+983;ROV-sky;Rostov-on-Don;ROSV-sky;Rostov;RU-sky;Russia
+9730;ROW-sky;Roswell;ROWA-sky;Roswell;US-sky;United States
+14021;ROP-sky;Rota;ROPA-sky;Rota;MP-sky;Northern Mariana Islands
+14805;RTI-sky;Roti;RTII-sky;NULL;ID-sky;Indonesia
+14803;ROT-sky;Rotorua;ROTN-sky;Rotorua;NZ-sky;New Zealand
+7382;RTM-sky;Rotterdam;ROTT-sky;Rotterdam;NL-sky;Netherlands
+14804;RTA-sky;Rotuma Island;RTAF-sky;Rotuma Island;FJ-sky;Fiji
+18075;ZRJ-sky;Round Lake;ZRJA-sky;Round Lake;CA-sky;Canada
+16623;YUY-sky;Rouyn;YUYA-sky;Rouyn-Noranda;CA-sky;Canada
+31579;RVN-sky;Rovaniemi;ROVA-sky;Rovaniemi;FI-sky;Finland
+14306;RBY-sky;Ruby;RBYA-sky;Ruby;US-sky;United States
+1603;RCY-sky;Rum Cay;RCYA-sky;NULL;BS-sky;Bahamas
+1189;NDU-sky;Rundu;NDUA-sky;NULL;NA-sky;Namibia
+14304;RUP-sky;Rupsi;IRUP-sky;NULL;IN-sky;India
+14303;RBQ-sky;Rurrenabaque;RBQA-sky;NULL;BO-sky;Bolivia
+14305;RUR-sky;Rurutu;RURP-sky;Rurutu;PF-sky;French Polynesia
+224;RSH-sky;Russian Mission;RSHA-sky;Russian Mission;US-sky;United States
+24507;RTG-sky;Ruteng;RTGI-sky;NULL;ID-sky;Indonesia
+9733;RUT-sky;Rutland;RUTA-sky;Rutland;US-sky;United States
+3131;RZE-sky;Rzeszow;RZES-sky;Rzeszow;PL-sky;Poland
+7631;SCN-sky;Saarbruecken;SAAR-sky;Saarbruecken;DE-sky;Germany
+15619;SAB-sky;Saba Island;SABA-sky;Saba;BQ-sky;Caribbean Netherlands
+21277;GSS-sky;Sabi Sabi;GSSA-sky;NULL;ZA-sky;South Africa
+3148;YSY-sky;Sachs Harbour;YSYA-sky;Sachs Harbour;CA-sky;Canada
+2303;SCK-sky;Sacramento Stockton;SACA-sky;Sacramento;US-sky;United States
+12400;HSG-sky;Saga;JHSG-sky;Saga;JP-sky;Japan
+16467;SPD-sky;Saidpur;SPDA-sky;Saidpur;BD-sky;Bangladesh
+9793;SGU-sky;Saint George;SGUA-sky;Saint George;US-sky;United States
+9794;YSJ-sky;Saint John;YSJA-sky;Saint John;CA-sky;Canada
+769;ANU-sky;Saint John's;ANUA-sky;Antigua;AG-sky;Antigua and Barbuda
+1734;KSM-sky;Saint Marys;KSMA-sky;Saint Marys Airport;US-sky;United States
+1637;SNP-sky;Saint Paul Island;SNPA-sky;Saint Paul Island;US-sky;United States
+860;STT-sky;Saint Thomas Cyril E King;STTA-sky;St Thomas Island;VI-sky;Virgin Islands
+757;RUN-sky;Saint-Denis;RUNA-sky;Saint Denis de la Reunion;RE-sky;Reunion
+1636;ZSE-sky;Saint-Pierre;ZSEB-sky;Saint Pierre de la Reunion;RE-sky;Reunion
+9834;SMS-sky;Sainte Marie;SMSA-sky;Sainte-Marie;MG-sky;Madagascar
+156;SPN-sky;Saipan;SPNA-sky;Saipan;MP-sky;Northern Mariana Islands
+13985;SNO-sky;Sakon Nakhon;SNOT-sky;Sakon Nakhon;TH-sky;Thailand
+4994;SID-sky;Sal;SIDA-sky;Sal Island;CV-sky;Cape Verde
+7224;SLL-sky;Salalah;SLLA-sky;Salalah;OM-sky;Oman
+13073;SLM-sky;Salamanca Matacan;SALA-sky;Salamanca;ES-sky;Spain
+25939;SLY-sky;Salehard;SALE-sky;Salekhard;RU-sky;Russia
+13074;SLO-sky;Salem;SLOA-sky;NULL;US-sky;United States
+9820;SLN-sky;Salina;SLNA-sky;Salina;US-sky;United States
+9821;SNC-sky;Salinas;SNCA-sky;NULL;EC-sky;Ecuador
+4417;SBY-sky;Salisbury-Ocean City;SBYA-sky;Salisbury-Ocean City;US-sky;United States
+7233;YZG-sky;Salluit;YSWA-sky;Salluit;CA-sky;Canada
+7232;SLX-sky;Salt Cay;SLXA-sky;Salt Cay;TC-sky;Turks and Caicos Islands
+4769;SLC-sky;Salt Lake City;SLCA-sky;Salt Lake City;US-sky;United States
+7223;SLA-sky;Salta;SLAA-sky;Salta;AR-sky;Argentina
+9818;SLW-sky;Saltillo;SLWA-sky;Saltillo;MX-sky;Mexico
+7221;SSA-sky;Salvador;SSAA-sky;Salvador;BR-sky;Brazil
+4416;SZG-sky;Salzburg;SALZ-sky;Salzburg;AT-sky;Austria
+22975;NEU-sky;Sam Neua;NEUL-sky;Sam Neua;LA-sky;Laos
+22974;AZS-sky;Samana;SAMB-sky;NULL;DO-sky;Dominican Republic
+12338;KUF-sky;Samara;SAMA-sky;Samara;RU-sky;Russia
+12339;SQT-sky;Samarai Island;SQTP-sky;NULL;PG-sky;Papua New Guinea
+12340;SKD-sky;Samarkand;SKDA-sky;Samarkand;UZ-sky;Uzbekistan
+1323;SAX-sky;Sambu;SAXA-sky;NULL;PA-sky;Panama
+6493;UAS-sky;Samburu;UASA-sky;Samburu;KE-sky;Kenya
+17226;SMI-sky;Samos;SAMO-sky;Samos;GR-sky;Greece
+5116;SZF-sky;Samsun Carsamba;SAMS-sky;Samsun;TR-sky;Turkey
+8855;ADZ-sky;San Andres Island;ADZA-sky;San Andres Island;CO-sky;Colombia
+9749;SAQ-sky;San Andros;SAQA-sky;San Andros;BS-sky;Bahamas
+9805;SJT-sky;San Angelo Mathis Fld;SJTA-sky;San Angelo;US-sky;United States
+2820;SVZ-sky;San Antonio;SVZA-sky;San Antonio;VE-sky;Venezuela
+984;SAT-sky;San Antonio International;SATA-sky;San Antonio;US-sky;United States
+1365;BRC-sky;San Carlos DeBariloche;BRCA-sky;San Carlos de Bariloche;AR-sky;Argentina
+24971;SCY-sky;San Cristobal;SCYA-sky;San Cristobal Island;EC-sky;Ecuador
+1040;SANA-sky;San Diego;SANA-sky;NULL;US-sky;United States
+9836;TQR-sky;San Domino Island;TQRA-sky;San Domino Island;IT-sky;Italy
+11790;SFH-sky;San Felipe;SFHA-sky;NULL;MX-sky;Mexico
+6739;SFD-sky;San Fernando De Apure;SFDA-sky;San Fernando De Apure;VE-sky;Venezuela
+81;SFO-sky;San Francisco International;SFOA-sky;San Francisco;US-sky;United States
+9074;CYD-sky;San Ignacio Cayo;SQSA-sky;NULL;BZ-sky;Belize
+10824;SJZ-sky;San Jorge Island;SANJ-sky;Sao Jorge Island;PT-sky;Portugal
+2752;SJI-sky;San Jose (Mindoro);SJIP-sky;San Jose;PH-sky;Philippines
+342;SJD-sky;San Jose Cabo;SJDA-sky;San Jose del Cabo;MX-sky;Mexico
+2753;SJE-sky;San Jose Del Gua;SJEA-sky;San Jose Del Gua;CO-sky;Colombia
+2353;SIC-sky;San Jose Island;SINO-sky;NULL;TR-sky;Turkey
+1891;SJO-sky;San Jose Juan Santamaria;SJOA-sky;San Jose;CR-sky;Costa Rica
+2252;SJC-sky;San Jose Municipal;SJCA-sky;San Jose;US-sky;United States
+906;SIG-sky;San Juan Isla Grande;SJUA-sky;San Juan;PR-sky;Puerto Rico
+9760;LUQ-sky;San Luis;SANB-sky;San Luis;AR-sky;Argentina
+25;SBP-sky;San Luis Obispo County;CSLA-sky;San Luis Obispo;US-sky;United States
+1064;SLP-sky;San Luis Potosi;SLPA-sky;San Luis Potosi;MX-sky;Mexico
+1105;CPC-sky;San Martin DeLos Andes;CPCA-sky;San Martin De Los Andes;AR-sky;Argentina
+29786;SPR-sky;San Pedro;SPRA-sky;San Pedro;BZ-sky;Belize
+29787;SPY-sky;San Pedro;SPYA-sky;NULL;CI-sky;Ivory Coast
+7057;SAP-sky;San Pedro Sula;SAPA-sky;San Pedro Sula;HN-sky;Honduras
+7179;SAL-sky;San Salvador;SALB-sky;San Salvador;SV-sky;El Salvador
+12117;ZSA-sky;San Salvador;ZSAA-sky;San Salvador;BS-sky;Bahamas
+537;EAS-sky;San Sebastian Fuenteraba;SANS-sky;San Sebastian;ES-sky;Spain
+9835;SOM-sky;San Tome;SOMA-sky;San Tome;VE-sky;Venezuela
+4921;SVI-sky;San Vicente;SVIA-sky;San Vicente;CO-sky;Colombia
+9751;SDG-sky;Sanandaj;SDGA-sky;Sanandaj;IR-sky;Iran
+1639;SDP-sky;Sand Point;SDPA-sky;Sand Point;US-sky;United States
+1044;SDK-sky;Sandakan;SDKM-sky;Sandakan;MY-sky;Malaysia
+530;SDN-sky;Sandane;SAND-sky;Sandane;NO-sky;Norway
+525;SSJ-sky;Sandnessjoen;SANE-sky;Sandnessjoen;NO-sky;Norway
+1390;YZP-sky;Sandspit;YZPA-sky;Sandspit;CA-sky;Canada
+17910;ZSJ-sky;Sandy Lake;ZSJA-sky;Sandy Lake;CA-sky;Canada
+9036;MNA-sky;Sangir Talaud (Melonguane);MNAI-sky;NULL;ID-sky;Indonesia
+1214;YSK-sky;Sanikiluaq;YSKA-sky;Sanikiluaq;CA-sky;Canada
+5088;GNY-sky;Sanliurfa Guney Anadoulu Projesi;SANL-sky;NULL;TR-sky;Turkey
+528;NNB-sky;Santa Ana;NNBA-sky;Santa Ana Island;SB-sky;Solomon Islands
+529;SBL-sky;Santa Ana;SBLA-sky;NULL;BO-sky;Bolivia
+523;SNA-sky;Santa Ana John Wayne;SNAA-sky;Santa Ana;US-sky;United States
+1638;SBA-sky;Santa Barbara Municipal;SBAA-sky;Santa Barbara;US-sky;United States
+670;SNU-sky;Santa Clara;SNUA-sky;NULL;CU-sky;Cuba
+172;SRZA-sky;Santa Cruz;SRZA-sky;NULL;BO-sky;Bolivia
+179;SCZ-sky;Santa Cruz Is;SCZA-sky;Santa Cruz Island;SB-sky;Solomon Islands
+1058;SNV-sky;Santa Elena;SNVA-sky;NULL;VE-sky;Venezuela
+1302;SAF-sky;Santa Fe;ZSHA-sky;Santa Fe;US-sky;United States
+1303;SFN-sky;Santa Fe;SFNA-sky;Santa Fe;AR-sky;Argentina
+17869;SKV-sky;Santa Katarina;SKVA-sky;NULL;EG-sky;Egypt
+9833;SMA-sky;Santa Maria;SANV-sky;Santa Maria (Azores);PT-sky;Portugal
+9831;SMX-sky;Santa Maria;SMXA-sky;Santa Maria;US-sky;United States
+27848;SMG-sky;Santa Maria;SMGA-sky;NULL;PE-sky;Peru
+9832;RIA-sky;Santa Maria;RIAA-sky;NULL;BR-sky;Brazil
+3021;SMR-sky;Santa Marta;SMRA-sky;Santa Marta;CO-sky;Colombia
+227;STS-sky;Santa Rosa;STSA-sky;Santa Rosa;US-sky;United States
+229;RSA-sky;Santa Rosa;RSAA-sky;Santa Rosa;AR-sky;Argentina
+230;ETR-sky;Santa Rosa;ETRA-sky;Santa Rosa;EC-sky;Ecuador
+682;SST-sky;Santa Teresita;SSTA-sky;NULL;AR-sky;Argentina
+522;SDR-sky;Santander;SANT-sky;Santander;ES-sky;Spain
+853;STM-sky;Santarem;STMB-sky;Santarem;BR-sky;Brazil
+462;SCU-sky;Santiago;SCUA-sky;Santiago de Cuba;CU-sky;Cuba
+461;STI-sky;Santiago;STIA-sky;Santiago;DO-sky;Dominican Republic
+460;SCL-sky;Santiago Arturo Merino Benitez;SCLA-sky;Santiago;CL-sky;Chile
+459;SCQ-sky;Santiago de Compostela;SANC-sky;Santiago De Compostela;ES-sky;Spain
+106;SDE-sky;Santiago Del Estero;SDEA-sky;Santiago Del Estero;AR-sky;Argentina
+527;GEL-sky;Santo Angelo;GELA-sky;NULL;BR-sky;Brazil
+38;STD-sky;Santo Domingo;STDA-sky;Santo Domingo;VE-sky;Venezuela
+32;SDQ-sky;Santo Domingo Las Americas;SDQA-sky;Santo Domingo;DO-sky;Dominican Republic
+850;JTR-sky;Santorini (Thira);THIR-sky;Thira;GR-sky;Greece
+22943;SYX-sky;Sanya;CSYX-sky;Sanya;CN-sky;China
+1366;QSC-sky;Sao Carlos Airport;QSCQ-sky;NULL;BR-sky;Brazil
+11355;SFL-sky;Sao Filipe;SFLA-sky;Sao Filipe;CV-sky;Cape Verde
+940;SJL-sky;Sao Gabriel;SJLA-sky;NULL;BR-sky;Brazil
+9302;SJP-sky;Sao Jose Do Rio Preto;SJPA-sky;Sao Jose Do Rio Preto;BR-sky;Brazil
+9303;SJK-sky;Sao Jose Dos Campos;SJKA-sky;Sao Jose dos Campos;BR-sky;Brazil
+11354;SLZ-sky;Sao Luiz;SLZA-sky;Sao Luis;BR-sky;Brazil
+1215;SNE-sky;Sao Nicolau;SNEA-sky;Sao Nicolau Island;CV-sky;Cape Verde
+296;GRU-sky;Sao Paulo Guarulhos;SAOA-sky;Sao Paulo;BR-sky;Brazil
+2075;VCP-sky;Sao Paulo Viracopos;CPQA-sky;Sao Paulo;BR-sky;Brazil
+1222;TMS-sky;Sao Tome Is;TMSA-sky;Sao Tome;ST-sky;Sao Tome and Principe
+4920;VXE-sky;Sao Vicente;VXEA-sky;Sao Vicente Island;CV-sky;Cape Verde
+2841;CTS-sky;Sapporo Chitose;SPKA-sky;Sapporo;JP-sky;Japan
+1236;SSR-sky;Sara;SSRV-sky;Sara;VU-sky;Vanuatu
+35509;SARA-sky;Sarajevo;SARA-sky;Sarajevo;BA-sky;Bosnie-HerzÌ©govine
+5243;SLK-sky;Saranac Lake;SLKA-sky;Saranac Lake;US-sky;United States
+30025;SKX-sky;Saransk;SARC-sky;NULL;RU-sky;Russia
+9857;SRQ-sky;Sarasota;SRQA-sky;Sarasota;US-sky;United States
+1234;SRY-sky;Sary;SRYA-sky;Sari;IR-sky;Iran
+1991;YXE-sky;Saskatoon;YXEA-sky;Saskatoon;CA-sky;Canada
+1247;SUJ-sky;Satu Mare;SATU-sky;Satu Mare;RO-sky;Romania
+1248;YAM-sky;Sault Ste Marie;YAMA-sky;Sault Ste. Marie;CA-sky;Canada
+1246;CIU-sky;Sault Ste Marie Chippewa County;SSMA-sky;Sault Ste. Marie;US-sky;United States
+304;SAV-sky;Savannah / Hilton Head;SAVA-sky;Savannah;US-sky;United States
+9746;ZVK-sky;Savannakhet;ZVKA-sky;Savannakhet;LA-sky;Laos
+35243;SCM-sky;Scammon Bay;SCMA-sky;Scammon Bay;US-sky;United States
+35244;YKL-sky;Schefferville;YKLA-sky;Schefferville;CA-sky;Canada
+9588;BFF-sky;Scottsbluff;BFFA-sky;Scottsbluff;US-sky;United States
+8781;SEAA-sky;Seattle;SEAA-sky;NULL;US-sky;United States
+18954;SEB-sky;Sebha;SEBA-sky;Sebha;LY-sky;Libya
+35048;EGM-sky;Sege;EGMA-sky;Seghe;SB-sky;Solomon Islands
+14891;SJY-sky;Seinajoki Ilmajoki;SEIN-sky;Seinajoki;FI-sky;Finland
+4891;SRG-sky;Semarang;SRGI-sky;Semarang;ID-sky;Indonesia
+12342;SZE-sky;Semera;SZEA-sky;NULL;ET-sky;Ethiopia
+3273;SDJ-sky;Sendai;JSDJ-sky;Sendai;JP-sky;Japan
+329;ICN-sky;Seoul Incheon Int'l;SELA-sky;Seoul;KR-sky;South Korea
+28068;YZV-sky;Sept-Iles;YZVA-sky;Sept-Iles;CA-sky;Canada
+15861;SEU-sky;Seronera;SEUA-sky;Seronera;TZ-sky;Tanzania
+1235;ZRI-sky;Serui;ZRII-sky;NULL;ID-sky;Indonesia
+263;SWV-sky;Severo-Evensk;SWVA-sky;NULL;PK-sky;Pakistan
+454;SVQ-sky;Seville;SEVI-sky;Sevilla;ES-sky;Spain
+15383;SFA-sky;Sfax El Maou;SFAX-sky;Sfax;TN-sky;Tunisia
+17144;CQD-sky;Shahre-Kord;CQDA-sky;Shahre-Kord;IR-sky;Iran
+12399;EKS-sky;Shakhtyorsk;SHAK-sky;NULL;RU-sky;Russia
+108;SHA-sky;Shanghai Hongqiao;CSHA-sky;Shanghai;CN-sky;China
+2550;SNN-sky;Shannon;SHAN-sky;Shannon;IE-sky;Ireland
+16278;SWA-sky;Shantou;CSWA-sky;Shantou;CN-sky;China
+16322;SHJ-sky;Sharjah;SHJA-sky;Sharjah;AE-sky;United Arab Emirates
+17;SSH-sky;Sharm El Sheikh;SHAR-sky;Sharm el-Sheikh;EG-sky;Egypt
+22932;SHE-sky;Shenyang;CSHE-sky;Shenyang;CN-sky;China
+4888;SZX-sky;Shenzhen Bao'an International;CSZX-sky;Shenzhen;CN-sky;China
+23702;RKZ-sky;Shigatse Peace Airport;SHIG-sky;NULL;CN-sky;China
+34936;SJW-sky;Shijiazhuang;CSJW-sky;Shijiazhuang;CN-sky;China
+17034;SHL-sky;Shillong;ISHL-sky;Shillong;IN-sky;India
+1138;NGQ-sky;Shiquanhe;SHIQ-sky;NULL;CN-sky;China
+21093;SHM-sky;Shirahama;JSHM-sky;Shirahama;JP-sky;Japan
+3262;SYZ-sky;Shiraz;SYZA-sky;Shiraz;IR-sky;Iran
+20986;FSZ-sky;Shizuoka;FSZA-sky;NULL;JP-sky;Japan
+666;SYO-sky;Shonai;JSYO-sky;Shonai;JP-sky;Japan
+873;SOW-sky;Show Low;SOWA-sky;Show Low;US-sky;United States
+2262;BAD-sky;Shreveport Barksdale AFB;SHVA-sky;NULL;US-sky;United States
+750;IAO-sky;Siargao Island;SIAR-sky;NULL;PH-sky;Philippines
+15618;SBZ-sky;Sibiu;SIBI-sky;Sibiu;RO-sky;Romania
+15620;SBW-sky;Sibu;SBWM-sky;Sibu;MY-sky;Malaysia
+183;SDY-sky;Sidney;SDYA-sky;Sidney;US-sky;United States
+20452;REP-sky;Siem Reap;REPK-sky;Siem Reap;KH-sky;Cambodia
+17190;KOS-sky;Sihanoukville;KOSK-sky;NULL;KH-sky;Cambodia
+5235;SXZ-sky;Siirt;SXZA-sky;NULL;TR-sky;Turkey
+11325;BJX-sky;Silao;BJXS-sky;NULL;MX-sky;Mexico
+16952;IXS-sky;Silchar;IIXS-sky;Silchar;IN-sky;India
+7585;SVK-sky;Silver Creek;SVKA-sky;NULL;BZ-sky;Belize
+24871;SYM-sky;Simao;CSYM-sky;Simao;CN-sky;China
+12341;SIF-sky;Simara;SIFA-sky;Simara;NP-sky;Nepal
+25770;SIP-sky;Simferopol;SIMF-sky;Simferopol;UA-sky;Ukraine
+13339;LSG-sky;Sinabang;SINB-sky;NULL;ID-sky;Indonesia
+1205;SIN-sky;Singapore Changi;SINS-sky;Singapore;SG-sky;Singapore
+13341;SIQ-sky;Singkep;SIQI-sky;NULL;ID-sky;Indonesia
+13340;OPS-sky;Sinop;OPSA-sky;Sinop;BR-sky;Brazil
+531;SQG-sky;Sintang;SQGI-sky;Sintang;ID-sky;Indonesia
+35503;SION-sky;Sion;SION-sky;Sion;CH-sky;Switzerland
+3147;SUX-sky;Sioux City;SUXA-sky;Sioux City;US-sky;United States
+3146;FSD-sky;Sioux Falls;FSDA-sky;Sioux Falls;US-sky;United States
+3149;YXL-sky;Sioux Lookout;YXLA-sky;Sioux Lookout;CA-sky;Canada
+32680;XSB-sky;Sir Bani Yas Island;XSBA-sky;NULL;AE-sky;United Arab Emirates
+5240;NKT-sky;Sirnak;SIRN-sky;Sirnak;TR-sky;Turkey
+12398;JSH-sky;Sitia;SITI-sky;Siteia;GR-sky;Greece
+2304;SIT-sky;Sitka;SITA-sky;Sitka;US-sky;United States
+5053;AKY-sky;Sittwe;AKYM-sky;Sittwe;MM-sky;Myanmar
+5106;VAS-sky;Sivas;SIVA-sky;Sivas;TR-sky;Turkey
+1401;SFT-sky;Skelleftea;SKEL-sky;Skelleftea;SE-sky;Sweden
+3060;JSI-sky;Skiathos Island National;SKIA-sky;Skiathos;GR-sky;Greece
+13986;SKE-sky;Skien Geiterygen;SKIE-sky;Skien;NO-sky;Norway
+17234;SKU-sky;Skiros;SKIR-sky;Skyros;GR-sky;Greece
+4993;SLQ-sky;Sleetmute;SLQA-sky;Sleetmute;US-sky;United States
+4992;SLD-sky;Sliac;SLIA-sky;Sliac;SK-sky;Slovakia
+1207;SNB-sky;Snake Bay;SNBA-sky;Milikapiti;AU-sky;Australia
+12397;AER-sky;Sochi;ADLE-sky;Sochi;RU-sky;Russia
+993;CGK-sky;Soekarno-Hatta;CGKI-sky;Jakarta;ID-sky;Indonesia
+2701;SOF-sky;Sofia;SOFI-sky;Sofia;BG-sky;Bulgaria
+1057;SOG-sky;Sogndal Haukasen;SOGN-sky;Sogndal;NO-sky;Norway
+18613;SKO-sky;Sokoto;SKOA-sky;Sokoto;NG-sky;Nigeria
+2334;SOC-sky;Solo / Surakarta;SOCI-sky;Surakarta (Solo);ID-sky;Indonesia
+2335;CSH-sky;Solovetsky;CSHB-sky;NULL;RU-sky;Russia
+12248;SLI-sky;Solwezi;SLIB-sky;NULL;ZM-sky;Zambia
+855;SGD-sky;Sonderborg;SOND-sky;Sonderborg;DK-sky;Denmark
+1206;JZH-sky;Song Pan;CJZH-sky;Song Pan;CN-sky;China
+15878;SGX-sky;Songea;SGXA-sky;NULL;TZ-sky;Tanzania
+31723;SOJ-sky;Sorkjosen;SORK-sky;Sorkjosen;NO-sky;Norway
+37;SOQ-sky;Sorong;SOQI-sky;Sorong;ID-sky;Indonesia
+24759;TZN-sky;South Andros;TZNA-sky;South Andros;BS-sky;Bahamas
+1702;SBN-sky;South Bend;SBNA-sky;South Bend;US-sky;United States
+1704;XSC-sky;South Caicos;XSCA-sky;South Caicos;TC-sky;Turks and Caicos Islands
+1703;WSN-sky;South Naknek;WSNA-sky;South Naknek;US-sky;United States
+1217;SWJ-sky;South West Bay;SWJV-sky;South West Bay;VU-sky;Vanuatu
+1705;SOU-sky;Southampton;SOUT-sky;Southampton;UK-sky;United Kingdom
+2965;SPU-sky;Split;SPLI-sky;Split;HR-sky;Croatia
+9184;GEG-sky;Spokane International;GEGA-sky;Spokane;US-sky;United States
+15959;AXP-sky;Spring Point;AXPA-sky;Spring Point;BS-sky;Bahamas
+9776;SPI-sky;Springfield;SPIA-sky;Springfield;US-sky;United States
+8844;SGF-sky;Springfield-Branson Rg;SGFA-sky;Springfield;US-sky;United States
+5097;SEK-sky;Srednekolymsk;KSAR-sky;NULL;MA-sky;Morocco
+5241;SXR-sky;Srinagar;ISXR-sky;Srinagar;IN-sky;India
+14140;YAY-sky;St Anthony;YAYA-sky;St Anthony;CA-sky;Canada
+6380;UST-sky;St Augustine;USTB-sky;NULL;US-sky;United States
+1635;SBH-sky;St Barthelemy;SBHA-sky;St Barthelemy;BL-sky;Saint Barthelemy
+1336;STC-sky;St Cloud;STCB-sky;Saint Cloud;US-sky;United States
+651;STXA-sky;St Croix Island;STXA-sky;NULL;VI-sky;Virgin Islands
+5102;EBU-sky;St Etienne;STET-sky;Saint Etienne;FR-sky;France
+1219;EUX-sky;St Eustatius;EUXA-sky;St Eustatius;BQ-sky;Caribbean Netherlands
+723;ACH-sky;St Gallen Altenrhein;ALTF-sky;Altenrhein;CH-sky;Switzerland
+655;SGO-sky;St George;SGOA-sky;St George;AU-sky;Australia
+654;STG-sky;St George Island;STGA-sky;St George Island;US-sky;United States
+6717;YYT-sky;St John's;YYTA-sky;St John's;CA-sky;Canada
+1063;STL-sky;St Louis;STLA-sky;St Louis;US-sky;United States
+1101;SXM-sky;St Maarten;SXMA-sky;St Maarten;SX-sky;St Maarten
+1104;SFG-sky;St Martin Esperance;SFGA-sky;St Martin;GP-sky;Guadeloupe
+21775;SMK-sky;St Michael;SMKA-sky;St Michael;US-sky;United States
+557;LED-sky;St Petersburg Pulkovo;PETE-sky;St Petersburg;RU-sky;Russia
+9643;FSP-sky;St Pierre;FSPA-sky;St Pierre;PM-sky;St. Pierre and Miquelon
+400;GND-sky;St. George;GNDA-sky;Grenada;GD-sky;Grenada
+9577;SNR-sky;St. Nazaire Montoir;STNA-sky;NULL;FR-sky;France
+7044;MPN-sky;Stanley;MPNA-sky;Mount Pleasant;FK-sky;Falkland Islands
+737;SCE-sky;State College;SCEA-sky;State College;US-sky;United States
+9799;SHD-sky;Staunton;SHDA-sky;Staunton;US-sky;United States
+3073;SVG-sky;Stavanger;STAV-sky;Stavanger;NO-sky;Norway
+1312;STW-sky;Stavropol;STAW-sky;Stavropol;RU-sky;Russia
+9763;WBB-sky;Stebbins;WBBA-sky;Stebbins;US-sky;United States
+1735;SML-sky;Stella Maris;SMLA-sky;Stella Maris;BS-sky;Bahamas
+3075;YJT-sky;Stephenville;YJTA-sky;Stephenville;CA-sky;Canada
+3076;SVS-sky;Stevens Village;SVSA-sky;Stevens Village;US-sky;United States
+58;ARN-sky;Stockholm Arlanda;STOC-sky;Stockholm;SE-sky;Sweden
+13654;SKN-sky;Stokmarknes;STOK-sky;Stokmarknes;NO-sky;Norway
+186;YSF-sky;Stony Rapids;YSFA-sky;Stony Rapids;CA-sky;Canada
+185;SRV-sky;Stony River;SRVA-sky;Stony River;US-sky;United States
+14077;SRP-sky;Stord;STOS-sky;Stord;NO-sky;Norway
+6487;SYY-sky;Stornoway;STOR-sky;Stornoway, Outer Stat Hebrides;UK-sky;United Kingdom
+7083;SXB-sky;Strasbourg;STRA-sky;Strasbourg;FR-sky;France
+6488;SOY-sky;Stronsay;SOYA-sky;Stronsay;UK-sky;United Kingdom
+29139;YRR-sky;Stuart Island;YRRA-sky;NULL;CA-sky;Canada
+733;STR-sky;Stuttgart;STUT-sky;Stuttgart;DE-sky;Germany
+734;SGT-sky;Stuttgart;SGTA-sky;NULL;US-sky;United States
+9747;VAO-sky;Suavanao;VAOA-sky;Suavanao;SB-sky;Solomon Islands
+12249;SCV-sky;Suceava Salcea;SUCE-sky;Suceava;RO-sky;Romania
+31521;SRE-sky;Sucre;SREA-sky;Sucre;BO-sky;Bolivia
+16468;YSB-sky;Sudbury;YSBA-sky;Sudbury;CA-sky;Canada
+13607;SYU-sky;Sue Island;SYUA-sky;Warraber Island;AU-sky;Australia
+18612;THS-sky;Sukhothai;THST-sky;Sukhothai;TH-sky;Thailand
+13077;ISU-sky;Sulaymaniyah International;ISUA-sky;Sulaymaniyah;IQ-sky;Iraq
+644;YTG-sky;Sullivan Bay;YTGA-sky;NULL;CA-sky;Canada
+1322;SWQ-sky;Sumbawa;SWQI-sky;Sumbawa Besar;ID-sky;Indonesia
+15863;SUT-sky;Sumbawanga;SUTA-sky;NULL;TZ-sky;Tanzania
+6490;LSI-sky;Sumburgh Shetlands;SUMB-sky;Shetland Islands;UK-sky;United Kingdom
+21758;SUR-sky;Summer Beaver;SURA-sky;Summer Beaver;CA-sky;Canada
+31959;NTY-sky;Sun City;NTYA-sky;Sun City;ZA-sky;South Africa
+1386;SDL-sky;Sundsvall Midlanda;SUND-sky;Sundsvall;SE-sky;Sweden
+9140;MCY-sky;Sunshine Coast;MCYA-sky;Sunshine Coast;AU-sky;Australia
+8932;SUY-sky;Suntar;SUDU-sky;NULL;IS-sky;Iceland
+294;SUB-sky;Surabaya;SUBI-sky;Surabaya;ID-sky;Indonesia
+5237;STV-sky;Surat;ISTV-sky;NULL;IN-sky;India
+5236;URT-sky;Surat Thani;URTT-sky;Surat Thani;TH-sky;Thailand
+12386;SGC-sky;Surgut;SURG-sky;Surgut;RU-sky;Russia
+751;SUG-sky;Surigao;SUGP-sky;Surigao;PH-sky;Philippines
+2702;SUV-sky;Suva;SUVF-sky;Suva;FJ-sky;Fiji
+25466;EVG-sky;Sveg;SVEG-sky;Sveg;SE-sky;Sweden
+182;YQY-sky;Sydney;YQYA-sky;Sydney;CA-sky;Canada
+121;SYD-sky;Sydney Kingsford Smith;SYDA-sky;Sydney;AU-sky;Australia
+12824;SCW-sky;Syktyvkar;SYKT-sky;Syktyvkar;RU-sky;Russia
+7231;ZYL-sky;Sylhet;ZYLA-sky;Sylhet;BD-sky;Bangladesh
+516;SYR-sky;Syracuse;SYRA-sky;Syracuse;US-sky;United States
+12825;JSY-sky;Syros Island;SYRO-sky;Syros Island;GR-sky;Greece
+580;SZZ-sky;Szczecin Goleniow;SZCZ-sky;Szczecin;PL-sky;Poland
+14322;QZD-sky;Szeged;SZEG-sky;NULL;HU-sky;Hungary
+16890;TBJ-sky;Tabarka;TABA-sky;Tabarka;TN-sky;Tunisia
+9055;TCX-sky;Tabas;TCXA-sky;Tabas;IR-sky;Iran
+28254;TBT-sky;Tabatinga;TBTA-sky;Tabatinga;BR-sky;Brazil
+15894;TBO-sky;Tabora;TBOA-sky;Tabora;TZ-sky;Tanzania
+3263;TBZ-sky;Tabriz;TBZA-sky;Tabriz;IR-sky;Iran
+9015;TUU-sky;Tabuk;TUUA-sky;Tabuk;SA-sky;Saudi Arabia
+2021;TAC-sky;Tacloban;TACP-sky;Tacloban;PH-sky;Philippines
+17134;GRF-sky;Tacoma Gray AAF;TIWA-sky;NULL;US-sky;United States
+13314;RMQ-sky;Taichung;RMQT-sky;Taichung;TW-sky;Taiwan
+13315;TIF-sky;Taif;TIFA-sky;Taif;SA-sky;Saudi Arabia
+13317;TNN-sky;Tainan;TNNT-sky;Tainan;TW-sky;Taiwan
+663;TSA-sky;Taipei Sung Shan;TPET-sky;Taipei;TW-sky;Taiwan
+13316;TTT-sky;Taitung;TTTT-sky;Taitung;TW-sky;Taiwan
+1280;TYN-sky;Taiyuan;CTYN-sky;Taiyuan;CN-sky;China
+13313;TAI-sky;Taiz;TAIA-sky;Taizz;YE-sky;Yemen
+21085;TAK-sky;Takamatsu;JTAK-sky;Takamatsu;JP-sky;Japan
+13990;TKX-sky;Takaroa;TKXP-sky;Takaroa;PF-sky;French Polynesia
+9919;TYL-sky;Talara;TYLA-sky;NULL;PE-sky;Peru
+9884;TLH-sky;Tallahassee;TLHA-sky;Tallahassee;US-sky;United States
+11416;TLL-sky;Tallinn;TALL-sky;Tallinn;EE-sky;Estonia
+29005;YYH-sky;Taloyoak;YYHA-sky;Taloyoak;CA-sky;Canada
+2759;TNO-sky;Tamarindo;TNOA-sky;Tamarindo;CR-sky;Costa Rica
+2748;TMU-sky;Tambor;TMUA-sky;Tambor;CR-sky;Costa Rica
+30038;TBW-sky;Tambov;TAMB-sky;NULL;RU-sky;Russia
+21099;TME-sky;Tame;TMEA-sky;Tame;CO-sky;Colombia
+8777;TPA-sky;Tampa International;TPAA-sky;Tampa;US-sky;United States
+2749;TMP-sky;Tampere;TAMP-sky;Tampere;FI-sky;Finland
+29000;TAM-sky;Tampico;TAMA-sky;Tampico;MX-sky;Mexico
+567;TTA-sky;Tan Tan;TANT-sky;NULL;MA-sky;Morocco
+4352;TTR-sky;Tana Toraja;TTRI-sky;NULL;ID-sky;Indonesia
+15884;TNE-sky;Tanegashima;JTNE-sky;Tanegashima;JP-sky;Japan
+14521;TGT-sky;Tanga;TGTA-sky;NULL;TZ-sky;Tanzania
+2385;TNG-sky;Tangier Boukhalef;TANG-sky;Tangier;MA-sky;Morocco
+22812;TVS-sky;Tangshan;TNGS-sky;NULL;CN-sky;China
+12202;TGC-sky;Tanjung Manis;TGCA-sky;NULL;MY-sky;Malaysia
+34614;ZJT-sky;Tanjung Pelepas;ZJTA-sky;NULL;MY-sky;Malaysia
+2854;TNJ-sky;Tanjung Pinang;TNJI-sky;NULL;ID-sky;Indonesia
+34615;TJS-sky;Tanjung Selor;TJSI-sky;Tanjung Selor;ID-sky;Indonesia
+801;TJG-sky;Tanjung Warukin;TJGI-sky;Tanjung Warukin;ID-sky;Indonesia
+18198;TAH-sky;Tanna;TAHV-sky;Tanna Island;VU-sky;Vanuatu
+29003;TAP-sky;Tapachula;TAPA-sky;Tapachula;MX-sky;Mexico
+839;TRK-sky;Tarakan;TRKI-sky;Tarakan;ID-sky;Indonesia
+5188;TCD-sky;Tarapaca;TCDA-sky;NULL;CO-sky;Colombia
+17042;TPP-sky;Tarapoto;TPPA-sky;Tarapoto;PE-sky;Peru
+20184;TRW-sky;Tarawa;TRWA-sky;Tarawa;KI-sky;Kiribati
+20183;TRO-sky;Taree;TROA-sky;Taree;AU-sky;Australia
+199;TQL-sky;Tarko-Sale;TRKO-sky;NULL;RU-sky;Russia
+18595;TAY-sky;Tartu;TAYA-sky;NULL;EE-sky;Estonia
+32040;TUO-sky;Taupo;TUON-sky;Taupo;NZ-sky;New Zealand
+9042;TRG-sky;Tauranga;TRGN-sky;Tauranga;NZ-sky;New Zealand
+14485;TWU-sky;Tawau;TWUM-sky;Tawau;MY-sky;Malaysia
+17341;TWT-sky;Tawitawi;TWTP-sky;Tawi Tawi Island;PH-sky;Philippines
+9056;TEE-sky;Tbessa;TEEA-sky;Tebessa;DZ-sky;Algeria
+23296;TBS-sky;Tbilisi;TBLI-sky;Tbilisi;GE-sky;Georgia
+15571;TFF-sky;Tefe;TFFA-sky;Tefe;BR-sky;Brazil
+25113;TGU-sky;Tegucigalpa;TGUA-sky;Tegucigalpa;HN-sky;Honduras
+3199;IKA-sky;Tehran Imam Khomeini;THRA-sky;Tehran;IR-sky;Iran
+3312;TXF-sky;Teixeira de Freitas;TXFA-sky;NULL;BR-sky;Brazil
+9920;TLA-sky;Teller;TLAA-sky;Teller;US-sky;United States
+9569;KTS-sky;Teller Mission;KTSA-sky;Teller Mission;US-sky;United States
+20343;TEX-sky;Telluride;TEXA-sky;Telluride;US-sky;United States
+29001;TIM-sky;Tembagapura;TIII-sky;Tembagapura/Timika;ID-sky;Indonesia
+6389;TKE-sky;Tenakee Springs;TKEA-sky;Tenakee Springs;US-sky;United States
+391;TFS-sky;Tenerife South;TENE-sky;Tenerife;ES-sky;Spain
+22811;TCZ-sky;Tengchong;TCZA-sky;NULL;CN-sky;China
+4506;TNM-sky;Teniente R. Marsh;TNMA-sky;NULL;AQ-sky;Antarctica
+9016;TPQ-sky;Tepic;TPQA-sky;Tepic;MX-sky;Mexico
+10263;TER-sky;Terceira Lajes;TERC-sky;Terceira;PT-sky;Portugal
+14479;THE-sky;Teresina;THEA-sky;Teresina;BR-sky;Brazil
+7310;TMJ-sky;Termez;TMJA-sky;Termez;UZ-sky;Uzbekistan
+1273;TTE-sky;Ternate;TTEI-sky;Ternate;ID-sky;Indonesia
+6999;YXT-sky;Terrace;YXTA-sky;Terrace;CA-sky;Canada
+17339;TET-sky;Tete Matunda;TETA-sky;Tete;MZ-sky;Mozambique
+1951;ZTB-sky;Tete-a-La-Baleine;ZTBA-sky;Tete-a-la Baleine;CA-sky;Canada
+8729;TTU-sky;Tetuan S. Ramel;TETU-sky;NULL;MA-sky;Morocco
+9915;TXK-sky;Texarkana;TXKA-sky;Texarkana;US-sky;United States
+14697;SNW-sky;Thandwe;SNWM-sky;Thandwe;MM-sky;Myanmar
+12027;THD-sky;Thanh Hoa Tho Xuan;THDV-sky;NULL;VN-sky;Vietnam
+14698;XTG-sky;Thargomindah;XTGA-sky;Thargomindah;AU-sky;Australia
+1421;TBI-sky;The Bight;TBIA-sky;The Bight;BS-sky;Bahamas
+14478;YQD-sky;The Pas;YQDA-sky;The Pas;CA-sky;Canada
+776;AXA-sky;The Valley;AXAA-sky;Anguilla;AI-sky;Anguilla
+14480;TRM-sky;Thermal;TRMA-sky;NULL;US-sky;United States
+9822;SKG-sky;Thessaloniki;THES-sky;Thessaloniki;GR-sky;Greece
+9912;TVF-sky;Thief River Falls;TVFA-sky;Thief River Falls;US-sky;United States
+720;TRV-sky;Thiruvananthapuram;ITRV-sky;Thiruvananthapuram;IN-sky;India
+1380;KTB-sky;Thorne Bay;KTBA-sky;Thorne Bay;US-sky;United States
+13883;YQT-sky;Thunder Bay;YQTA-sky;Thunder Bay;CA-sky;Canada
+22935;TSN-sky;Tianjin;CTSN-sky;Tianjin;CN-sky;China
+35499;TID-sky;Tiaret;TIDA-sky;NULL;DZ-sky;Algeria
+30825;TIJ-sky;Tijuana;TIJA-sky;Tijuana;MX-sky;Mexico
+568;TNC-sky;Tin City;TNCA-sky;Tin City;US-sky;United States
+22557;TGI-sky;Tingo Maria;TGIA-sky;NULL;PE-sky;Peru
+12395;TOD-sky;Tioman;TODM-sky;Tioman Island;MY-sky;Malaysia
+1004;TIA-sky;Tirana;TIRA-sky;Tirana;AL-sky;Albania
+2127;TRE-sky;Tiree;TIRE-sky;Tiree, Inner Hebrides;UK-sky;United Kingdom
+195;TGM-sky;Tirgu Mures;TIRG-sky;Tirgu Mures;RO-sky;Romania
+23860;TII-sky;Tirinkot;TIIA-sky;NULL;AF-sky;Afghanistan
+13911;TRZ-sky;Tiruchirapalli;ITRZ-sky;Tiruchchirappalli;IN-sky;India
+17041;TIR-sky;Tirupati;ITIR-sky;Tirupati;IN-sky;India
+506;TAB-sky;Tobago;TOBB-sky;Tobago;TT-sky;Trinidad and Tobago
+16889;TOB-sky;Tobruk;TOBA-sky;Tobruk;LY-sky;Libya
+21843;TKJ-sky;Tok;TKJA-sky;Tok;US-sky;United States
+5245;TJK-sky;Tokat;TJKA-sky;NULL;TR-sky;Turkey
+21845;OOK-sky;Toksook Bay;OOKA-sky;Toksook Bay;US-sky;United States
+21844;TKN-sky;Tokunoshima;JTKN-sky;Tokunoshima;JP-sky;Japan
+21094;TKS-sky;Tokushima;JTKS-sky;Tokushima;JP-sky;Japan
+1253;TYOA-sky;Tokyo;TYOA-sky;NULL;JP-sky;Japan
+9035;TOL-sky;Toledo Express;TOLA-sky;Toledo;US-sky;United States
+29004;TLC-sky;Toluca;TLCA-sky;Mexico City;MX-sky;Mexico
+12376;TOF-sky;Tomsk;TOMS-sky;Tomsk;RU-sky;Russia
+14518;TNH-sky;Tonghua;CTNH-sky;NULL;CN-sky;China
+12410;TGO-sky;Tongliao;CTGO-sky;Tongliao;CN-sky;China
+1256;TGH-sky;Tongoa;TGHV-sky;Tongoa Island;VU-sky;Vanuatu
+13912;TEN-sky;Tongren;CTEN-sky;Tongren;CN-sky;China
+8778;TWB-sky;Toowoomba;TWBA-sky;Toowoomba;AU-sky;Australia
+1269;YTOA-sky;Toronto;YTOA-sky;NULL;CA-sky;Canada
+6703;TRC-sky;Torreon;TRCA-sky;Torreon;MX-sky;Mexico
+7000;TOH-sky;Torres;TOHV-sky;Torres Islands;VU-sky;Vanuatu
+288;TOV-sky;Tortola West End SPB;TOVA-sky;Tortola;VG-sky;British Virgin Islands
+21108;TTJ-sky;Tottori;JTTJ-sky;Tottori;JP-sky;Japan
+12514;TGR-sky;Touggourt;TGRA-sky;NULL;DZ-sky;Algeria
+12513;TOU-sky;Touho;TOUN-sky;Touho;NC-sky;New Caledonia
+11417;TLN-sky;Toulon-HyÌ¬res;TOUL-sky;Toulon;FR-sky;France
+1491;TLS-sky;Toulouse;TOUS-sky;Toulouse;FR-sky;France
+6998;TUF-sky;Tours;TOUR-sky;Tours;FR-sky;France
+35507;TSVA-sky;Townsville;TSVA-sky;Townsville;AU-sky;Australia
+21097;TOY-sky;Toyama;JTOY-sky;Toyama;JP-sky;Japan
+2130;TJL-sky;TrÌ»s Lagoas;TJLA-sky;Tres Lagoas;BR-sky;Brazil
+5162;TZX-sky;Trabzon;TRAB-sky;Trabzon;TR-sky;Turkey
+13323;YZZ-sky;Trail;YZZA-sky;Trail;CA-sky;Canada
+9041;TST-sky;Trang;TSTT-sky;Trang;TH-sky;Thailand
+10065;TPS-sky;Trapani Birgi;TRAP-sky;Trapani;IT-sky;Italy
+18594;TDX-sky;Trat;TDXT-sky;Trat;TH-sky;Thailand
+9908;TVC-sky;Traverse City;TVCA-sky;Traverse City;US-sky;United States
+2129;TCB-sky;Treasure Cay;TCBA-sky;Treasure Cay;BS-sky;Bahamas
+2128;REL-sky;Trelew;RELA-sky;Trelew;AR-sky;Argentina
+681;TRI-sky;Tri-Cities;TRIA-sky;Bristol, VA/Johnson City/Kingsport;US-sky;United States
+679;TRS-sky;Trieste;TRIE-sky;Trieste;IT-sky;Italy
+9043;TRR-sky;Trincomalee;TRRA-sky;NULL;LK-sky;Sri Lanka
+1268;TDD-sky;Trinidad;TDDA-sky;Trinidad;BO-sky;Bolivia
+22413;THN-sky;Trollhattan;TROL-sky;Trollhattan;SE-sky;Sweden
+16416;TMT-sky;Trombetas;TMTA-sky;Trombetas;BR-sky;Brazil
+7308;TOS-sky;Tromso;TROM-sky;Tromso;NO-sky;Norway
+1272;TRD-sky;Trondheim;TRON-sky;Trondheim;NO-sky;Norway
+200;TKK-sky;Truk;TKKA-sky;Chuuk;FM-sky;Micronesia
+21095;TSJ-sky;Tsushima;JTSJ-sky;Tsushima;JP-sky;Japan
+9909;TUS-sky;Tucson International;TUSA-sky;Tucson;US-sky;United States
+13989;TUR-sky;Tucurui;TURA-sky;Tucurui;BR-sky;Brazil
+15572;TFI-sky;Tufi;TFIP-sky;Tufi;PG-sky;Papua New Guinea
+9918;TLE-sky;Tulear;TLEA-sky;Toliara;MG-sky;Madagascar
+7012;ZFN-sky;Tulita / Fort Norman;ZFNA-sky;Tulita;CA-sky;Canada
+1496;TUL-sky;Tulsa International;TULB-sky;Tulsa;US-sky;United States
+756;TUN-sky;Tunis Carthage;TUNI-sky;Tunis;TN-sky;Tunisia
+34600;TNK-sky;Tununak;TNKA-sky;Tununak;US-sky;United States
+6387;TXN-sky;Tunxi;CTXN-sky;Huangshan;CN-sky;China
+10320;TUP-sky;Tupelo;TUPA-sky;Tupelo;US-sky;United States
+17043;TUK-sky;Turbat;TUKA-sky;Turbat;PK-sky;Pakistan
+20185;ZTA-sky;Tureia;ZTAA-sky;NULL;PF-sky;French Polynesia
+6699;TRN-sky;Turin;TURI-sky;Turin;IT-sky;Italy
+1263;CRZ-sky;Turkmenabad;CRZA-sky;NULL;TM-sky;Turkmenistan
+1264;KRW-sky;Turkmenbashi;KRWA-sky;NULL;TM-sky;Turkmenistan
+196;TKU-sky;Turku;TURK-sky;Turku;FI-sky;Finland
+840;THX-sky;Turukhansk;THXA-sky;NULL;RU-sky;Russia
+9914;TCR-sky;Tuticorin;ITCR-sky;NULL;IN-sky;India
+29019;TGZ-sky;Tuxtla Gutierrez;TGZA-sky;Tuxtla Gutierrez;MX-sky;Mexico
+34680;TBB-sky;Tuy Hoa;TBBV-sky;Tuy Hoa;VN-sky;Vietnam
+9913;TWF-sky;Twin Falls;TWFA-sky;Twin Falls;US-sky;United States
+4609;TWA-sky;Twin Hills;TWAA-sky;Twin Hills;US-sky;United States
+9917;TYR-sky;Tyler;TYRA-sky;Tyler;US-sky;United States
+12394;TJM-sky;Tyumen;TYUM-sky;Tyumen;RU-sky;Russia
+6482;UAH-sky;Ua Huka;UAHP-sky;Ua Huka;PF-sky;French Polynesia
+21105;UBA-sky;Uberaba;UBAA-sky;Uberaba;BR-sky;Brazil
+15003;UDI-sky;Uberlandia;UDIA-sky;Uberlandia;BR-sky;Brazil
+94;UBP-sky;Ubon Ratchathani;UBPT-sky;Ubon Ratchathani;TH-sky;Thailand
+16966;UDR-sky;Udaipur;IUDR-sky;Udaipur;IN-sky;India
+5100;UTH-sky;Udon Thani;UTHT-sky;Udon Thani;TH-sky;Thailand
+12407;UFA-sky;Ufa;UFAI-sky;Ufa;RU-sky;Russia
+20971;UCT-sky;Ukhta;UKHT-sky;Ukhta;RU-sky;Russia
+1287;UKA-sky;Ukunda;UKAA-sky;NULL;KE-sky;Kenya
+25943;ULN-sky;Ulaanbaatar;ULNA-sky;Ulaanbaatar;MN-sky;Mongolia
+25946;ULO-sky;Ulaangom;ULOA-sky;Ulaangom;MN-sky;Mongolia
+3288;UUD-sky;Ulan-Ude;ULAN-sky;Ulan-Ude;RU-sky;Russia
+14545;HLH-sky;Ulanhot;CHLH-sky;Ulanhot;CN-sky;China
+9335;ULZ-sky;Uliastai;ULZA-sky;Uliastai;MN-sky;Mongolia
+7301;USN-sky;Ulsan;USNA-sky;Ulsan;KR-sky;South Korea
+2220;ULV-sky;Ulyanovsk Baratayevka;ULYA-sky;NULL;RU-sky;Russia
+1404;UME-sky;Umea;UMEA-sky;Umea;SE-sky;Sweden
+31958;UNK-sky;Unalakleet;UNKA-sky;Unalakleet;US-sky;United States
+25374;JUV-sky;Upernavik;JUVA-sky;Upernavik;GL-sky;Greenland
+9320;YBE-sky;Uranium City;YBEA-sky;Uranium City;CA-sky;Canada
+797;UGC-sky;Urgench;UGCA-sky;Urgench;UZ-sky;Uzbekistan
+3249;OMH-sky;Urmieh;OMHA-sky;Urumiyeh;IR-sky;Iran
+25790;URG-sky;Uruguaiana;URGA-sky;NULL;BR-sky;Brazil
+22964;URC-sky;Urumqi;CURC-sky;Urumqi;CN-sky;China
+5247;USQ-sky;Usak;USQA-sky;NULL;TR-sky;Turkey
+16329;USH-sky;Ushuaia;USHA-sky;Ushuaia;AR-sky;Argentina
+13347;USK-sky;Usinsk;USIN-sky;Usinsk;RU-sky;Russia
+2236;UKK-sky;Ust-Kamenogorsk;UKKA-sky;Ust-Kamenogorsk;KZ-sky;Kazakhstan
+2239;UKX-sky;Ust-Kut;USTK-sky;NULL;RU-sky;Russia
+2237;UKG-sky;Ust-Kuyga;UKGA-sky;NULL;RU-sky;Russia
+3194;UMS-sky;Ust-Maya;UMSA-sky;NULL;RU-sky;Russia
+212;USR-sky;Ust-Nera Airport;USRC-sky;NULL;RU-sky;Russia
+5165;KNG-sky;Utarom / Kaimana;KNGI-sky;NULL;ID-sky;Indonesia
+16970;UMD-sky;Uummannaq;UMDA-sky;Uummannaq;GL-sky;Greenland
+6480;QUO-sky;Uyo;UYOA-sky;NULL;NG-sky;Nigeria
+4889;UYU-sky;Uyuni;UYUA-sky;NULL;BO-sky;Bolivia
+11212;VAA-sky;Vaasa;VAAS-sky;Vaasa;FI-sky;Finland
+1837;BDQ-sky;Vadodara;IBDQ-sky;Vadodara;IN-sky;India
+7361;VRY-sky;Vaeroy Stolport;VAER-sky;Vaeroy;NO-sky;Norway
+27;EGE-sky;Vail Eagle County;EGEA-sky;Vail/Eagle;US-sky;United States
+9081;YVO-sky;Val D'Or;YVOA-sky;Val d'Or;CA-sky;Canada
+9922;VDZ-sky;Valdez;VDZA-sky;Valdez;US-sky;United States
+12382;ZAL-sky;Valdivia;ZALA-sky;Valdivia;CL-sky;Chile
+311;VLD-sky;Valdosta Regional;VLDA-sky;Valdosta;US-sky;United States
+695;VAL-sky;Valenca;VALA-sky;NULL;BR-sky;Brazil
+380;VLC-sky;Valencia;VALE-sky;Valencia;ES-sky;Spain
+381;VLN-sky;Valencia;VLNA-sky;Valencia;VE-sky;Venezuela
+12675;VLV-sky;Valera;VLVA-sky;Valera;VE-sky;Venezuela
+12676;VLS-sky;Valesdir;VLSV-sky;Valesdir;VU-sky;Vanuatu
+532;VLL-sky;Valladolid;VALL-sky;Valladolid;ES-sky;Spain
+12677;VUP-sky;Valledupar;VUPA-sky;Valledupar;CO-sky;Colombia
+9926;VPS-sky;Valparaiso Ft. Walton Beach;VPSA-sky;Valparaiso;US-sky;United States
+12678;VDE-sky;Valverde Hierro;VALV-sky;Valverde;ES-sky;Spain
+4422;VAN-sky;Van;VANI-sky;Van;TR-sky;Turkey
+2652;YVRA-sky;Vancouver;YVRA-sky;NULL;CA-sky;Canada
+5154;VAI-sky;Vanimo;VAIP-sky;Vanimo;PG-sky;Papua New Guinea
+5153;VBV-sky;Vanuabalavu;VBVF-sky;Vanuabalavu Island;FJ-sky;Fiji
+1810;VRA-sky;Varadero;VRAA-sky;Varadero;CU-sky;Cuba
+82;VNS-sky;Varanasi;IVNS-sky;Varanasi;IN-sky;India
+10762;VAW-sky;Vardoe Lufthaun;VARD-sky;Vardo;NO-sky;Norway
+1536;VAR-sky;Varna;VARN-sky;Varna;BG-sky;Bulgaria
+1403;VXO-sky;Vaxjo;VAXJ-sky;Vaxjo;SE-sky;Sweden
+2238;VUS-sky;Velikij Ustyug;USTY-sky;Veliky Ustyug;RU-sky;Russia
+6848;VEE-sky;Venetie;VEEA-sky;Venetie;US-sky;United States
+52;VCE-sky;Venice Marco Polo;VENI-sky;Venice;IT-sky;Italy
+4692;VER-sky;Veracruz;VERA-sky;Veracruz;MX-sky;Mexico
+9;VBS-sky;Verona Brescia;VERO-sky;BRESCIA;IT-sky;Italy
+4918;VIC-sky;Vicenza;VICE-sky;NULL;IT-sky;Italy
+12236;VCT-sky;Victoria;VCTA-sky;Victoria;US-sky;United States
+12233;VFA-sky;Victoria Falls;VFAA-sky;Victoria Falls;ZW-sky;Zimbabwe
+2604;YWH-sky;Victoria Inner Harbor;YYJA-sky;Victoria;CA-sky;Canada
+12238;KDW-sky;Victoria Resevour Kandy;KDWA-sky;Kandy;LK-sky;Sri Lanka
+6742;VDM-sky;Viedma;VDMA-sky;Viedma;AR-sky;Argentina
+4421;VIE-sky;Vienna;VIEN-sky;Vienna;AT-sky;Austria
+4917;VTE-sky;Vientiane;VTEL-sky;Vientiane;LA-sky;Laos
+6741;VQS-sky;Vieques;VQSA-sky;Vieques;PR-sky;Puerto Rico
+6743;VIF-sky;Vieste;VIFA-sky;NULL;IT-sky;Italy
+517;VGO-sky;Vigo;VIGO-sky;Vigo;ES-sky;Spain
+17050;VGA-sky;Vijayawada;IVGA-sky;NULL;IN-sky;India
+13797;MMO-sky;Vila Do Maio;MMOA-sky;Maio Island;CV-sky;Cape Verde
+696;VNX-sky;Vilanculos;VNXA-sky;Vilankulos;MZ-sky;Mozambique
+1410;VHM-sky;Vilhelmina Sagadal;VILH-sky;Vilhelmina;SE-sky;Sweden
+12685;BVH-sky;Vilhena;BVHA-sky;Vilhena;BR-sky;Brazil
+9082;VLG-sky;Villa Gesell;VLGA-sky;NULL;AR-sky;Argentina
+9080;VME-sky;Villa Mercedes;VMEA-sky;Villa Mercedes;AR-sky;Argentina
+15175;VGZ-sky;Villagarzon;VGZA-sky;NULL;CO-sky;Colombia
+15173;VSA-sky;Villahermosa;VSAA-sky;Villahermosa;MX-sky;Mexico
+15174;VVC-sky;Villavicencio;VVCA-sky;Villavicencio;CO-sky;Colombia
+382;VNO-sky;Vilnius;VILN-sky;Vilnius;LT-sky;Lithuania
+4423;VII-sky;Vinh City;VIIV-sky;Vinh City;VN-sky;Vietnam
+9137;VRC-sky;Virac;VRCP-sky;Virac;PH-sky;Philippines
+1306;VIJ-sky;Virgin Gorda;VIJA-sky;Virgin Gorda;VG-sky;British Virgin Islands
+6363;VTZ-sky;Visakhapatnam;IVTZ-sky;Vishakhapatnam;IN-sky;India
+11206;VIS-sky;Visalia;VISA-sky;Visalia;US-sky;United States
+1402;VBY-sky;Visby;VISB-sky;Visby;SE-sky;Sweden
+12231;VIX-sky;Vitoria;VIXA-sky;Vitoria;BR-sky;Brazil
+12232;VIT-sky;Vitoria;VITO-sky;Vitoria;ES-sky;Spain
+9265;VDC-sky;Vitoria Da Conquista;VDCA-sky;Vitoria Da Conquista;BR-sky;Brazil
+12385;OGZ-sky;Vladikavkaz;VLAE-sky;Vladikavkaz;RU-sky;Russia
+12381;VVO-sky;Vladivostok;VLAD-sky;Vladivostok;RU-sky;Russia
+12406;VOG-sky;Volgograd;VOLH-sky;Volgograd;RU-sky;Russia
+17236;VOL-sky;Volos;VOLP-sky;Volos;GR-sky;Greece
+25957;VOZ-sky;Voronezh;VORO-sky;Voronezh;RU-sky;Russia
+14191;VTG-sky;Vung Tau;VTGV-sky;NULL;VN-sky;Vietnam
+6481;ACT-sky;Waco Municipal;ACTA-sky;Waco;US-sky;United States
+3290;WAE-sky;Wadi Ad Dawasir;WAEA-sky;Wadi al Dawaser;SA-sky;Saudi Arabia
+6479;WGA-sky;Wagga Wagga;WGAA-sky;Wagga Wagga;AU-sky;Australia
+1350;WGP-sky;Waingapu;WGPI-sky;Waingapu;ID-sky;Indonesia
+21050;NTQ-sky;Wajima;JNTQ-sky;Wajima;JP-sky;Japan
+9118;WKJ-sky;Wakkanai;JWKJ-sky;Wakkanai;JP-sky;Japan
+28066;WAA-sky;Wales;WAAA-sky;Wales;US-sky;United States
+9126;ALW-sky;Walla Walla;ALWA-sky;Walla Walla;US-sky;United States
+1226;WLS-sky;Wallis Island;WLSA-sky;Wallis Island;WF-sky;Wallis and Futuna Islands
+1159;WMX-sky;Wamena;WMXI-sky;Wamena;ID-sky;Indonesia
+10161;WAG-sky;Wanganui;WAGN-sky;Wanganui;NZ-sky;New Zealand
+14899;WXN-sky;Wanxian;CWXN-sky;Wanzhou;CN-sky;China
+2030;QRW-sky;Warri;QRWA-sky;Warri;NG-sky;Nigeria
+2031;WMB-sky;Warrnambool;WMBA-sky;NULL;AU-sky;Australia
+541;WARS-sky;Warsaw;WARS-sky;NULL;PL-sky;Poland
+1495;IAD-sky;Washington Dulles;WASA-sky;Washington;US-sky;United States
+2602;YKQ-sky;Waskaganish;YKQA-sky;Waskaganish;CA-sky;Canada
+12743;WAT-sky;Waterford;WATE-sky;Waterford;IE-sky;Ireland
+9049;ALO-sky;Waterloo;ALOA-sky;Waterloo;US-sky;United States
+2377;ART-sky;Watertown;ARTA-sky;Watertown;US-sky;United States
+2378;ATY-sky;Watertown;ATYA-sky;Watertown;US-sky;United States
+849;CWA-sky;Wausau Central Wisconsin;AUWA-sky;Wausau;US-sky;United States
+34991;WEF-sky;Weifang;CWEF-sky;Weifang;CN-sky;China
+22965;WEH-sky;Weihai;CWEH-sky;Weihai;CN-sky;China
+15367;WEI-sky;Weipa;WEIA-sky;Weipa;AU-sky;Australia
+26036;WLG-sky;Wellington;WLGN-sky;Wellington;NZ-sky;New Zealand
+9072;EAT-sky;Wenatchee;EATA-sky;Wenatchee;US-sky;United States
+22866;WNH-sky;Wenshan Puzhehei;WNHA-sky;Wenshan;CN-sky;China
+22968;WNZ-sky;Wenzhou;CWNZ-sky;Wenzhou;CN-sky;China
+375;PBI-sky;West Palm Beach International;PBIA-sky;West Palm Beach;US-sky;United States
+3192;WYS-sky;West Yellowstone;WYSA-sky;West Yellowstone;US-sky;United States
+29;HPN-sky;Westchester County;HPNA-sky;Westchester County;US-sky;United States
+105;GWT-sky;Westerland;WEST-sky;Westerland;DE-sky;Germany
+17120;WSZ-sky;Westport;WSZN-sky;Westport;NZ-sky;New Zealand
+99;WRY-sky;Westray;WRYA-sky;Westray;UK-sky;United Kingdom
+23851;WSX-sky;Westsound;WSXA-sky;Westsound;US-sky;United States
+23975;WWK-sky;Wewak;WWKP-sky;Wewak;PG-sky;Papua New Guinea
+14733;YLE-sky;Wha Ti / Lac La Martre;YLEA-sky;Whati;CA-sky;Canada
+9596;WHK-sky;Whakatane;WHKN-sky;Whakatane;NZ-sky;New Zealand
+25758;YXN-sky;Whale Cove;YXNA-sky;Whale Cove;CA-sky;Canada
+9096;WWP-sky;Whale Pass;WWPA-sky;Whale Pass;US-sky;United States
+5120;WRE-sky;Whangarei;WREN-sky;Whangarei;NZ-sky;New Zealand
+9929;YWS-sky;Whistler;YWSA-sky;Whistler;CA-sky;Canada
+1082;WMO-sky;White Mountain;WMOA-sky;White Mountain;US-sky;United States
+3133;WTZ-sky;Whitianga;WTZN-sky;NULL;NZ-sky;New Zealand
+9312;SPS-sky;Wichita Falls Sheppard AFB;SPSA-sky;Wichita Falls;US-sky;United States
+1315;ICT-sky;Wichita Mid-Continent;ICTA-sky;Wichita;US-sky;United States
+6477;WIC-sky;Wick;WICK-sky;Wick;UK-sky;United Kingdom
+815;AVP-sky;Wilkes-Barre International;AVPA-sky;Wilkes-Barre;US-sky;United States
+9051;YWL-sky;Williams Lake;YWLA-sky;Williams Lake;CA-sky;Canada
+9052;IPT-sky;Williamsport;IPTA-sky;Williamsport;US-sky;United States
+9333;ISN-sky;Williston;ISNA-sky;Williston;US-sky;United States
+9317;ILM-sky;Wilmington;ILMA-sky;Wilmington;US-sky;United States
+16319;WUN-sky;Wiluna;WUNA-sky;Wiluna;AU-sky;Australia
+770;WDHA-sky;Windhoek;WDHA-sky;NULL;NA-sky;Namibia
+35500;WINB-sky;Winnipeg;WINB-sky;Winnipeg;CA-sky;Canada
+2694;INT-sky;Winston-Salem;INTB-sky;NULL;US-sky;United States
+9336;ZWL-sky;Wollaston Lake;ZWLA-sky;Wollaston Lake;CA-sky;Canada
+22969;WJU-sky;WonJu;WJUA-sky;Wonju;KR-sky;South Korea
+9603;ORH-sky;Worcester;ORHA-sky;Worcester;US-sky;United States
+61;WRL-sky;Worland;WRLA-sky;Worland;US-sky;United States
+9928;WRG-sky;Wrangell;WRGA-sky;Wrangell;US-sky;United States
+1577;YWY-sky;Wrigley;YWYA-sky;NULL;CA-sky;Canada
+1576;WRO-sky;Wroclaw;WROC-sky;Wroclaw;PL-sky;Poland
+34678;WUA-sky;Wu Hai;CWUA-sky;NULL;CN-sky;China
+22976;WUH-sky;Wuhan;CWUH-sky;Wuhan;CN-sky;China
+22789;WUX-sky;Wuxi;CWUX-sky;NULL;CN-sky;China
+25284;WUS-sky;Wuyishan;CWUS-sky;Wuyishan;CN-sky;China
+4887;XIY-sky;Xi An Xianyang;XIAN-sky;Xi'an;CN-sky;China
+22973;XMN-sky;Xiamen;CXMN-sky;Xiamen;CN-sky;China
+35036;XFN-sky;Xiangfan;CXFN-sky;Xiangyang;CN-sky;China
+13987;XIC-sky;Xichang;CXIC-sky;Xichang;CN-sky;China
+15879;XKH-sky;Xieng Khouang;XKHA-sky;Phonsavan;LA-sky;Laos
+35037;XIL-sky;Xilinhot;CXIL-sky;Xilinhot;CN-sky;China
+15880;ACX-sky;Xingyi;CACX-sky;NULL;CN-sky;China
+9806;XNN-sky;Xining;CXNN-sky;Xining;CN-sky;China
+35047;XUZ-sky;Xuzhou;CXUZ-sky;Xuzhou;CN-sky;China
+12071;BYC-sky;Yacuiba;BYCA-sky;Yacuiba;BO-sky;Bolivia
+914;YKM-sky;Yakima Air Terminal;YKMA-sky;Yakima;US-sky;United States
+9932;YAK-sky;Yakutat;YAKA-sky;Yakutat;US-sky;United States
+25810;YKS-sky;Yakutsk;YAKU-sky;Yakutsk;RU-sky;Russia
+1407;XMY-sky;Yam Island;XMYA-sky;Yam Island;AU-sky;Australia
+20984;GAJ-sky;Yamagata;JGAJ-sky;Yamagata;JP-sky;Japan
+15372;UBJ-sky;Yamaguchi Ube;JUBJ-sky;Ube;JP-sky;Japan
+17139;ENY-sky;Yan'an;CENY-sky;NULL;CN-sky;China
+12334;YNB-sky;Yanbu;YNBA-sky;Yanbu al Bahr;SA-sky;Saudi Arabia
+22865;YNZ-sky;Yancheng;CYNZ-sky;Yancheng;CN-sky;China
+10160;RGN-sky;Yangon;RGNM-sky;Yangon;MM-sky;Myanmar
+10162;YNY-sky;Yangyang;YNYA-sky;Yangyang;KR-sky;South Korea
+25508;YTY-sky;Yangzhou Taizhou Airport;YANG-sky;NULL;CN-sky;China
+22970;YNJ-sky;Yanji;CYNJ-sky;Yanji;CN-sky;China
+22999;YNT-sky;Yantai;CYNT-sky;Yantai;CN-sky;China
+987;NSI-sky;Yaounde Nsimalen;YAOA-sky;Yaounde;CM-sky;Cameroon
+15374;YAP-sky;Yap;YAPA-sky;Yap;FM-sky;Micronesia
+29985;IAR-sky;Yaroslavl;YARO-sky;NULL;RU-sky;Russia
+3189;AZD-sky;Yazd;AZDA-sky;Yazd;IR-sky;Iran
+351;YZF-sky;Yellowknife;YELB-sky;Yellowknife;CA-sky;Canada
+26233;EVN-sky;Yerevan;EVNA-sky;Yerevan;AM-sky;Armenia
+95;YBP-sky;Yibin;CYBP-sky;Yibin;CN-sky;China
+3132;YIH-sky;Yichang;CYIH-sky;Yichang;CN-sky;China
+90;LDS-sky;Yichun Lindu;YICH-sky;NULL;CN-sky;China
+22862;INC-sky;Yinchuan;CINC-sky;Yinchuan;CN-sky;China
+34761;YIN-sky;Yining;CYIN-sky;Yining;CN-sky;China
+35082;YIW-sky;Yiwu;CYIW-sky;Yiwu;CN-sky;China
+26234;JOG-sky;Yogyakarta;JOGI-sky;Yogyakarta;ID-sky;Indonesia
+21110;YGJ-sky;Yonago;JYGJ-sky;Yonago;JP-sky;Japan
+21767;OGN-sky;Yonaguni Jima;JOGN-sky;Yonaguni;JP-sky;Japan
+1016;OKR-sky;Yorke Island;OKRA-sky;Yorke Island;AU-sky;Australia
+2005;RNJ-sky;Yoronjima;JRNJ-sky;Yoron;JP-sky;Japan
+14897;YNG-sky;Youngstown;YNGA-sky;Youngstown;US-sky;United States
+18576;YKO-sky;Yuksekova;YKOA-sky;NULL;TR-sky;Turkey
+16318;UYN-sky;Yulin;CUYN-sky;Yulin;CN-sky;China
+1406;YUM-sky;Yuma International;YUMA-sky;Yuma;US-sky;United States
+22864;YCU-sky;Yun Cheng;YCUA-sky;Yun Cheng;CN-sky;China
+9115;UUS-sky;Yuzhno-Sakhalinsk;YUZH-sky;Yuzhno-Sakhalinsk;RU-sky;Russia
+11364;ACZ-sky;Zabol;ACZA-sky;NULL;IR-sky;Iran
+30832;ZCL-sky;Zacatecas;ZCLA-sky;Zacatecas;MX-sky;Mexico
+12846;ZAD-sky;Zadar;ZADA-sky;Zadar;HR-sky;Croatia
+261;ZAG-sky;Zagreb;ZAGR-sky;Zagreb;HR-sky;Croatia
+3261;ZAH-sky;Zahedan;ZAHA-sky;Zahedan;IR-sky;Iran
+15864;ZAM-sky;Zamboanga International;PZAM-sky;Zamboanga;PH-sky;Philippines
+1387;ZTH-sky;Zante (Zakynthos);ZAKI-sky;Zakinthos Island;GR-sky;Greece
+538;ZNZ-sky;Zanzibar;ZNZA-sky;Zanzibar;TZ-sky;Tanzania
+25776;OZH-sky;Zaporozhye;ZAPO-sky;Zaporizhzhia;UA-sky;Ukraine
+515;ZAZ-sky;Zaragoza;ZARA-sky;Zaragoza;ES-sky;Spain
+2428;ZAJ-sky;Zaranj;ZAJA-sky;NULL;AF-sky;Afghanistan
+690;DMB-sky;Zhambyl;DMBA-sky;Taraz;KZ-sky;Kazakhstan
+22785;ZQZ-sky;Zhangjiakou;ZHAN-sky;NULL;CN-sky;China
+22870;ZHA-sky;Zhanjiang;CZHA-sky;Zhanjiang;CN-sky;China
+35118;ZAT-sky;Zhaotong;CZAT-sky;Zhaotong;CN-sky;China
+22784;CGO-sky;Zhengzhou;CCGO-sky;Zhengzhou;CN-sky;China
+34693;HSN-sky;Zhoushan;CHSN-sky;Zhoushan;CN-sky;China
+23009;ZUH-sky;Zhuhai;CZUH-sky;Zhuhai;CN-sky;China
+3120;IEG-sky;Zielona Gora Babimost;ZIEL-sky;Zielona Gora;PL-sky;Poland
+13984;ZIG-sky;Ziguinchor;ZIGA-sky;Ziguinchor;SN-sky;Senegal
+1213;ONQ-sky;Zonguldak;ONQA-sky;NULL;TR-sky;Turkey
+5239;OUZ-sky;Zouerate;OUZA-sky;Zouerate;MR-sky;Mauritania
+1442;ZYI-sky;Zunyi;CZYI-sky;NULL;CN-sky;China
+749;ZRH-sky;Zurich;ZURI-sky;Zurich;CH-sky;Switzerland
+3306;ZQW-sky;ZweibrÌ_cken;ZQWA-sky;Saarbruecken;DE-sky;Germany
+5242;ZKP-sky;Zyryanka Airport;ZKPC-sky;NULL;RU-sky;Russia
